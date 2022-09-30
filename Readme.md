@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fbritoferreira/)](https://www.linkedin.com/in/fbritoferreira/)
+[![Linkedin](https://img.shields.io/badge/fbritoferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fbritoferreira/)](https://www.linkedin.com/in/fbritoferreira/)
 [![GitHub](https://img.shields.io/github/followers/fbritoferreira?label=follow&style=social)](https://github.com/fbritoferreira)
 
 ---
 - 🔭 I’m currently working as **Software Developer @ Sky**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/fbritoferreira)
+
+**[@fbritoferreira](https://twitter.com/fbritoferreira)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbritoferreira&layout=compact&theme=dark&hide_border=true)
 
