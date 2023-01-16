@@ -1,16 +1,17 @@
 # Filipe Brito Ferreira
 
-> Software developer with AWS infrastructure and DevOps capabilities. Passionate about all aspects of programming and development. Open-minded and willing to learn. I aim to be an asset to any team I work in.
+>Software developer with AWS infrastructure and DevOps capabilities. Passionate about all aspects of programming and development. Open-minded and willing to learn. I aim to be an asset to any team I work in.
+
+# ☎️ Contact information
+
+- 📧 [filipebritoferreira96@gmail.com](mailto:filipebritoferreira96@gmail.com)
+- 🔗  [https://twitter.com/fbritoferreira](https://twitter.com/fbritoferreira)
+- 🔗  [https://www.linkedin.com/in/fbritoferreira](https://www.linkedin.com/in/fbritoferreira?original_referer=)
+- 🔗 [https://github.com/fbritoferreira](https://github.com/fbritoferreira/)
+- 🔗 [https://fbritoferreira.com/](https://fbritoferreira.com/)
 
 
-
-[![Linkedin](https://img.shields.io/badge/fbritoferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fbritoferreira/)](https://www.linkedin.com/in/fbritoferreira/)
-[![GitHub](https://img.shields.io/github/followers/fbritoferreira?label=follow&style=social)](https://github.com/fbritoferreira)
-[![GitHub](https://img.shields.io/twitter/follow/fbritoferreira?style=social)](https://twitter.com/fbritoferreira)
-
-
-
-# Experience
+# 👩🏻‍💻 Work experience
 
 ### Software Engineer
 
