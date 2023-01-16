@@ -1,6 +1,6 @@
 # Filipe Brito Ferreira
 
-> Software developer with AWS infrastructure and DevOps capabilities. Passionate about all aspects of programming and development has contributed to open source projects. Open-minded and willing to learn. I aim to be an asset to any team I work in.
+> Software developer with AWS infrastructure and DevOps capabilities. Passionate about all aspects of programming and development. Open-minded and willing to learn. I aim to be an asset to any team I work in.
 
 
 
