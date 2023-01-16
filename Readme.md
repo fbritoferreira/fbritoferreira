@@ -1,3 +1,9 @@
+# Filipe Brito Ferreira
+
+> Software developer with AWS infrastructure and DevOps capabilities. Passionate about all aspects of programming and development has contributed to open source projects. Open-minded and willing to learn. I aim to be an asset to any team I work in.
+
+
+
 [![Linkedin](https://img.shields.io/badge/fbritoferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fbritoferreira/)](https://www.linkedin.com/in/fbritoferreira/)
 [![GitHub](https://img.shields.io/github/followers/fbritoferreira?label=follow&style=social)](https://github.com/fbritoferreira)
 [![GitHub](https://img.shields.io/twitter/follow/fbritoferreira?style=social)](https://twitter.com/fbritoferreira)
