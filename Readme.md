@@ -13,6 +13,12 @@
 
 # 👩🏻‍💻 Work experience
 
+
+
+### Senior Software Engineer
+_Roku | 03/2023 - Present_
+
+
 ### Software Engineer
 
 _Sky Uk | 09/2018 - 02/2023_
