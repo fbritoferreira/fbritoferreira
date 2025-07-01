@@ -24,12 +24,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Check if README.md has changes
-          if git diff --quiet README.md; then
-            echo "No changes in README.md"
-          else
+
+          # Check if README.md is new or has changes
+          if git status --porcelain README.md | grep .; then
             git add README.md
             git commit -m "Update README.md from Markdown API"
             git push origin main
+          else
+            echo "No changes in README.md"
           fi
