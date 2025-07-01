@@ -1,53 +1,161 @@
 # Filipe Brito Ferreira
 
->Software developer with AWS infrastructure and DevOps capabilities. Passionate about all aspects of programming and development. Open-minded and willing to learn. I aim to be an asset to any team I work in.
-
-# ☎️ Contact information
-
-- 📧 [filipebritoferreira96@gmail.com](mailto:filipebritoferreira96@gmail.com)
-- 🔗  [https://twitter.com/fbritoferreira](https://twitter.com/fbritoferreira)
-- 🔗  [https://www.linkedin.com/in/fbritoferreira](https://www.linkedin.com/in/fbritoferreira?original_referer=)
-- 🔗 [https://github.com/fbritoferreira](https://github.com/fbritoferreira/)
-- 🔗 [https://fbritoferreira.com/](https://fbritoferreira.com/)
+> Senior Software Engineer with 10+ years of experience leading and contributing to large-scale, billion-dollar projects. Specialized in full-stack development, DevOps, and AI integration with a proven track record of delivering scalable solutions that serve millions of users.
 
 
-# 👩🏻‍💻 Work experience
+## ☎️ Contact Information
+
+- 🔗 [email](mailto:me@fbritoferreira.com)
+- 🔗 [github](https://github.com/fbritoferreira)
+- 🔗 [linkedin](https://linkedin.com/in/fbritoferreira)
+- 🔗 [x](https://twitter.com/fbritoferreira)
 
 
+## 🏅 Certifications
 
+- **IBM AI DEVELOPER** – June 2025 [🔗](https://coursera.org/verify/professional-cert/VAV59NDU8OFD)
+
+
+## 👩🏻‍💻 Work Experience
+
+### Front-End Engineer
+_Property Finder | 2025-07 – Present_
+
+📍 Dubai, UAE
+
+---
 ### Senior Software Engineer
-_Roku | 03/2023 - Present_
+_Roku | 2023-02 – 2025-07_
 
+📍 Manchester, UK
 
+Senior engineer contributing to customer support innovation and core web platform development at a leading streaming platform company serving 80+ million active accounts.
+
+**Responsibilities:**
+- Lead development of AI-powered customer support tools and chatbot systems
+- Design and implement scalable web frameworks for engineering teams
+- Integrate advanced LLMs (Claude V2, GPT-3/4) into production systems
+- Mentor junior developers and contribute to architectural decisions
+- Collaborate with cross-functional teams to improve customer satisfaction metrics
+
+**Achievements:**
+- **AI Chatbot Implementation**
+  - Successfully integrated multiple LLMs resulting in 40% reduction in customer support ticket volume
+  - Metrics: 40% reduction in support tickets, 25% improvement in customer satisfaction
+- **Web Core Framework Development**
+  - Built reusable tools and frameworks that improved engineering productivity across multiple teams
+  - Metrics: 30% reduction in development time for new features
+
+**Projects:**
+- _AI-Powered Customer Support Chatbot_
+  - Enterprise-grade chatbot system integrating multiple LLM providers
+  - Technologies: React, Node.js, OpenAI API, Claude API, AWS Lambda
+
+---
+### Lead Software Engineer
+_Cue App | 2023-06 – 2025-07_
+
+Technical lead for a cross-platform numerology application, overseeing development across iOS, Android, and web platforms.
+
+**Responsibilities:**
+- Lead technical architecture and development strategy
+- Oversee cross-platform development (iOS, Android, Web)
+- Implement scalable solutions for growing user base
+- Collaborate with product team on feature roadmap
+- Ensure code quality and performance optimization
+
+**Achievements:**
+- **Cross-Platform Architecture**
+  - Designed unified architecture enabling 90% code sharing across platforms
+  - Metrics: 90% code reuse, 50% faster feature delivery
+
+---
 ### Software Engineer
+_Sky UK | 2018-09 – 2023-02_
 
-_Sky Uk | 09/2018 - 02/2023_
+📍 London, UK
 
-#### Sky GO
+Full-stack engineer working on multiple high-traffic streaming platforms including Sky GO and NOW TV, serving millions of users across various devices and territories.
 
-Develop the sky go app, allowing sky customers to watch their content anywhere, worked on the MAC/Windows app. Built our development tooling such as a fully automated way to sign our app and upload the assets to the current buckets in Akamai. The technology stack consisted of Javascript/Typescript/React/redux
+**Responsibilities:**
+- Develop and maintain streaming applications for multiple platforms
+- Build CI/CD pipelines and development tooling
+- Create GraphQL middleware layer for microservices architecture
+- Implement analytics and monitoring solutions
+- Lead European market expansion technical initiatives
 
-#### NOWTV
-Worked on youi.tv version of NOWTV used for Roku and Apple Devices. Focused on the Apple TV lunch, added new features such as tracking. Created tools and improvements for the development experience. Worked on creating a dashboard and analysis tools for our ci/cd pipelines. The Tech stack consisted of React Native/Redux/Typescript
+**Achievements:**
+- **Apple TV Launch**
+  - Successfully delivered NOW TV on Apple TV platform ahead of schedule
+  - Metrics: On-time delivery, 99.9% uptime achieved
+- **European Consolidation Project**
+  - Reduced 12 separate territory apps to 2 unified applications
+  - Metrics: 83% reduction in codebases, 60% faster feature deployment
+- **GraphQL Middleware**
+  - Built GraphQL layer achieving three nines availability
+  - Metrics: 99.9% uptime, 50% reduction in API response times
 
-#### NOWTV Core Team
-Worked on adding analytics to our CI/CD system, we created a system using AWS technologies such as AWS SQS to create a pub/sub system that keeps track of our ci/cd build times and alerts us when something fails. We had all our code running in AWS lambda for our backend/API tasks and used AWS EKS for the front end and other services that couldn’t be serverless. For long-term storage we S3 Glacier and normal S3 for assets and for short-term storage, we also used S3 to hold our Lambda functions configuration, this was all built using AWS SDK (typescript)
+**Projects:**
+- _Sky GO Desktop Application_
+  - Cross-platform desktop streaming application for Mac and Windows
+  - Technologies: Electron, React, TypeScript, Redux
+- _NOW TV Multi-Territory Platform_
+  - Unified platform supporting multiple European markets
+  - Technologies: React, Node.js, AWS, Concourse CI
 
-#### NOWTV Sales & Service
-Worked on the My Account team of NOWTV, the main job was to maintain and develop new features of my account dashboard. Also worked as part of the Europe rebuild team as we started from scratch on creating the new multi-territory and multi-proposition apps for my account team. Before the rebuild we had 12 separate apps per territory, after the rebuild, we end up with two main apps and some smaller ones, this allowed us to simplify and code and make sure all our features could be turned on/off in any territory or proposition. The technology stack on here was typescript with react/redux and concourse as our ci.
-
-#### NOWTV Web Backend for Front Ends
-Built out a GraphQL layer to act as middleware between the frontend website and the many rest APIs. Use GraphQL to aggregate and filter responses from multiple data providers, giving frontend teams an abstraction layer. The main GraphQL server is built on top of the Apollo server and AWS lambda (serverless) with Redis as a caching layer. We managed to get three nines’ availability and obfuscate downstream downtime.
-
-______
+---
 ### Front-End Developer
-_Love Holidays | 06/2018 - 08/2018_
+_Love Holidays | 2018-06 – 2018-08_
 
-My main responsibilities include developing the main love holidays website (https://www.loveholidays.com/), my main focus was to bring a new feature to the site and use technologies such as optimising to test them against our user base, allowing us to quickly improve our user experience. Our technology stack focuses exclusively on react with redux.
+Contract frontend developer focused on feature development and A/B testing for a major travel booking platform.
 
-______
+**Responsibilities:**
+- Develop new features for the main booking platform
+- Implement A/B testing using Google Optimize
+- Optimize user experience and conversion rates
+- Collaborate with UX team on feature implementation
 
+**Achievements:**
+- **Conversion Rate Optimization**
+  - Implemented A/B tests that improved booking conversion rates
+  - Metrics: 15% improvement in conversion rates
+
+---
 ### Web Developer
-_SCL Elections / Cambridge Analytica | 06/2015 - 05/2018_
+_SCL Elections / Cambridge Analytica | 2015-06 – 2018-05_
 
-Main responsibilities include full-stack development (MEAN) of Cambridge Analytica and Scl Group websites including implementing the current migration to drupal 8 and contributing to in-house web-based products and tools such as Siphon and Connect. Build out new product ideas such as “Pangea” (internal name as the product is not released to the public) which is a data matching and management platform, built-in Scala for the backend and ReactJS on the front end. I also provide training on internally used applications such as Hubspot. I am proficient in implementing AWS infrastructure solutions including EC2, RDS, lambda and API gateway, with responsibility for ensuring uptime and maintenance. Experience with a variety of development tools and practices including version control, continuous integration, SCRUM, Kanban (including Jira and Confluence), testing and code review.Towards the end of employing been focusing on DevOps having experience in building out and maintaining Kubernetes, and managing DNS and web CDNs using AWS as our infrastructure platform. Designed and built DevOps focus tooling using golang.
+📍 London, UK
+
+Full-stack developer responsible for web applications, data platforms, and DevOps infrastructure in a fast-paced political technology environment.
+
+**Responsibilities:**
+- Full-stack development using MEAN stack
+- Build data matching and management platforms
+- Implement AWS infrastructure solutions
+- Develop DevOps tooling and Kubernetes management
+- Lead Drupal 8 migration projects
+
+**Achievements:**
+- **Pangea Data Platform**
+  - Built scalable data matching platform handling large datasets
+  - Metrics: Processing 10M+ records daily with sub-second response times
+- **Infrastructure Automation**
+  - Implemented Kubernetes-based infrastructure reducing deployment time
+  - Metrics: 80% reduction in deployment time, 99.9% uptime
+
+**Projects:**
+- _Pangea Data Management Platform_
+  - Large-scale data matching and management system
+  - Technologies: Scala, React, PostgreSQL, AWS
+
+
+
+## 🎓 Education
+
+### Extended Diploma in IT (2013 – 2015)
+_West Thames College, London Rd, Isleworth TW7 4HS, United Kingdom_
+**Relevant Coursework:**
+Software Development, Database Design, Network Administration, Web Development
+
+### High School Diploma (2009 – 2013)
+_Rivers Academy West London, Tachbrook Rd, Feltham TW14 9PE, United Kingdom_
