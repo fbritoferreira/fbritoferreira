@@ -9,11 +9,13 @@
 - 🔗 [github](https://github.com/fbritoferreira)
 - 🔗 [linkedin](https://linkedin.com/in/fbritoferreira)
 - 🔗 [x](https://twitter.com/fbritoferreira)
+- 🔗 [credly](https://www.credly.com/users/fbritoferreira)
 
 
 ## 🏅 Certifications
 
-- **IBM AI DEVELOPER** – June 2025 [🔗](https://coursera.org/verify/professional-cert/VAV59NDU8OFD)
+- **IBM AI Developer** – June 2025 [🔗](https://coursera.org/verify/professional-cert/VAV59NDU8OFD)
+- **Google Cybersecurity** – July 2025 [🔗](https://coursera.org/verify/professional-cert/JV1BAUSE3T41)
 
 
 ## 👩🏻‍💻 Work Experience
@@ -53,7 +55,7 @@ Senior engineer contributing to customer support innovation and core web platfor
 
 ---
 ### Lead Software Engineer
-_Cue App | 2023-06 – 2025-07_
+_Cue App | 2023-06 – 2025-06_
 
 Technical lead for a cross-platform numerology application, overseeing development across iOS, Android, and web platforms.
 
