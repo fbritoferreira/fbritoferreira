@@ -1,6 +1,6 @@
 # Filipe Brito Ferreira
 
-> Senior Software Engineer with 10+ years of experience leading and contributing to large-scale, billion-dollar projects. Specialized in full-stack development, DevOps, and AI integration with a proven track record of delivering scalable solutions that serve millions of users.
+> Senior Software Engineer with 10 years of experience leading and contributing to large-scale, billion-dollar projects. Specialized in full-stack development, DevOps, and AI integration with a proven track record of delivering scalable solutions that serve millions of users.
 
 
 ## ☎️ Contact Information
@@ -161,3 +161,46 @@ Software Development, Database Design, Network Administration, Web Development
 
 ### High School Diploma (2009 – 2013)
 _Rivers Academy West London, Tachbrook Rd, Feltham TW14 9PE, United Kingdom_
+
+
+
+## 🧠 Skills
+
+### Frontend Technologies
+- React (10y exp)
+- TypeScript (10y exp)
+- JavaScript (10y exp)
+- Next.js (6y exp)
+- Remix (4y exp)
+- SolidJS (5y exp)
+- React Native (4y exp)
+
+### Backend Technologies
+- Node.js (10y exp)
+- Deno (5y exp)
+- GraphQL (6y exp)
+- Java (4y exp)
+- Scala (5y exp)
+- Rust (5y exp)
+- Go (5y exp)
+
+### Cloud & DevOps
+- AWS (10y exp)
+- Kubernetes (10y exp)
+- Docker (10y exp)
+- Helm (10y exp)
+- GitLab CI/CD (10y exp)
+- GitHub Actions (4y exp)
+- Terraform (10y exp)
+
+### AI & Machine Learning
+- Large Language Models (LLMs) (4y exp)
+- OpenAI API (4y exp)
+- Anthropic Claude (4y exp)
+- Chatbot Development (4y exp)
+
+### Tools & Platforms
+- Jira (10y exp)
+- Confluence (10y exp)
+- Postman (10y exp)
+- Git (10y exp)
