@@ -80,7 +80,7 @@ _Sky UK | 2018-09 – 2023-02_
 Full-stack engineer working on multiple high-traffic streaming platforms including Sky GO and NOW TV, serving millions of users across various devices and territories.
 
 **Responsibilities:**
-- Develop and maintain streaming applications for multiple platforms
+- Develop and maintain streaming applications for multiple platforms - SKY GO, NOWTV, NOW, PEACOCK TV, SKY SHOWTIME
 - Build CI/CD pipelines and development tooling
 - Create GraphQL middleware layer for microservices architecture
 - Implement analytics and monitoring solutions
