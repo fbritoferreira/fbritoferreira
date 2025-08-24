@@ -25,6 +25,20 @@ _Property Finder | 2025-07 – Present_
 
 📍 Dubai, UAE
 
+As a key member of the Growth Engineering Acquisition team, I am responsible for ensuring comprehensive SEO optimization across our core website to drive enhanced organic visibility, user engagement, and acquisition growth. I actively engage with external stakeholders to align and optimize their applications’ SEO performance in accordance with our strategic objectives. In my leadership capacity, I contribute to defining and executing the team’s technical roadmap, encompassing both backend infrastructure and frontend development initiatives. Moreover, I play a pivotal role in mentoring and developing junior team members, fostering a culture of continuous learning and technical excellence to elevate overall team capabilities.
+
+**Responsibilities:**
+- Ensure comprehensive SEO optimization of the company’s core website to maximize organic visibility, traffic, and user acquisition.
+- Collaborate closely with external stakeholders to align and optimize SEO strategies for their applications in support of overall business goals.
+- Define and execute the technical roadmap for both backend infrastructure and frontend development within the Growth Engineering Acquisition team.
+- Lead and mentor junior team members to foster professional growth, technical skills development, and foster a culture of continuous improvement.
+- Drive cross-functional alignment on SEO initiatives and technical strategies to ensure cohesive execution and maximize impact.
+
+**Achievements:**
+- **Reduce Website Latency**
+  - Optimize API usage and improve response times to enhance overall performance.
+  - Metrics: Reduce search page load time by 33%
+
 ---
 ### Senior Software Engineer
 _Roku | 2023-02 – 2025-07_
@@ -55,7 +69,7 @@ Senior engineer contributing to customer support innovation and core web platfor
 
 ---
 ### Lead Software Engineer
-_Cue App | 2023-06 – 2025-06_
+_Cue App | 2023-06 – 2025-07_
 
 Technical lead for a cross-platform numerology application, overseeing development across iOS, Android, and web platforms.
 
