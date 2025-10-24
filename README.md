@@ -11,11 +11,14 @@
 - 🔗 [linkedin](https://linkedin.com/in/fbritoferreira)
 - 🔗 [x](https://twitter.com/fbritoferreira)
 - 🔗 [credly](https://www.credly.com/users/fbritoferreira)
+- 🔗 [eportfolio](https://www.mygreatlearning.com/eportfolio/filipe-brito-ferreira)
 
 ---
 
 ## 🏅 Certifications
 
+- **Python Foundations** _(October 2025)_ • [View Certificate](https://www.mygreatlearning.com/certificate/GQYNQGMI)
+- **Ethics of AI** _(October 2025)_ • [View Certificate](https://www.mygreatlearning.com/certificate/IVEGPWIP)
 - **Introduction to AI Agents** _(September 2025)_ • [View Certificate](https://www.mygreatlearning.com/certificate/NCJEEZBW)
 - **IBM AI Developer** _(June 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/VAV59NDU8OFD)
 - **Google Cybersecurity** _(July 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/JV1BAUSE3T41)
@@ -43,6 +46,9 @@ As a key member of the Growth Engineering Acquisition team, I am responsible for
 - **Reduce Website Latency**
   Optimize API usage and improve response times to enhance overall performance.
   _Metrics: Reduce search page load time by 33%_
+- **Accelerate SEO Content Delivery**
+  Optimized CMS content architecture and API performance to significantly enhance SEO page load speed and user experience.
+  _Metrics: Reduced API response time from 500ms to 5ms — a 99% improvement in performance._
 
 
 ### Senior Software Engineer
