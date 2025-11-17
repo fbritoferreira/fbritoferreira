@@ -1,6 +1,6 @@
 # Filipe Brito Ferreira
 
-> Senior Software Engineer with 10 years of experience leading and contributing to large-scale, billion-dollar projects. Specialized in full-stack development, DevOps, and AI integration with a proven track record of delivering scalable solutions that serve millions of users.
+> Senior Software Engineer with 10 years of experience delivering scalable, high-impact software solutions for large-scale consumer-facing entertainment and streaming platforms. Passionate about combining full-stack expertise, DevOps, and AI technologies to enrich user engagement and storytelling experiences.
 
 ---
 
@@ -55,20 +55,20 @@ As a key member of the Growth Engineering Acquisition team, I am responsible for
 _[Roku](https://www.roku.com/) | 2023-02 – 2025-07_
 📍 Manchester, UK
 
-Senior engineer contributing to customer support innovation and core web platform development at a leading streaming platform company serving 80+ million active accounts.
+Key contributor to a leading streaming media platform serving 80+ million active users, innovating AI-powered customer support and scalable web frameworks to drive superior entertainment experiences.
 
 **Responsibilities:**
 
-- Lead development of AI-powered customer support tools and chatbot systems
-- Design and implement scalable web frameworks for engineering teams
-- Integrate advanced LLMs (Claude V2, GPT-3/4) into production systems
-- Mentor junior developers and contribute to architectural decisions
-- Collaborate with cross-functional teams to improve customer satisfaction metrics
+- Lead design of cutting-edge AI chatbots enhancing viewer engagement and satisfaction.
+- Architect scalable media web frameworks supporting millions of daily users.
+- Integrate advanced LLMs (Claude V2, GPT-3/4) into production systems.
+- Mentor junior developers and contribute to architectural decisions.
+- Collaborate with cross-functional teams to improve customer satisfaction metrics.
 
 **Achievements:**
 
 - **AI Chatbot Implementation**
-  Successfully integrated multiple LLMs resulting in 40% reduction in customer support ticket volume
+  Reduced customer support tickets by 40%, enhancing user experience for a major entertainment streaming platform.
   _Metrics: 40% reduction in support tickets, 25% improvement in customer satisfaction_
 - **Web Core Framework Development**
   Built reusable tools and frameworks that improved engineering productivity across multiple teams
@@ -82,7 +82,7 @@ Senior engineer contributing to customer support innovation and core web platfor
 
 
 ### Lead Software Engineer
-_[Cue App](https://cuetheapp.com/) | 2023-06 – 2025-09_
+_[Cue App](https://cuetheapp.com/) | 2023-06 – 2025-10_
 
 Technical lead for a cross-platform numerology application, overseeing development across iOS, Android, and web platforms.
 
@@ -256,6 +256,13 @@ I played a key role in maintaining the online presence of Cambridge Analytica an
 ---
 
 ## ✍️ Writing & Publications
+
+### [Introducing @fbritoferreira/strapi: A Lightweight TypeScript Client for Strapi CMS v5](https://www.fbritoferreira.com/blog/lightweight-typescript-client-strapi-cms-v5-with-upsert)
+_17 Nov 2025_
+
+Discover the new lightweight and generic TypeScript client for Strapi CMS v5 that simplifies API interaction with strong type safety, advanced querying, and upsert support. This package was created to reduce boilerplate code and enhance developer productivity when working with Strapi, including a unique upsert feature for atomic create-or-update operations.
+
+**Tags:** TypeScript,Strapi,Headless CMS,Open Source,Developer Tools
 
 ### [The Decline of Western Video Game Development](https://www.fbritoferreira.com/blog/game-industy-software-downfall)
 _2 Jan 2025_
