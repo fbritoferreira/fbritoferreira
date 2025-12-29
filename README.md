@@ -82,7 +82,7 @@ Key contributor to a leading streaming media platform serving 80+ million active
 
 
 ### Lead Software Engineer
-_[Cue App](https://cuetheapp.com/) | 2023-06 – 2025-10_
+_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | 2023-06 – 2025-11_
 
 Technical lead for a cross-platform numerology application, overseeing development across iOS, Android, and web platforms.
 
