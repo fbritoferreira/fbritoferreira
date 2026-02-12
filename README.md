@@ -1,6 +1,6 @@
 # Filipe Brito Ferreira
 
-> Senior Software Engineer with 10 years of experience delivering scalable, high-impact software solutions for large-scale consumer-facing entertainment and streaming platforms. Passionate about combining full-stack expertise, DevOps, and AI technologies to enrich user engagement and storytelling experiences.
+> Senior Software Engineer with 11 years of experience delivering scalable, high-impact software solutions for large-scale consumer-facing entertainment and streaming platforms. Passionate about combining full-stack expertise, DevOps, and AI technologies to enrich user engagement and storytelling experiences.
 
 ---
 
@@ -82,7 +82,7 @@ Key contributor to a leading streaming media platform serving 80+ million active
 
 
 ### Lead Software Engineer
-_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | 2023-06 – 2025-11_
+_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | 2023-06 – 2026-01_
 
 Technical lead for a cross-platform numerology application, overseeing development across iOS, Android, and web platforms.
 
@@ -205,23 +205,23 @@ _Rivers Academy West London, Tachbrook Rd, Feltham TW14 9PE, United Kingdom _(20
 
 **Frontend Technologies**
 
-React _(10y)_ • TypeScript _(10y)_ • JavaScript _(10y)_ • Next.js _(6y)_ • Remix _(4y)_ • SolidJS _(5y)_ • React Native _(4y)_
+React _(11y)_ • TypeScript _(11y)_ • JavaScript _(11y)_ • Next.js _(7y)_ • Remix _(5y)_ • SolidJS _(6y)_ • React Native _(5y)_
 
 **Backend Technologies**
 
-Node.js _(10y)_ • Deno _(5y)_ • GraphQL _(6y)_ • Java _(4y)_ • Scala _(5y)_ • Rust _(5y)_ • Go _(5y)_
+Node.js _(11y)_ • Deno _(6y)_ • GraphQL _(7y)_ • Java _(5y)_ • Scala _(6y)_ • Rust _(6y)_ • Go _(6y)_
 
 **Cloud & DevOps**
 
-AWS _(10y)_ • Kubernetes _(10y)_ • Docker _(10y)_ • Helm _(10y)_ • GitLab CI/CD _(10y)_ • GitHub Actions _(4y)_ • Terraform _(10y)_
+AWS _(11y)_ • Kubernetes _(11y)_ • Docker _(11y)_ • Helm _(11y)_ • GitLab CI/CD _(11y)_ • GitHub Actions _(5y)_ • Terraform _(11y)_
 
 **AI & Machine Learning**
 
-Large Language Models (LLMs) _(4y)_ • OpenAI API _(4y)_ • Anthropic Claude _(4y)_ • Chatbot Development _(4y)_
+Large Language Models (LLMs) _(5y)_ • OpenAI API _(5y)_ • Anthropic Claude _(5y)_ • Chatbot Development _(5y)_
 
 **Tools & Platforms**
 
-Jira _(10y)_ • Confluence _(10y)_ • Postman _(10y)_ • Git _(10y)_
+Jira _(11y)_ • Confluence _(11y)_ • Postman _(11y)_ • Git _(11y)_
 
 
 ---
