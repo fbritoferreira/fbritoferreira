@@ -17,11 +17,34 @@
 
 ## 🏅 Certifications
 
+- **Introduction to Agile Development and Scrum** _(February 2026)_ • [View Certificate](https://coursera.org/verify/3QOJNETHIP3R)
+- **Introduction to DevOps** _(February 2026)_ • [View Certificate](https://coursera.org/verify/VCZ24YMJ1RY2)
 - **Python Foundations** _(October 2025)_ • [View Certificate](https://www.mygreatlearning.com/certificate/GQYNQGMI)
 - **Ethics of AI** _(October 2025)_ • [View Certificate](https://www.mygreatlearning.com/certificate/IVEGPWIP)
 - **Introduction to AI Agents** _(September 2025)_ • [View Certificate](https://www.mygreatlearning.com/certificate/NCJEEZBW)
-- **IBM AI Developer** _(June 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/VAV59NDU8OFD)
 - **Google Cybersecurity** _(July 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/JV1BAUSE3T41)
+- **IBM AI Developer** _(June 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/VAV59NDU8OFD)
+- **Introduction to Cloud Computing** _(July 2025)_ • [View Certificate](https://coursera.org/verify/NYA0511J4FHT)
+- **Django Application Development with SQL and Databases** _(July 2025)_ • [View Certificate](https://coursera.org/verify/9PIE9IUY7DQW)
+- **Automate Cybersecurity Tasks with Python** _(July 2025)_ • [View Certificate](https://coursera.org/verify/1LC8W1NAZDZG)
+- **Tools of the Trade: Linux and SQL** _(July 2025)_ • [View Certificate](https://coursera.org/verify/OGVBWY3PG9DD)
+- **Sound the Alarm: Detection and Response** _(July 2025)_ • [View Certificate](https://coursera.org/verify/9TODNNNY3QWM)
+- **Assets, Threats, and Vulnerabilities** _(July 2025)_ • [View Certificate](https://coursera.org/verify/9RDIPRFJ5S1N)
+- **Put It to Work: Prepare for Cybersecurity Jobs** _(July 2025)_ • [View Certificate](https://coursera.org/verify/ESCPVGZN4O0E)
+- **Accelerate Your Job Search with AI** _(July 2025)_ • [View Certificate](https://coursera.org/verify/JWL7M9RMT0H0)
+- **Foundations of Cybersecurity** _(July 2025)_ • [View Certificate](https://coursera.org/verify/RDDSGTH7M8BW)
+- **Play It Safe: Manage Security Risks** _(July 2025)_ • [View Certificate](https://coursera.org/verify/YKRYIQZA9XDQ)
+- **Connect and Protect: Networks and Network Security** _(July 2025)_ • [View Certificate](https://coursera.org/verify/MI2G9NBRZCOB)
+- **Building Generative AI-Powered Applications with Python** _(July 2025)_ • [View Certificate](https://coursera.org/verify/KI24LWJFM9AF)
+- **Generative AI: Elevate your Software Development Career** _(July 2025)_ • [View Certificate](https://coursera.org/verify/0NCAG443G23Q)
+- **Software Developer Career Guide and Interview Preparation** _(July 2025)_ • [View Certificate](https://coursera.org/verify/8YYDKZKCAJ1M)
+- **Introduction to HTML, CSS, & JavaScript** _(June 2025)_ • [View Certificate](https://coursera.org/verify/7701CP70ZAOZ)
+- **Developing AI Applications with Python and Flask** _(June 2025)_ • [View Certificate](https://coursera.org/verify/352PLU7D28LT)
+- **Python for Data Science, AI & Development** _(June 2025)_ • [View Certificate](https://coursera.org/verify/GLVQBTCOZI8R)
+- **Generative AI: Prompt Engineering Basics** _(June 2025)_ • [View Certificate](https://coursera.org/verify/JWZ6Q76MM65I)
+- **Generative AI: Introduction and Applications** _(June 2025)_ • [View Certificate](https://coursera.org/verify/DCE5T5IDIWV5)
+- **Introduction to Artificial Intelligence (AI)** _(June 2025)_ • [View Certificate](https://coursera.org/verify/Z6YTG768T2WZ)
+- **Introduction to Software Engineering** _(June 2025)_ • [View Certificate](https://coursera.org/verify/DZWSVHIT6EOD)
 
 ---
 
