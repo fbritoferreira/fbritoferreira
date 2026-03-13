@@ -15,15 +15,30 @@
 
 ---
 
-## 🏅 Certifications
+## 🏅 Professional Certificates
 
+- **Google IT Automation with Python** _(March 2026)_ • [View Certificate](https://coursera.org/verify/professional-cert/NQFRKPEUZ39A)
+- **Google Cybersecurity** _(July 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/JV1BAUSE3T41)
+- **IBM AI Developer** _(June 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/VAV59NDU8OFD)
+
+---
+
+## 📚 Courses
+
+- **Continuous Integration and Continuous Delivery (CI/CD)** _(March 2026)_ • [View Certificate](https://coursera.org/verify/E0DZA54W8C6I)
+- **Troubleshooting and Debugging Techniques** _(March 2026)_ • [View Certificate](https://coursera.org/verify/B1QD9EPCFL05)
+- **Introduction to Git and GitHub** _(March 2026)_ • [View Certificate](https://coursera.org/verify/BLV4P7FGU394)
+- **Using Python to Interact with the Operating System** _(March 2026)_ • [View Certificate](https://coursera.org/verify/WJGFH6VFMJMC)
+- **Configuration Management and the Cloud** _(March 2026)_ • [View Certificate](https://coursera.org/verify/2XUFTNHI08M9)
+- **Crash Course on Python** _(March 2026)_ • [View Certificate](https://coursera.org/verify/TUGX5F2Y4E80)
+- **Automating Real-World Tasks with Python** _(March 2026)_ • [View Certificate](https://coursera.org/verify/AGCFIAGRK3B5)
+- **Introduction to Containers w/ Docker, Kubernetes & OpenShift** _(March 2026)_ • [View Certificate](https://coursera.org/verify/YX8OPF8AO43K)
+- **Getting Started with Git and GitHub** _(March 2026)_ • [View Certificate](https://coursera.org/verify/J31LIRM8REIF)
 - **Introduction to Agile Development and Scrum** _(February 2026)_ • [View Certificate](https://coursera.org/verify/3QOJNETHIP3R)
 - **Introduction to DevOps** _(February 2026)_ • [View Certificate](https://coursera.org/verify/VCZ24YMJ1RY2)
 - **Python Foundations** _(October 2025)_ • [View Certificate](https://www.mygreatlearning.com/certificate/GQYNQGMI)
 - **Ethics of AI** _(October 2025)_ • [View Certificate](https://www.mygreatlearning.com/certificate/IVEGPWIP)
 - **Introduction to AI Agents** _(September 2025)_ • [View Certificate](https://www.mygreatlearning.com/certificate/NCJEEZBW)
-- **Google Cybersecurity** _(July 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/JV1BAUSE3T41)
-- **IBM AI Developer** _(June 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/VAV59NDU8OFD)
 - **Introduction to Cloud Computing** _(July 2025)_ • [View Certificate](https://coursera.org/verify/NYA0511J4FHT)
 - **Django Application Development with SQL and Databases** _(July 2025)_ • [View Certificate](https://coursera.org/verify/9PIE9IUY7DQW)
 - **Automate Cybersecurity Tasks with Python** _(July 2025)_ • [View Certificate](https://coursera.org/verify/1LC8W1NAZDZG)
@@ -105,7 +120,7 @@ Key contributor to a leading streaming media platform serving 80+ million active
 
 
 ### Lead Software Engineer
-_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | 2023-06 – 2026-01_
+_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | 2023-06 – 2026-02_
 
 Technical lead for a cross-platform numerology application, overseeing development across iOS, Android, and web platforms.
 
