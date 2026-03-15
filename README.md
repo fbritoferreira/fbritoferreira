@@ -17,6 +17,8 @@
 
 ## 🏅 Professional Certificates
 
+- **IBM Applied DevOps Engineering** _(March 2026)_ • [View Certificate](https://coursera.org/verify/professional-cert/08CD1EQ17SFP)
+- **IBM DevOps and Software Engineering** _(March 2026)_ • [View Certificate](https://coursera.org/verify/professional-cert/88IDI1F2938F)
 - **Google IT Automation with Python** _(March 2026)_ • [View Certificate](https://coursera.org/verify/professional-cert/NQFRKPEUZ39A)
 - **Google Cybersecurity** _(July 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/JV1BAUSE3T41)
 - **IBM AI Developer** _(June 2025)_ • [View Certificate](https://coursera.org/verify/professional-cert/VAV59NDU8OFD)
@@ -25,6 +27,12 @@
 
 ## 📚 Courses
 
+- **Introduction to Test and Behavior Driven Development** _(March 2026)_ • [View Certificate](https://coursera.org/verify/096EJ84XZRSD)
+- **DevOps Capstone Project** _(March 2026)_ • [View Certificate](https://coursera.org/verify/QVB3V36S8PC8)
+- **Monitoring and Observability for Development and DevOps** _(March 2026)_ • [View Certificate](https://coursera.org/verify/TRDBEWXPZDQS)
+- **Application Development using Microservices and Serverless** _(March 2026)_ • [View Certificate](https://coursera.org/verify/33YMOEEYTYCV)
+- **Hands-on Introduction to Linux Commands and Shell Scripting** _(March 2026)_ • [View Certificate](https://coursera.org/verify/9TCTOEMR4V3R)
+- **Application Security for Developers and DevOps Professionals** _(March 2026)_ • [View Certificate](https://coursera.org/verify/TDBL4CJAQWQV)
 - **Continuous Integration and Continuous Delivery (CI/CD)** _(March 2026)_ • [View Certificate](https://coursera.org/verify/E0DZA54W8C6I)
 - **Troubleshooting and Debugging Techniques** _(March 2026)_ • [View Certificate](https://coursera.org/verify/B1QD9EPCFL05)
 - **Introduction to Git and GitHub** _(March 2026)_ • [View Certificate](https://coursera.org/verify/BLV4P7FGU394)
