@@ -1,6 +1,6 @@
 # Filipe Brito Ferreira
 
-> Senior Software Engineer with 11 years of experience delivering scalable, high-impact software solutions for large-scale consumer-facing entertainment and streaming platforms. Passionate about combining full-stack expertise, DevOps, and AI technologies to enrich user engagement and storytelling experiences.
+> Senior Software Engineer with 11 years building streaming platforms, real estate marketplaces, and AI-powered products. I've worked across React, TypeScript, Node.js, Go, and AWS at companies like Sky, Roku, and Property Finder.
 
 ---
 
@@ -74,42 +74,48 @@
 ## 👩🏻‍💻 Work Experience
 
 ### Front-End Engineer
-_[Property Finder](https://www.propertyfinder.ae/) | 2025-07 – Present_
+_[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Present_
 📍 Dubai, UAE
 
-As a key member of the Growth Engineering Acquisition team, I am responsible for ensuring comprehensive SEO optimization across our core website to drive enhanced organic visibility, user engagement, and acquisition growth. I actively engage with external stakeholders to align and optimize their applications’ SEO performance in accordance with our strategic objectives. In my leadership capacity, I contribute to defining and executing the team’s technical roadmap, encompassing both backend infrastructure and frontend development initiatives. Moreover, I play a pivotal role in mentoring and developing junior team members, fostering a culture of continuous learning and technical excellence to elevate overall team capabilities.
+Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. I own SEO, performance, and feature development for user acquisition.
 
 **Responsibilities:**
 
-- Ensure comprehensive SEO optimization of the company’s core website to maximize organic visibility, traffic, and user acquisition.
-- Collaborate closely with external stakeholders to align and optimize SEO strategies for their applications in support of overall business goals.
-- Define and execute the technical roadmap for both backend infrastructure and frontend development within the Growth Engineering Acquisition team.
-- Lead and mentor junior team members to foster professional growth, technical skills development, and foster a culture of continuous improvement.
-- Drive cross-functional alignment on SEO initiatives and technical strategies to ensure cohesive execution and maximize impact.
+- Drove SEO optimization across the core website, cutting search page load time by 33% and helping the company reach record share of voice in organic search.
+- Led the UGC (User-Generated Content) feature from initial design through to production, covering the content pipeline, moderation system, and frontend display.
+- Partner with 5+ external stakeholders to align SEO strategies for 3rd-party applications.
+- Own the technical roadmap for both backend and frontend within a 5-person engineering team.
+- Mentor 2 junior engineers on React, TypeScript, and performance patterns.
+- Cut CMS API response time from 500ms to 5ms (99% improvement) on SEO-critical endpoints.
 
 **Achievements:**
 
-- **Reduce Website Latency**
-  Optimize API usage and improve response times to enhance overall performance.
-  _Metrics: Reduce search page load time by 33%_
-- **Accelerate SEO Content Delivery**
-  Optimized CMS content architecture and API performance to significantly enhance SEO page load speed and user experience.
-  _Metrics: Reduced API response time from 500ms to 5ms — a 99% improvement in performance._
+- **Record Share of Voice**
+  SEO work contributed to the company reaching new records in share of sessions and share of voice, pushing competitors further down the rankings. Recognized by the CEO as an exceptional result.
+  _Metrics: Record share of voice and share of sessions in organic search_
+- **UGC Feature Launch**
+  Led the User-Generated Content feature from early product discussions and technical design through implementation to production launch.
+- **CMS API Performance**
+  Restructured how CMS content gets fetched and served on SEO-critical pages.
+  _Metrics: Response time from 500ms to 5ms (99% improvement)_
+- **Search Page Speed**
+  Fixed render-blocking resources, optimized images, and added progressive loading.
+  _Metrics: 33% reduction in search page load time_
 
 
 ### Senior Software Engineer
-_[Roku](https://www.roku.com/) | 2023-02 – 2025-07_
+_[Roku](https://www.roku.com/) | Feb 2023 – Jul 2025_
 📍 Manchester, UK
 
-Key contributor to a leading streaming media platform serving 80+ million active users, innovating AI-powered customer support and scalable web frameworks to drive superior entertainment experiences.
+Worked on Roku's streaming platform, building AI-powered customer support tools and web frameworks used across multiple device platforms.
 
 **Responsibilities:**
 
-- Lead design of cutting-edge AI chatbots enhancing viewer engagement and satisfaction.
-- Architect scalable media web frameworks supporting millions of daily users.
-- Integrate advanced LLMs (Claude V2, GPT-3/4) into production systems.
-- Mentor junior developers and contribute to architectural decisions.
-- Collaborate with cross-functional teams to improve customer satisfaction metrics.
+- Led design of AI chatbots that reduced customer support tickets by 40% and improved satisfaction by 25%.
+- Architected scalable media web frameworks supporting 5M+ daily active users across 10+ device platforms.
+- Integrated advanced LLMs (Claude V2, GPT-3/4) into production systems, achieving 95% accuracy in customer query resolution.
+- Mentored 3 junior developers and contributed to architectural decisions that reduced development time by 30% for new features.
+- Collaborated with cross-functional teams of 12+ engineers to improve customer satisfaction metrics and platform reliability.
 
 **Achievements:**
 
@@ -128,17 +134,17 @@ Key contributor to a leading streaming media platform serving 80+ million active
 
 
 ### Lead Software Engineer
-_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | 2023-06 – 2026-02_
+_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | Jun 2023 – Jul 2025_
 
 Technical lead for a cross-platform numerology application, overseeing development across iOS, Android, and web platforms.
 
 **Responsibilities:**
 
-- Lead technical architecture and development strategy
-- Oversee cross-platform development (iOS, Android, Web)
-- Implement scalable solutions for growing user base
-- Collaborate with product team on feature roadmap
-- Ensure code quality and performance optimization
+- Lead technical architecture and development strategy for a 4-person cross-platform engineering team.
+- Architect a unified codebase enabling 90% code sharing across iOS, Android, and Web platforms.
+- Implement scalable solutions using React Native and Next.js, delivering 50% faster feature releases.
+- Drive product roadmap prioritization across 3 platforms in collaboration with stakeholders, aligning technical and business goals.
+- Establish code quality standards and performance optimization practices across 3 platform targets.
 
 **Achievements:**
 
@@ -148,18 +154,18 @@ Technical lead for a cross-platform numerology application, overseeing developme
 
 
 ### Software Engineer
-_[Sky UK](https://www.sky.com/) | 2018-09 – 2023-02_
+_[Sky UK](https://www.sky.com/) | Sep 2018 – Feb 2023_
 📍 London, UK
 
 Full-stack engineer working on multiple high-traffic streaming platforms including Sky GO and NOW TV, serving millions of users across various devices and territories.
 
 **Responsibilities:**
 
-- Develop and maintain streaming applications for multiple platforms - SKY GO, NOWTV, NOW, PEACOCK TV, SKY SHOWTIME
-- Build CI/CD pipelines and development tooling
-- Create GraphQL middleware layer for microservices architecture
-- Implement analytics and monitoring solutions
-- Lead European market expansion technical initiatives
+- Developed and maintained 5 streaming applications (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) serving millions of daily users.
+- Built CI/CD pipelines and development tooling that reduced deployment time by 60% and improved engineering productivity across 5 teams.
+- Architected a GraphQL middleware layer achieving 99.9% uptime and 50% reduction in API response times.
+- Implemented analytics and monitoring solutions across multiple streaming platforms and 12 European territories.
+- Led European market consolidation, reducing 12 separate territory apps into 2 unified platforms (83% less code to maintain).
 
 **Achievements:**
 
@@ -184,16 +190,16 @@ Full-stack engineer working on multiple high-traffic streaming platforms includi
 
 
 ### Front-End Developer
-_[Love Holidays](https://www.loveholidays.com/) | 2018-06 – 2018-08_
+_[Love Holidays](https://www.loveholidays.com/) | Jun 2018 – Aug 2018_
 
 Contract frontend developer focused on feature development and A/B testing for a major travel booking platform.
 
 **Responsibilities:**
 
-- Develop new features for the main booking platform
-- Implement A/B testing using Google Optimize
-- Optimize user experience and conversion rates
-- Collaborate with UX team on feature implementation
+- Developed 3 new booking flow features for a high-traffic travel platform processing 10,000+ daily transactions.
+- Implemented A/B testing using Google Optimize, driving a 15% improvement in booking conversion rates.
+- Optimized user experience and page performance, reducing bounce rates by 12% and increasing user engagement.
+- Collaborated with 4 UX designers and product managers to ship responsive, mobile-first feature implementations.
 
 **Achievements:**
 
@@ -203,18 +209,18 @@ Contract frontend developer focused on feature development and A/B testing for a
 
 
 ### Web Developer
-_[SCL Elections / Cambridge Analytica](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | 2015-06 – 2018-05_
+_[SCL Elections / Cambridge Analytica](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | Jun 2015 – May 2018_
 📍 London, UK
 
 Full-stack developer responsible for web applications, data platforms, and DevOps infrastructure in a fast-paced political technology environment.
 
 **Responsibilities:**
 
-- Full-stack development using MEAN stack
-- Build data matching and management platforms
-- Implement AWS infrastructure solutions
-- Develop DevOps tooling and Kubernetes management
-- Lead Drupal 8 migration projects
+- Delivered 8+ full-stack solutions using MEAN stack for data-intensive political technology applications.
+- Built the Pangea data matching platform processing 10M+ records daily with sub-second response times.
+- Implemented AWS infrastructure solutions and Kubernetes orchestration, achieving 99.9% system uptime.
+- Developed DevOps tooling that reduced deployment time by 80% through automated CI/CD pipelines.
+- Led Drupal 8 migration projects, modernizing legacy content management systems for improved scalability.
 
 **Achievements:**
 
@@ -251,11 +257,11 @@ _Rivers Academy West London, Tachbrook Rd, Feltham TW14 9PE, United Kingdom _(20
 
 **Frontend Technologies**
 
-React _(11y)_ • TypeScript _(11y)_ • JavaScript _(11y)_ • Next.js _(7y)_ • Remix _(5y)_ • SolidJS _(6y)_ • React Native _(5y)_
+React _(11y)_ • TypeScript _(11y)_ • JavaScript _(11y)_ • Next.js _(7y)_ • Remix _(5y)_ • SolidJS _(6y)_ • React Native _(5y)_ • Web Performance _(8y)_ • Accessibility (a11y) _(8y)_ • Design Systems _(7y)_ • Tailwind CSS _(5y)_
 
 **Backend Technologies**
 
-Node.js _(11y)_ • Deno _(6y)_ • GraphQL _(7y)_ • Java _(5y)_ • Scala _(6y)_ • Rust _(6y)_ • Go _(6y)_
+Node.js _(11y)_ • Deno _(6y)_ • GraphQL _(7y)_ • Java _(5y)_ • Scala _(6y)_ • Rust _(6y)_ • Go _(6y)_ • REST APIs _(11y)_ • PostgreSQL _(11y)_ • MongoDB _(11y)_ • Redis _(8y)_
 
 **Cloud & DevOps**
 
@@ -269,34 +275,56 @@ Large Language Models (LLMs) _(5y)_ • OpenAI API _(5y)_ • Anthropic Claude _
 
 Jira _(11y)_ • Confluence _(11y)_ • Postman _(11y)_ • Git _(11y)_
 
+**Leadership & Process**
+
+Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Agile / Scrum _(11y)_ • Roadmap Planning _(7y)_ • Cross-functional Delivery _(8y)_ • Code Review & Architecture _(8y)_
+
 
 ---
 
 ## 🚀 Featured Projects
 
+### [Property Finder: Growth Engineering](https://www.fbritoferreira.com/projects/property-finder-seo)
+
+Front-end engineer on Property Finder's Growth team. Cut search page load time by 33%, improved CMS API from 500ms to 5ms, led UGC feature to production, and helped push the company to record share of voice in SEO.
+
+**Tech:** React,TypeScript,Node.js,Go,AWS
+
+### [Cue App](https://www.fbritoferreira.com/projects/cue-app)
+
+Technical lead for a cross-platform numerology app on iOS, Android, and Web. 90% code sharing from a single codebase, 50% faster feature releases, and a 4-person team.
+
+**Tech:** React Native,Next.js,TypeScript,Expo,Firebase
+
 ### [Roku AI Powered Support Chat](https://www.fbritoferreira.com/projects/roku-ai-chatbot)
 
-I contributed to building an AI-powered chat platform for Roku using AWS Connect, React, and Node.js. The system leveraged advanced AI, including natural language processing and machine learning, to provide instant responses to common queries, reducing wait times and enhancing user satisfaction. By routing complex issues to live agents and continuously learning from customer interactions, the chat platform significantly improved efficiency, scalability, and support quality for Roku’s growing user base.
+Built an AI chatbot for Roku using Claude V2 and GPT-3/4 via AWS Connect. Cut support tickets by 40%, bumped satisfaction by 25%, and hit 95% query resolution accuracy.
 
-**Tech:** AWS,AI,LLM,RAG,React,AWS Connect,NodeJS
+**Tech:** AWS,AI,LLM,RAG,React,AWS Connect,Node.js
 
 ### [NOW TV / Peacock TV](https://www.fbritoferreira.com/projects/nowtv)
 
-I spearheaded the rebuild of NOW TV’s Apple TV and Roku apps, leveraging React Native to unify platforms and create a white-label solution. From optimizing CI/CD pipelines (cutting build times from 25 hours to 1.5 hours) to modernizing critical web applications and introducing a GraphQL Backend for Frontends, I played a pivotal role in enhancing performance, scalability, and developer efficiency across the NOW TV ecosystem.
+Rebuilt NOW TV's Apple TV and Roku apps with React Native, slashed CI/CD from 25 hours to 1.5 hours, consolidated 12 European territory apps into 2 (83% less code), and built a GraphQL BFF with 99.9% uptime.
 
-**Tech:** React, Redux, Node.js, Apple TV, Roku
+**Tech:** React,React Native,Redux,Node.js,GraphQL,Apple TV,Roku
 
 ### [Sky Go](https://www.fbritoferreira.com/projects/sky-go)
 
-I contributed to the Windows and Mac versions of the Sky Go app, using Electron, React, and Redux. Supporting four regions with distinct content needs through a single codebase, we ensured seamless live TV and on-demand integration. I also built a custom CLI to automate code-signing and implemented a feature allowing users to stream recordings from their Sky satellite box, reducing CDN costs and enhancing user experience.
+Built the Windows and Mac Sky Go streaming app with Electron and React. Single codebase serving 4 regions, automated code-signing CLI, satellite box local streaming that cut CDN costs, and 99.5% crash-free sessions.
 
-**Tech:** Electron, React, Redux, Node.js
+**Tech:** Electron,React,Redux,Node.js,Akamai CDN
 
 ### [Cambridge Analytica / SCL Group](https://www.fbritoferreira.com/projects/cambridge-analytica)
 
-I played a key role in maintaining the online presence of Cambridge Analytica and SCL Group. As the sole developer at one point, I managed high-profile websites like ca-political.com and cambridgeanalytica.com. Using React, Redux, Node.js, and more, I ensured their functionality, security, and performance met modern standards.
+Sole web developer for 4 high-profile websites at Cambridge Analytica/SCL Group. Built the Pangea data platform (10M+ records/day), deployed AWS + K8s infrastructure with 99.9% uptime, and automated deployments (80% faster).
 
-**Tech:** React, Redux, Node.js, Express, Drupal, D3.js
+**Tech:** React,Redux,Node.js,Express,Drupal,D3.js,Scala,AWS,Kubernetes
+
+### [Pangea Data Platform](https://www.fbritoferreira.com/projects/pangea-data-platform)
+
+Built a data matching platform processing 10M+ records daily with sub-second response times on Scala, Drill, and Hadoop. Worked with the UK ICO for 2+ years pre-GDPR to shape data classification standards.
+
+**Tech:** Scala,React,Apache Drill,Hadoop,Mesos,AWS
 
 
 ---
@@ -306,34 +334,34 @@ I played a key role in maintaining the online presence of Cambridge Analytica an
 ### [Introducing @fbritoferreira/strapi: A Lightweight TypeScript Client for Strapi CMS v5](https://www.fbritoferreira.com/blog/lightweight-typescript-client-strapi-cms-v5-with-upsert)
 _17 Nov 2025_
 
-Discover the new lightweight and generic TypeScript client for Strapi CMS v5 that simplifies API interaction with strong type safety, advanced querying, and upsert support. This package was created to reduce boilerplate code and enhance developer productivity when working with Strapi, including a unique upsert feature for atomic create-or-update operations.
+Open-source TypeScript client for Strapi CMS v5 with full type safety, CRUD + upsert operations, advanced filtering, i18n support, and minimal dependencies. Built to eliminate boilerplate in content-driven apps.
 
-**Tags:** TypeScript,Strapi,Headless CMS,Open Source,Developer Tools
+**Tags:** typescript,strapi,open-source,developer-tools,headless-cms
 
 ### [The Decline of Western Video Game Development](https://www.fbritoferreira.com/blog/game-industy-software-downfall)
 _2 Jan 2025_
 
-Big-budget game failures like Justice League and Concord reveal deeper issues in the industry: a loss of talent, poor management practices, and a lack of mentorship for new developers. With short-term growth prioritized over sustainability, innovation and quality are suffering. To fix this, companies must focus on retaining talent, investing in training, and fostering long-term success.
+Why AAA game failures like Justice League and Concord point to systemic software engineering problems: talent exodus into management, broken mentorship pipelines, and Silicon Valley growth-at-all-costs culture.
 
-**Tags:** software development,industry,games
+**Tags:** software-engineering,gaming-industry,management,talent-retention,mentorship
 
 ### [Why I Interview Once a Year (Even When I'm Not Job Hunting)](https://www.fbritoferreira.com/blog/why-i-interview-once-a-year-even-when-not-job-hunting)
 _6 Oct 2024_
 
-In this blog post, I discuss the benefits of conducting annual job interviews, even when you're not actively job hunting. Regular interviewing helps with market awareness, skill benchmarking, networking, and boosting confidence. It also prepares you for unexpected career changes and strengthens your position in salary negotiations. Openly discussing this practice with your manager fosters transparency, trust, and could lead to internal growth opportunities. This approach is a proactive way to stay competitive and agile in your professional development, without compromising loyalty to your current employer.
+Annual interview practice keeps you sharp on market rates, skills benchmarking, and negotiation leverage without actively job hunting. How to do it transparently and why your manager should support it.
 
-**Tags:** hiring,interview,webdev
+**Tags:** career,tech-hiring,interviews,professional-development,salary-negotiation
 
 ### [From Coding Challenges to Real-World Skills: Rethinking the Modern Interview Process](https://www.fbritoferreira.com/blog/rethinking-tech-interviews)
 _8 Sept 2024_
 
-After a decade of experience as a software developer, both as an interviewer and an interviewee, I’ve come to realise that many interviews fail to effectively showcase a candidate’s true skills.
+‘After 250+ interviews across a decade as both interviewer and candidate, here is why LeetCode-style challenges fail to assess real-world engineering ability, and what companies should do instead.’
 
-**Tags:** hiring,interview,webdev
+**Tags:** tech-hiring,interviews,software-engineering,career,web-development
 
-### [Supper Club × GraphQL as an Aggregation Layer with Filipe Ferreira of Sky TV](https://www.fbritoferreira.com/blog/supper-club-graphql-as-an-aggregation-layer-with-filipe-ferreira-of-sky-tv)
+### [GraphQL as an Aggregation Layer: Architecture Patterns from Sky TV's Streaming Platform](https://www.fbritoferreira.com/blog/supper-club-graphql-as-an-aggregation-layer-with-filipe-ferreira-of-sky-tv)
 _28 Oct 2022_
 
-In this supper club episode of Syntax, Wes and Scott talk with Filipe Ferreira of Sky TV about the tech stack used to deliver streaming TV content, build Apple TV apps, host media, and more.
+How we used GraphQL as a Backend for Frontends at Sky TV, consolidating 12 microservices into a single API. 99.9% uptime, 50% faster responses, and 83% less code across territories. Originally discussed on the Syntax.fm podcast.
 
-**Tags:** podcast,syntaxfm
+**Tags:** graphql,architecture,streaming,node-js,typescript,backend
