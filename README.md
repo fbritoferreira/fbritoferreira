@@ -1,66 +1,64 @@
 # Filipe Brito Ferreira
 
-> Senior Software Engineer with 11 years building streaming platforms, real estate marketplaces, and AI-powered products. I've worked across React, TypeScript, Node.js, Go, and AWS at companies like Sky, Roku, and Property Finder.
+> Senior Full-Stack Engineer with 11 years building streaming platforms, real estate marketplaces, and AI-powered products. Proven track record delivering scalable systems across React, TypeScript, Node.js, Go, and AWS at companies including Sky, Roku, and Property Finder.
 
 
 ---
 
 ## ☎️ Contact Information
 
-- ![email](https://cdn.fbritoferreira.com/assets/logos/contacts/email-256.webp) [me@fbritoferreira.com](mailto:me@fbritoferreira.com)
-- ![github](https://cdn.fbritoferreira.com/assets/logos/contacts/github-256.webp) [fbritoferreira](https://github.com/fbritoferreira)
-- ![linkedin](https://cdn.fbritoferreira.com/assets/logos/contacts/linkedin-256.webp) [fbritoferreira](https://linkedin.com/in/fbritoferreira)
-- ![x](https://cdn.fbritoferreira.com/assets/logos/contacts/x-256.webp) [@fbritoferreira](https://twitter.com/fbritoferreira)
-- ![credly](https://cdn.fbritoferreira.com/assets/logos/contacts/credly-256.webp) [fbritoferreira](https://www.credly.com/users/fbritoferreira)
-- ![eportfolio](https://cdn.fbritoferreira.com/assets/logos/contacts/eportfolio-256.webp) [University Portfolio](https://www.mygreatlearning.com/eportfolio/filipe-brito-ferreira)
+- <img src="https://cdn.fbritoferreira.com/assets/logos/contacts/email-256.webp" alt="email" width="30" /> [me@fbritoferreira.com](mailto:me@fbritoferreira.com)
+- [fbritoferreira.com](https://www.fbritoferreira.com)
+- <img src="https://cdn.fbritoferreira.com/assets/logos/contacts/github-256.webp" alt="github" width="30" /> [github.com/fbritoferreira](https://github.com/fbritoferreira)
+- <img src="https://cdn.fbritoferreira.com/assets/logos/contacts/linkedin-256.webp" alt="linkedin" width="30" /> [linkedin.com/in/fbritoferreira](https://linkedin.com/in/fbritoferreira)
 
 ---
 
 ## 🌍 Availability & Languages
 
 - **Location:** Dubai Hills Estate, UAE
-- **Work Locations:** USA, UAE, PT
+- **Work Locations:** USA, UAE, PRT
 - **Remote:** Yes | **Relocation:** Yes | **Travel:** Yes
-- **Languages:** English, Portuguese
+- **Languages:** English, Portuguese, Spanish
 
 ---
 
 ## 🧠 Skills
 
-**Frontend Technologies**
+**Frontend**
 
-React _(11y)_ • TypeScript _(11y)_ • JavaScript _(11y)_ • Next.js _(7y)_ • Remix _(5y)_ • SolidJS _(6y)_ • React Native _(5y)_ • Web Performance _(8y)_ • Accessibility (a11y) _(8y)_ • Design Systems _(7y)_ • Tailwind CSS _(5y)_
+React _(11y)_ • TypeScript _(11y)_ • JavaScript _(11y)_ • Next.js _(7y)_ • React Native _(5y)_ • Web Performance _(8y)_ • Accessibility (a11y) _(8y)_ • Design Systems _(7y)_
 
-**Backend Technologies**
+**Backend**
 
-Node.js _(11y)_ • Deno _(6y)_ • GraphQL _(7y)_ • Java _(5y)_ • Scala _(6y)_ • Rust _(6y)_ • Go _(6y)_ • REST APIs _(11y)_ • PostgreSQL _(11y)_ • MongoDB _(11y)_ • Redis _(8y)_
+Node.js _(11y)_ • GraphQL _(7y)_ • Go _(6y)_ • Scala _(6y)_ • REST APIs _(11y)_ • PostgreSQL _(11y)_ • MongoDB _(11y)_ • Redis _(8y)_
 
 **Cloud & DevOps**
 
-AWS _(11y)_ • Kubernetes _(11y)_ • Docker _(11y)_ • Helm _(11y)_ • GitLab CI/CD _(11y)_ • GitHub Actions _(5y)_ • Terraform _(11y)_
+AWS _(11y)_ • Kubernetes _(11y)_ • Docker _(11y)_ • CI/CD (GitLab, GitHub Actions) _(11y)_ • Terraform _(11y)_
 
-**AI & Machine Learning**
+**AI & ML**
 
-Large Language Models (LLMs) _(5y)_ • OpenAI API _(5y)_ • Anthropic Claude _(5y)_ • Chatbot Development _(5y)_
+LLMs (GPT, Claude) _(5y)_ • OpenAI API _(5y)_ • Chatbot Development _(5y)_
 
-**Tools & Platforms**
+**Tools & Process**
 
-Jira _(11y)_ • Confluence _(11y)_ • Postman _(11y)_ • Git _(11y)_
+Git _(11y)_ • Jira _(11y)_ • Confluence _(11y)_ • Agile / Scrum _(11y)_
 
-**Leadership & Process**
+**Leadership**
 
-Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Agile / Scrum _(11y)_ • Roadmap Planning _(7y)_ • Cross-functional Delivery _(8y)_ • Code Review & Architecture _(8y)_
+Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Roadmap Planning _(7y)_ • Code Review & Architecture _(8y)_
 
 
 ---
 
 ## 👩🏻‍💻 Work Experience
 
-### ![Property Finder](https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp) Front-End Engineer
+### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Full-Stack Engineer
 _[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Present_
 📍 Dubai, UAE
 
-Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. I own SEO, performance, and feature development for user acquisition.
+Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. Owns SEO, performance, and feature development for user acquisition.
 
 **Tech:** React, TypeScript, Node.js, Go, AWS
 
@@ -68,12 +66,11 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
 
 **Responsibilities:**
 
-- Drove SEO optimization across the core website, cutting search page load time by 33% and helping the company reach record share of voice in organic search.
-- Led the UGC (User-Generated Content) feature from initial design through to production, covering the content pipeline, moderation system, and frontend display.
-- Partner with 5+ external stakeholders to align SEO strategies for 3rd-party applications.
-- Own the technical roadmap for both backend and frontend within a 5-person engineering team.
+- Drive SEO optimization across the core website, cutting search page load time by 33% and achieving record share of voice in organic search. Recognized by the CEO as an exceptional result.
+- Lead the UGC (User-Generated Content) feature from initial design through to production, covering the content pipeline, moderation system, and frontend display.
+- Coordinate SEO strategies with 5+ external stakeholders for third-party applications.
 - Mentor 2 junior engineers on React, TypeScript, and performance patterns.
-- Cut CMS API response time from 500ms to 5ms (99% improvement) on SEO-critical endpoints.
+- Optimize CMS API response time from 500ms to 5ms (99% improvement) on SEO-critical endpoints.
 
 **Achievements:**
 
@@ -90,7 +87,7 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
   _Metrics: 33% reduction in search page load time_
 
 
-### ![Roku](https://cdn.fbritoferreira.com/assets/logos/roku-256.webp) Senior Software Engineer
+### <img src="https://cdn.fbritoferreira.com/assets/logos/roku-256.webp" alt="Roku" width="30" /> Senior Software Engineer (Full-Stack & Platform)
 _[Roku](https://www.roku.com/) | Feb 2023 – Jul 2025_
 📍 Manchester, UK
 
@@ -106,7 +103,7 @@ Worked on Roku's streaming platform, building AI-powered customer support tools 
 - Architected scalable media web frameworks supporting 5M+ daily active users across 10+ device platforms.
 - Integrated advanced LLMs (Claude V2, GPT-3/4) into production systems, achieving 95% accuracy in customer query resolution.
 - Mentored 3 junior developers and contributed to architectural decisions that reduced development time by 30% for new features.
-- Collaborated with cross-functional teams of 12+ engineers to improve customer satisfaction metrics and platform reliability.
+- Partnered with 12+ cross-functional engineers to improve customer satisfaction and platform reliability.
 
 **Achievements:**
 
@@ -128,34 +125,7 @@ Worked on Roku's streaming platform, building AI-powered customer support tools 
   - Achieved 95% accuracy in customer query resolution
 
 
-### ![Cue App](https://cdn.fbritoferreira.com/assets/logos/cue-app-256.webp) Lead Software Engineer (Part-time)
-_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | Jun 2023 – Jul 2025_
-📍 Remote
-
-Technical lead for a cross-platform numerology application, overseeing development across iOS, Android, and web platforms.
-
-**Team Size:** 4
-
-**Tech:** React Native, Next.js, TypeScript, Expo, Firebase
-
-**Industries:** mobile apps, numerology, wellness
-
-**Responsibilities:**
-
-- Lead technical architecture and development strategy for a 4-person cross-platform engineering team.
-- Architect a unified codebase enabling 90% code sharing across iOS, Android, and Web platforms.
-- Implement scalable solutions using React Native and Next.js, delivering 50% faster feature releases.
-- Drive product roadmap prioritization across 3 platforms in collaboration with stakeholders, aligning technical and business goals.
-- Establish code quality standards and performance optimization practices across 3 platform targets.
-
-**Achievements:**
-
-- **Cross-Platform Architecture**
-  Designed unified architecture enabling 90% code sharing across platforms
-  _Metrics: 90% code reuse, 50% faster feature delivery_
-
-
-### ![Sky UK](https://cdn.fbritoferreira.com/assets/logos/sky-256.webp) Software Engineer
+### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Software Engineer (Streaming Platform)
 _[Sky UK](https://www.sky.com/) | Sep 2018 – Feb 2023_
 📍 London, UK
 
@@ -182,13 +152,13 @@ Full-stack engineer working on multiple high-traffic streaming platforms includi
   Reduced 12 separate territory apps to 2 unified applications
   _Metrics: 83% reduction in codebases, 60% faster feature deployment_
 - **GraphQL Middleware**
-  Built GraphQL layer achieving three nines availability
+  Built GraphQL layer achieving 99.9% availability
   _Metrics: 99.9% uptime, 50% reduction in API response times_
 
 **Projects:**
 
 - **Sky GO Desktop Application**
-  Role: Senior Developer
+  Role: Senior Engineer
   Cross-platform desktop streaming application for Mac and Windows
   _Tech: Electron, React, TypeScript, Redux_
   - Built automated code signing and deployment pipeline
@@ -203,8 +173,9 @@ Full-stack engineer working on multiple high-traffic streaming platforms includi
   - Reduced maintenance overhead by 70%
 
 
-### ![Love Holidays](https://cdn.fbritoferreira.com/assets/logos/love-holidays-256.webp) Front-End Developer (Contract)
+### <img src="https://cdn.fbritoferreira.com/assets/logos/love-holidays-256.webp" alt="Love Holidays" width="30" /> Front-End Engineer (Contract)
 _[Love Holidays](https://www.loveholidays.com/) | Jun 2018 – Aug 2018_
+📍 London, UK
 
 Contract frontend developer focused on feature development and A/B testing for a major travel booking platform.
 
@@ -215,9 +186,7 @@ Contract frontend developer focused on feature development and A/B testing for a
 **Responsibilities:**
 
 - Developed 3 new booking flow features for a high-traffic travel platform processing 10,000+ daily transactions.
-- Implemented A/B testing using Google Optimize, driving a 15% improvement in booking conversion rates.
-- Optimized user experience and page performance, reducing bounce rates by 12% and increasing user engagement.
-- Collaborated with 4 UX designers and product managers to ship responsive, mobile-first feature implementations.
+- Implemented A/B testing using Google Optimize, driving a 15% improvement in booking conversion rates and reducing bounce rates by 12%.
 
 **Achievements:**
 
@@ -226,19 +195,19 @@ Contract frontend developer focused on feature development and A/B testing for a
   _Metrics: 15% improvement in conversion rates_
 
 
-### ![SCL Elections / Cambridge Analytica](https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp) Web Developer
-_[SCL Elections / Cambridge Analytica](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | Jun 2015 – May 2018_
+### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group" width="30" /> Web Developer
+_[SCL Group](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | Jun 2015 – May 2018_
 📍 London, UK
 
-Full-stack developer responsible for web applications, data platforms, and DevOps infrastructure in a fast-paced political technology environment.
+Full-stack developer responsible for web applications, data platforms, and DevOps infrastructure in a fast-paced data analytics environment.
 
 **Tech:** Scala, React, Node.js, MongoDB, AWS, Kubernetes, Go, Drupal
 
-**Industries:** political technology, data analytics, software development, machine learning
+**Industries:** data analytics, software development, machine learning
 
 **Responsibilities:**
 
-- Delivered 8+ full-stack solutions using MEAN stack for data-intensive political technology applications.
+- Delivered 8+ full-stack solutions using MEAN stack for data-intensive analytics applications.
 - Built the Pangea data matching platform processing 10M+ records daily with sub-second response times.
 - Implemented AWS infrastructure solutions and Kubernetes orchestration, achieving 99.9% system uptime.
 - Developed DevOps tooling that reduced deployment time by 80% through automated CI/CD pipelines.
@@ -256,7 +225,7 @@ Full-stack developer responsible for web applications, data platforms, and DevOp
 **Projects:**
 
 - **Pangea Data Management Platform**
-  Role: Full-Stack Developer
+  Role: Full-Stack Engineer
   Large-scale data matching and management system
   _Tech: Scala, React, PostgreSQL, AWS_
   - Processed millions of records with high accuracy
@@ -278,8 +247,17 @@ Full-stack developer responsible for web applications, data platforms, and DevOp
 
 ## 🎓 Education
 
+### Post Graduate Program in AI & Machine Learning
+_[University of Texas at Austin, McCombs School of Business](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course), Austin, Texas, United States 2025 – 2026_
+
+**Field:** AI & Machine Learning: Business Applications
+
+**GPA:** 4.0
+
+**Relevant Coursework:** Machine Learning • Natural Language Processing • Generative AI • AI Agents • Model Deployment • Computer Vision
+
 ### Extended Diploma in IT
-_West Thames College, London Rd, Isleworth TW7 4HS, United Kingdom 2013 – 2015_
+_[West Thames College](https://www.wlc.ac.uk), London Rd, Isleworth TW7 4HS, United Kingdom 2013 – 2015_
 
 **Field:** Information Technology
 
