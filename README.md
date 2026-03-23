@@ -359,6 +359,18 @@ Built a data matching platform processing 10M+ records daily with sub-second res
 
 **Tech:** Scala,React,Apache Drill,Hadoop,Mesos,AWS
 
+### [Trump Campaign 2016](https://www.fbritoferreira.com/projects/trump-campaign)
+
+Technical lead for Syphon, a data visualization platform powering the 2016 Trump campaign's media strategy across social and traditional channels — achieving $0.20 spent for every $1 spent by the opposition.
+
+**Tech:** D3.js,React,Node.js,Facebook Ads,Google Ads
+
+### [Ted Cruz Campaign 2015](https://www.fbritoferreira.com/projects/ted-cruz-campaign)
+
+Developer on SCL Group's data-driven campaign platform for Ted Cruz — OCEAN personality profiles for ~300 million people, automated phone calling tied to voter profiles, and nationwide ad targeting across social and traditional media. Helped deliver the Iowa caucus upset, where Cruz defeated Trump at 4-1 odds.
+
+**Tech:** D3.js,React,Node.js,PHP,Facebook Ads,Google Ads
+
 
 ---
 
