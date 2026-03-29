@@ -58,7 +58,7 @@ Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Roadmap Planning _
 _[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Present_
 📍 Dubai, UAE
 
-Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. Owns SEO, performance, and feature development for user acquisition.
+Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. Owning SEO, performance, and feature development for user acquisition.
 
 **Tech:** React, TypeScript, Node.js, Go, AWS
 
@@ -111,7 +111,7 @@ Worked on Roku's streaming platform, building AI-powered customer support tools 
   Reduced customer support tickets by 40%, enhancing user experience for a major entertainment streaming platform.
   _Metrics: 40% reduction in support tickets, 25% improvement in customer satisfaction_
 - **Web Core Framework Development**
-  Built reusable tools and frameworks that improved engineering productivity across multiple teams
+  Built reusable tools and frameworks that improved engineering productivity across multiple teams.
   _Metrics: 30% reduction in development time for new features_
 
 **Projects:**
@@ -146,13 +146,13 @@ Full-stack engineer working on multiple high-traffic streaming platforms includi
 **Achievements:**
 
 - **Apple TV Launch**
-  Successfully delivered NOW TV on Apple TV platform ahead of schedule
+  Successfully delivered NOW TV on Apple TV platform ahead of schedule.
   _Metrics: On-time delivery, 99.9% uptime achieved_
 - **European Consolidation Project**
-  Reduced 12 separate territory apps to 2 unified applications
+  Reduced 12 separate territory apps to 2 unified applications.
   _Metrics: 83% reduction in codebases, 60% faster feature deployment_
 - **GraphQL Middleware**
-  Built GraphQL layer achieving 99.9% availability
+  Built GraphQL layer achieving 99.9% availability.
   _Metrics: 99.9% uptime, 50% reduction in API response times_
 
 **Projects:**
@@ -191,7 +191,7 @@ Contract frontend developer focused on feature development and A/B testing for a
 **Achievements:**
 
 - **Conversion Rate Optimization**
-  Implemented A/B tests that improved booking conversion rates
+  Implemented A/B tests that improved booking conversion rates.
   _Metrics: 15% improvement in conversion rates_
 
 
@@ -216,10 +216,10 @@ Full-stack developer responsible for web applications, data platforms, and DevOp
 **Achievements:**
 
 - **Pangea Data Platform**
-  Built scalable data matching platform handling large datasets
+  Built scalable data matching platform handling large datasets.
   _Metrics: Processing 10M+ records daily with sub-second response times_
 - **Infrastructure Automation**
-  Implemented Kubernetes-based infrastructure reducing deployment time
+  Implemented Kubernetes-based infrastructure reducing deployment time.
   _Metrics: 80% reduction in deployment time, 99.9% uptime_
 
 **Projects:**
@@ -376,19 +376,19 @@ Developer on SCL Group's data-driven campaign platform for Ted Cruz — OCEAN pe
 
 ## ✍️ Writing & Publications
 
+### [Stop Hardcoding Secrets in Your Shell: Use Bitwarden CLI](https://www.fbritoferreira.com/blog/managing-shell-secrets-with-bitwarden-cli)
+_28 Mar 2026_
+
+A simple way to manage shell secrets using Bitwarden CLI and macOS Keychain, no more plaintext exports, no more anxiety every time you open your `.zshrc`.
+
+**Tags:** security,devtools,shell,open-source,software-engineering
+
 ### [Introducing @fbritoferreira/strapi: A Lightweight TypeScript Client for Strapi CMS v5](https://www.fbritoferreira.com/blog/lightweight-typescript-client-strapi-cms-v5-with-upsert)
 _17 Nov 2025_
 
 Open-source TypeScript client for Strapi CMS v5 with full type safety, CRUD + upsert operations, advanced filtering, i18n support, and minimal dependencies. Built to eliminate boilerplate in content-driven apps.
 
 **Tags:** typescript,strapi,open-source,developer-tools,headless-cms
-
-### [The Decline of Western Video Game Development](https://www.fbritoferreira.com/blog/game-industy-software-downfall)
-_2 Jan 2025_
-
-Why AAA game failures like Justice League and Concord point to systemic software engineering problems: talent exodus into management, broken mentorship pipelines, and Silicon Valley growth-at-all-costs culture.
-
-**Tags:** software-engineering,gaming-industry,management,talent-retention,mentorship
 
 ### [From Coding Challenges to Real-World Skills: Rethinking the Modern Interview Process](https://www.fbritoferreira.com/blog/rethinking-tech-interviews)
 _8 Sept 2024_
