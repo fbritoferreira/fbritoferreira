@@ -376,6 +376,13 @@ Developer on SCL Group's data-driven campaign platform for Ted Cruz — OCEAN pe
 
 ## ✍️ Writing & Publications
 
+### [We're Shipping More Code Than Ever. We Understand Less of It.](https://www.fbritoferreira.com/blog/were-shipping-more-code-than-ever-we-understand-less-of-it)
+_3 May 2026_
+
+AI tools made developers faster on paper and slower in practice. Output is up, learning is down, debugging takes longer, and bad habits compound while managers keep raising the quota. The tools aren't the problem. Treating them like a thinking replacement is.
+
+**Tags:** ai,software-engineering,developer-experience,burnout,management
+
 ### [Stop Hardcoding Secrets in Your Shell: Use Bitwarden CLI](https://www.fbritoferreira.com/blog/managing-shell-secrets-with-bitwarden-cli)
 _28 Mar 2026_
 
