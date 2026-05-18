@@ -1,6 +1,6 @@
 # Filipe Brito Ferreira
 
-> Senior Full-Stack Engineer with 11 years building streaming platforms, real estate marketplaces, and AI-powered products. Proven track record delivering scalable systems across React, TypeScript, Node.js, Go, and AWS at companies including Sky, Roku, and Property Finder.
+> Senior Front-End Engineer with 11 years building streaming platforms, real estate marketplaces, and AI-powered products. Proven track record shipping fast, accessible, scalable interfaces with React, TypeScript, and modern web tooling at companies including Sky, Roku, and Property Finder.
 
 
 ---
@@ -27,15 +27,19 @@
 
 **Frontend**
 
-React _(11y)_ • TypeScript _(11y)_ • JavaScript _(11y)_ • Next.js _(7y)_ • React Native _(5y)_ • Web Performance _(8y)_ • Accessibility (a11y) _(8y)_ • Design Systems _(7y)_
+React _(11y)_ • TypeScript _(11y)_ • JavaScript _(11y)_ • Next.js _(7y)_ • Astro _(2y)_ • React Native _(5y)_ • Tailwind CSS _(5y)_ • CSS / HTML _(11y)_ • Testing (Vitest, RTL, Playwright) _(8y)_ • Design Systems _(7y)_
 
-**Backend**
+**Performance & Quality**
 
-Node.js _(11y)_ • GraphQL _(7y)_ • Go _(6y)_ • Scala _(6y)_ • REST APIs _(11y)_ • PostgreSQL _(11y)_ • MongoDB _(11y)_ • Redis _(8y)_
+Web Vitals & Lighthouse _(8y)_ • Accessibility (WCAG AA / AAA) _(8y)_ • SEO Engineering _(6y)_ • Bundle & Browser Profiling _(8y)_ • Web Performance _(8y)_
+
+**Backend (Supporting)**
+
+Node.js _(11y)_ • GraphQL & BFF _(7y)_ • REST APIs _(11y)_ • PostgreSQL _(11y)_ • MongoDB _(11y)_ • Redis _(8y)_
 
 **Cloud & DevOps**
 
-AWS _(11y)_ • Kubernetes _(11y)_ • Docker _(11y)_ • CI/CD (GitLab, GitHub Actions) _(11y)_ • Terraform _(11y)_
+AWS _(11y)_ • Cloudflare (Pages, Workers) _(4y)_ • Docker _(11y)_ • CI/CD (GitHub Actions, GitLab) _(11y)_ • Kubernetes _(11y)_ • Terraform _(11y)_
 
 **AI & ML**
 
@@ -54,13 +58,13 @@ Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Roadmap Planning _
 
 ## 👩🏻‍💻 Work Experience
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Full-Stack Engineer
+### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Senior Front-End Engineer
 _[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Present_
 📍 Dubai, UAE
 
 Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. Owning SEO, performance, and feature development for user acquisition.
 
-**Tech:** React, TypeScript, Node.js, Go, AWS
+**Tech:** React, TypeScript, Web Performance, SEO, Node.js, Go, AWS
 
 **Industries:** real estate, property technology, online marketplaces
 
@@ -70,7 +74,7 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
 - Lead the UGC (User-Generated Content) feature from initial design through to production, covering the content pipeline, moderation system, and frontend display.
 - Coordinate SEO strategies with 5+ external stakeholders for third-party applications.
 - Mentor 2 junior engineers on React, TypeScript, and performance patterns.
-- Optimize CMS API response time from 500ms to 5ms (99% improvement) on SEO-critical endpoints.
+- Make SEO-critical pages snappier by restructuring how the FE consumes CMS content (response time 500ms → 5ms, 99% improvement).
 
 **Achievements:**
 
@@ -87,13 +91,13 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
   _Metrics: 33% reduction in search page load time_
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/roku-256.webp" alt="Roku" width="30" /> Senior Software Engineer (Full-Stack & Platform)
+### <img src="https://cdn.fbritoferreira.com/assets/logos/roku-256.webp" alt="Roku" width="30" /> Senior Front-End Engineer (Platform)
 _[Roku](https://www.roku.com/) | Feb 2023 – Jul 2025_
 📍 Manchester, UK
 
-Worked on Roku's streaming platform, building AI-powered customer support tools and web frameworks used across multiple device platforms.
+Front-end engineer on Roku's web platform. Built AI-powered customer support UI and shared web frameworks consumed by millions of daily users across 10+ device platforms.
 
-**Tech:** React, TypeScript, Node.js, GraphQL, AWS, LLMs, Python
+**Tech:** React, TypeScript, GraphQL, Web Performance, Node.js, AWS, LLMs, Python
 
 **Industries:** streaming media, entertainment, technology
 
@@ -125,23 +129,23 @@ Worked on Roku's streaming platform, building AI-powered customer support tools 
   - Achieved 95% accuracy in customer query resolution
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Software Engineer (Streaming Platform)
+### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Front-End Engineer (Streaming Platform)
 _[Sky UK](https://www.sky.com/) | Sep 2018 – Feb 2023_
 📍 London, UK
 
-Full-stack engineer working on multiple high-traffic streaming platforms including Sky GO and NOW TV, serving millions of users across various devices and territories.
+Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) serving millions daily on web, desktop and TV devices. Owned the BFF / GraphQL middleware where the FE consumed it directly.
 
-**Tech:** React, TypeScript, GraphQL, AWS, Kubernetes, Redis, Apollo Server
+**Tech:** React, TypeScript, Electron, Redux, GraphQL, Apollo, Web Performance, AWS, Kubernetes, Redis
 
 **Industries:** telecommunications, streaming services, media
 
 **Responsibilities:**
 
-- Developed and maintained 5 streaming applications (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) serving millions of daily users.
-- Built CI/CD pipelines and development tooling that reduced deployment time by 60% and improved engineering productivity across 5 teams.
-- Architected a GraphQL middleware layer achieving 99.9% uptime and 50% reduction in API response times.
-- Implemented analytics and monitoring solutions across multiple streaming platforms and 12 European territories.
-- Led European market consolidation, reducing 12 separate territory apps into 2 unified platforms (83% less code to maintain).
+- Shipped and maintained the front-end of 5 streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) serving millions of daily users on web, desktop and TV devices.
+- Led the FE side of the European consolidation that collapsed 12 territory apps into 2 unified platforms (83% less code to maintain).
+- Built a GraphQL/BFF layer the FE owned end-to-end, cutting API roundtrips and dropping response times by 50% (99.9% uptime).
+- Introduced analytics, error monitoring, and performance budgets across the streaming platforms.
+- Set up CI/CD pipelines and FE tooling that cut deployment time by 60% across five teams.
 
 **Achievements:**
 
@@ -195,23 +199,22 @@ Contract frontend developer focused on feature development and A/B testing for a
   _Metrics: 15% improvement in conversion rates_
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group" width="30" /> Web Developer
+### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group" width="30" /> Front-End Engineer
 _[SCL Group](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | Jun 2015 – May 2018_
 📍 London, UK
 
-Full-stack developer responsible for web applications, data platforms, and DevOps infrastructure in a fast-paced data analytics environment.
+Front-end engineer on data-heavy analytics web apps. Owned UI for political-data tools and CMS-driven sites; picked up CI/CD and AWS where it unblocked FE delivery.
 
-**Tech:** Scala, React, Node.js, MongoDB, AWS, Kubernetes, Go, Drupal
+**Tech:** React, Redux, JavaScript, TypeScript, Drupal (FE templating), Node.js, MongoDB, AWS, Kubernetes, Scala, Go
 
 **Industries:** data analytics, software development, machine learning
 
 **Responsibilities:**
 
-- Delivered 8+ full-stack solutions using MEAN stack for data-intensive analytics applications.
-- Built the Pangea data matching platform processing 10M+ records daily with sub-second response times.
-- Implemented AWS infrastructure solutions and Kubernetes orchestration, achieving 99.9% system uptime.
-- Developed DevOps tooling that reduced deployment time by 80% through automated CI/CD pipelines.
-- Led Drupal 8 migration projects, modernizing legacy content management systems for improved scalability.
+- Built the front-end for 8+ analytics web apps used by political-data teams; sole web developer on several flagship projects.
+- Led Drupal 8 migrations, modernizing legacy templating and FE delivery for content-heavy sites.
+- Designed the FE for the Pangea data matching platform — a UI processing 10M+ records daily with sub-second interactions.
+- Took over CI/CD pipelines and Kubernetes/AWS infra when it unblocked FE delivery (deployment time -80%, 99.9% uptime).
 
 **Achievements:**
 
@@ -225,7 +228,7 @@ Full-stack developer responsible for web applications, data platforms, and DevOp
 **Projects:**
 
 - **Pangea Data Management Platform**
-  Role: Full-Stack Engineer
+  Role: Front-End Lead (Full-stack delivery)
   Large-scale data matching and management system
   _Tech: Scala, React, PostgreSQL, AWS_
   - Processed millions of records with high accuracy
@@ -317,59 +320,59 @@ _[Rivers Academy West London](https://riversacademy.com), Tachbrook Rd, Feltham 
 
 ## 🚀 Featured Projects
 
-### [Property Finder: Growth Engineering](https://www.fbritoferreira.com/projects/property-finder-seo)
+### [Cambridge Analytica / SCL Group](https://www.fbritoferreira.com/projects/cambridge-analytica)
 
-Front-end engineer on Property Finder's Growth team. Cut search page load time by 33%, improved CMS API from 500ms to 5ms, led UGC feature to production, and helped push the company to record share of voice in SEO.
+Sole web developer for 4 high-profile websites at Cambridge Analytica/SCL Group. Built the Pangea data platform (10M+ records/day), deployed AWS + K8s infrastructure with 99.9% uptime, and automated deployments (80% faster).
 
-**Tech:** React,TypeScript,Node.js,Go,AWS
+**Tech:** React, Redux, Node.js, Express, Drupal, D3.js, Scala, AWS, Kubernetes
 
 ### [Cue App](https://www.fbritoferreira.com/projects/cue-app)
 
 Technical lead for a cross-platform numerology app on iOS, Android, and Web. 90% code sharing from a single codebase, 50% faster feature releases, and a 4-person team.
 
-**Tech:** React Native,Next.js,TypeScript,Expo,Firebase
-
-### [Roku AI Powered Support Chat](https://www.fbritoferreira.com/projects/roku-ai-chatbot)
-
-Built an AI chatbot for Roku using Claude V2 and GPT-3/4 via AWS Connect. Cut support tickets by 40%, bumped satisfaction by 25%, and hit 95% query resolution accuracy.
-
-**Tech:** AWS,AI,LLM,RAG,React,AWS Connect,Node.js
+**Tech:** React Native, Next.js, TypeScript, Expo, Firebase
 
 ### [NOW TV / Peacock TV](https://www.fbritoferreira.com/projects/nowtv)
 
 Rebuilt NOW TV's Apple TV and Roku apps with React Native, slashed CI/CD from 25 hours to 1.5 hours, consolidated 12 European territory apps into 2 (83% less code), and built a GraphQL BFF with 99.9% uptime.
 
-**Tech:** React,React Native,Redux,Node.js,GraphQL,Apple TV,Roku
-
-### [Sky Go](https://www.fbritoferreira.com/projects/sky-go)
-
-Built the Windows and Mac Sky Go streaming app with Electron and React. Single codebase serving 4 regions, automated code-signing CLI, satellite box local streaming that cut CDN costs, and 99.5% crash-free sessions.
-
-**Tech:** Electron,React,Redux,Node.js,Akamai CDN
-
-### [Cambridge Analytica / SCL Group](https://www.fbritoferreira.com/projects/cambridge-analytica)
-
-Sole web developer for 4 high-profile websites at Cambridge Analytica/SCL Group. Built the Pangea data platform (10M+ records/day), deployed AWS + K8s infrastructure with 99.9% uptime, and automated deployments (80% faster).
-
-**Tech:** React,Redux,Node.js,Express,Drupal,D3.js,Scala,AWS,Kubernetes
+**Tech:** React, React Native, Redux, Node.js, GraphQL, Apple TV, Roku
 
 ### [Pangea Data Platform](https://www.fbritoferreira.com/projects/pangea-data-platform)
 
 Built a data matching platform processing 10M+ records daily with sub-second response times on Scala, Drill, and Hadoop. Worked with the UK ICO for 2+ years pre-GDPR to shape data classification standards.
 
-**Tech:** Scala,React,Apache Drill,Hadoop,Mesos,AWS
+**Tech:** Scala, React, Apache Drill, Hadoop, Mesos, AWS
 
-### [Trump Campaign 2016](https://www.fbritoferreira.com/projects/trump-campaign)
+### [Property Finder: Growth Engineering](https://www.fbritoferreira.com/projects/property-finder-seo)
 
-Technical lead for Syphon, a data visualization platform powering the 2016 Trump campaign's media strategy across social and traditional channels — achieving $0.20 spent for every $1 spent by the opposition.
+Front-end engineer on Property Finder's Growth team. Cut search page load time by 33%, improved CMS API from 500ms to 5ms, led UGC feature to production, and helped push the company to record share of voice in SEO.
 
-**Tech:** D3.js,React,Node.js,Facebook Ads,Google Ads
+**Tech:** React, TypeScript, Node.js, Go, AWS
+
+### [Roku AI Powered Support Chat](https://www.fbritoferreira.com/projects/roku-ai-chatbot)
+
+Built an AI chatbot for Roku using Claude V2 and GPT-3/4 via AWS Connect. Cut support tickets by 40%, bumped satisfaction by 25%, and hit 95% query resolution accuracy.
+
+**Tech:** AWS, AI, LLM, RAG, React, AWS Connect, Node.js
+
+### [Sky Go](https://www.fbritoferreira.com/projects/sky-go)
+
+Built the Windows and Mac Sky Go streaming app with Electron and React. Single codebase serving 4 regions, automated code-signing CLI, satellite box local streaming that cut CDN costs, and 99.5% crash-free sessions.
+
+**Tech:** Electron, React, Redux, Node.js, Akamai CDN
 
 ### [Ted Cruz Campaign 2015](https://www.fbritoferreira.com/projects/ted-cruz-campaign)
 
 Developer on SCL Group's data-driven campaign platform for Ted Cruz — OCEAN personality profiles for ~300 million people, automated phone calling tied to voter profiles, and nationwide ad targeting across social and traditional media. Helped deliver the Iowa caucus upset, where Cruz defeated Trump at 4-1 odds.
 
-**Tech:** D3.js,React,Node.js,PHP,Facebook Ads,Google Ads
+**Tech:** D3.js, React, Node.js, PHP, Facebook Ads, Google Ads
+
+### [Trump Campaign 2016](https://www.fbritoferreira.com/projects/trump-campaign)
+
+Technical lead for Syphon, a data visualization platform powering the 2016 Trump campaign's media strategy across social and traditional channels — achieving $0.20 spent for every $1 spent by the opposition.
+
+**Tech:** D3.js, React, Node.js, Facebook Ads, Google Ads
 
 
 ---
@@ -381,35 +384,35 @@ _3 May 2026_
 
 AI tools made developers faster on paper and slower in practice. Output is up, learning is down, debugging takes longer, and bad habits compound while managers keep raising the quota. The tools aren't the problem. Treating them like a thinking replacement is.
 
-**Tags:** ai,software-engineering,developer-experience,burnout,management
+**Tags:** ai, software-engineering, developer-experience, burnout, management
 
 ### [Stop Hardcoding Secrets in Your Shell: Use Bitwarden CLI](https://www.fbritoferreira.com/blog/managing-shell-secrets-with-bitwarden-cli)
 _28 Mar 2026_
 
 A simple way to manage shell secrets using Bitwarden CLI and macOS Keychain, no more plaintext exports, no more anxiety every time you open your `.zshrc`.
 
-**Tags:** security,devtools,shell,open-source,software-engineering
+**Tags:** security, devtools, shell, open-source, software-engineering
 
 ### [Introducing @fbritoferreira/strapi: A Lightweight TypeScript Client for Strapi CMS v5](https://www.fbritoferreira.com/blog/lightweight-typescript-client-strapi-cms-v5-with-upsert)
 _17 Nov 2025_
 
 Open-source TypeScript client for Strapi CMS v5 with full type safety, CRUD + upsert operations, advanced filtering, i18n support, and minimal dependencies. Built to eliminate boilerplate in content-driven apps.
 
-**Tags:** typescript,strapi,open-source,developer-tools,headless-cms
+**Tags:** typescript, strapi, open-source, developer-tools, headless-cms
 
 ### [From Coding Challenges to Real-World Skills: Rethinking the Modern Interview Process](https://www.fbritoferreira.com/blog/rethinking-tech-interviews)
 _8 Sept 2024_
 
 ‘After 250+ interviews across a decade as both interviewer and candidate, here is why LeetCode-style challenges fail to assess real-world engineering ability, and what companies should do instead.’
 
-**Tags:** tech-hiring,interviews,software-engineering,career,web-development
+**Tags:** tech-hiring, interviews, software-engineering, career, web-development
 
 ### [GraphQL as an Aggregation Layer: Architecture Patterns from Sky TV's Streaming Platform](https://www.fbritoferreira.com/blog/supper-club-graphql-as-an-aggregation-layer-with-filipe-ferreira-of-sky-tv)
 _28 Oct 2022_
 
 How we used GraphQL as a Backend for Frontends at Sky TV, consolidating 12 microservices into a single API. 99.9% uptime, 50% faster responses, and 83% less code across territories. Originally discussed on the Syntax.fm podcast.
 
-**Tags:** graphql,architecture,streaming,node-js,typescript,backend
+**Tags:** graphql, architecture, streaming, node-js, typescript, backend
 
 
 ---
