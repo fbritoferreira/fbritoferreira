@@ -379,6 +379,13 @@ Technical lead for Syphon, a data visualization platform powering the 2016 Trump
 
 ## ✍️ Writing & Publications
 
+### [No Juniors Today, No Seniors in 2031](https://www.fbritoferreira.com/blog/no-juniors-today-no-seniors-in-2031)
+_25 May 2026_
+
+Junior hiring is down 40%. AI gave boards the rationale to keep cutting. The apprenticeship lag is 5–7 years. No juniors today means no seniors in 2031.
+
+**Tags:** ai, software-engineering, hiring, engineering-management, career
+
 ### [We're Shipping More Code Than Ever. We Understand Less of It.](https://www.fbritoferreira.com/blog/were-shipping-more-code-than-ever-we-understand-less-of-it)
 _3 May 2026_
 
