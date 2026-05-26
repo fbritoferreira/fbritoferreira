@@ -255,9 +255,11 @@ _[University of Texas at Austin, McCombs School of Business](https://onlineexece
 
 **Field:** AI & Machine Learning: Business Applications
 
-**GPA:** 4.0
+**GPA:** 4.09
 
 **Relevant Coursework:** Machine Learning • Natural Language Processing • Generative AI • AI Agents • Model Deployment • Computer Vision
+
+[Verify](https://la.utexas.edu/texasexeced/digitalVerification.html?key=lprnhazl) • [Certificate](https://cdn.fbritoferreira.com/courses/lprnhazl.jpg) • [LinkedIn](https://www.linkedin.com/school/the-red-mccombs-school-of-business/)
 
 ### Extended Diploma in IT
 _[West Thames College](https://www.wlc.ac.uk), London Rd, Isleworth TW7 4HS, United Kingdom 2013 – 2015_
