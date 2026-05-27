@@ -129,8 +129,39 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
   - Achieved 95% accuracy in customer query resolution
 
 
+### <img src="https://cdn.fbritoferreira.com/assets/logos/cue-app-256.webp" alt="Cue App" width="30" /> Founding Engineer (Part-time)
+_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | Jun 2023 – Present_
+📍 Remote
+
+Founding engineer at Cue, a cross-platform AI guidance app. Worked across the stack: AI backend, mobile, web, billing, and infrastructure.
+
+**Team Size:** 4
+
+**Tech:** Python, LangGraph, OpenAI, React Native, Next.js, TypeScript, Node.js, MongoDB, PostgreSQL, Redis, Docker Swarm, Terraform
+
+**Industries:** mobile apps, AI, consumer wellness
+
+**Responsibilities:**
+
+- Built a multi-agent chat backend in Python with LangGraph and OpenAI, serving 30+ domain-specific chats.
+- Shipped the in-app AI chat client in React Native (Expo).
+- Led the Next.js + Strapi web monorepo: 4 apps and 14 shared packages on pnpm + Turbo.
+- Worked on the Node.js subscription service (Apple, Google, Stripe) with Bull queues and cron-based reconciliation.
+- Owned the Terraform infrastructure: Cloudflare, Docker Swarm, MongoDB replica set, Postgres HA, Redis, secrets via SOPS.
+
+**Achievements:**
+
+- **Cue AI chat backend**
+  Co-built the multi-agent chat system powering the app's guidance features. LangGraph + OpenAI on Python/Flask, Mongo and Redis for state.
+  _Metrics: 30+ chats in production, multi-node Swarm deployment_
+- **Full-stack ownership**
+  Contributed across 5 repos: AI backend, Node API, React Native app, Next.js monorepo, and Terraform infra.
+- **Production infrastructure**
+  Set up the Terraform-managed stack from scratch — Cloudflare, Swarm, Mongo replica set, Postgres HA (Patroni + HAProxy + etcd), Redis, encrypted state in R2.
+
+
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Front-End Engineer (Streaming Platform)
-_[Sky UK](https://www.sky.com/) | Sep 2018 – Feb 2023_
+_[Sky UK](https://www.sky.com/) | Jun 2018 – Feb 2023_
 📍 London, UK
 
 Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) serving millions daily on web, desktop and TV devices. Owned the BFF / GraphQL middleware where the FE consumed it directly.
@@ -175,28 +206,6 @@ Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock 
   - Consolidated 12 apps into 2 unified platforms
   - Implemented feature flagging for territory-specific functionality
   - Reduced maintenance overhead by 70%
-
-
-### <img src="https://cdn.fbritoferreira.com/assets/logos/love-holidays-256.webp" alt="Love Holidays" width="30" /> Front-End Engineer (Contract)
-_[Love Holidays](https://www.loveholidays.com/) | Jun 2018 – Aug 2018_
-📍 London, UK
-
-Contract frontend developer focused on feature development and A/B testing for a major travel booking platform.
-
-**Tech:** React, Redux, JavaScript, Google Optimize
-
-**Industries:** travel, booking platforms, e-commerce
-
-**Responsibilities:**
-
-- Developed 3 new booking flow features for a high-traffic travel platform processing 10,000+ daily transactions.
-- Implemented A/B testing using Google Optimize, driving a 15% improvement in booking conversion rates and reducing bounce rates by 12%.
-
-**Achievements:**
-
-- **Conversion Rate Optimization**
-  Implemented A/B tests that improved booking conversion rates.
-  _Metrics: 15% improvement in conversion rates_
 
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group" width="30" /> Front-End Engineer
@@ -259,7 +268,7 @@ _[University of Texas at Austin, McCombs School of Business](https://onlineexece
 
 **Relevant Coursework:** Machine Learning • Natural Language Processing • Generative AI • AI Agents • Model Deployment • Computer Vision
 
-[Verify](https://la.utexas.edu/texasexeced/digitalVerification.html?key=lprnhazl) • [Certificate](https://cdn.fbritoferreira.com/courses/lprnhazl.jpg) • [LinkedIn](https://www.linkedin.com/school/the-red-mccombs-school-of-business/)
+[Verify](https://la.utexas.edu/texasexeced/digitalVerification.html?key=lprnhazl) • [Certificate](https://cdn.fbritoferreira.com/courses/lprnhazl.jpg) • [Grade sheet](https://cdn.fbritoferreira.com/courses/WXSHLOPA.pdf) • [LinkedIn](https://www.linkedin.com/school/the-red-mccombs-school-of-business/)
 
 ### Extended Diploma in IT
 _[West Thames College](https://www.wlc.ac.uk), London Rd, Isleworth TW7 4HS, United Kingdom 2013 – 2015_
@@ -276,6 +285,13 @@ _[Rivers Academy West London](https://riversacademy.com), Tachbrook Rd, Feltham 
 
 ## 📚 Courses
 
+- **Full Stack Software Developer Assessment** _(May 2026)_ — Coursera via IBM (Credential: V0OA5SH390S9) • [Verify](https://coursera.org/verify/V0OA5SH390S9) • [PDF](https://cdn.fbritoferreira.com/courses/V0OA5SH390S9.pdf)
+- **Node.js & MongoDB: Developing Back-end Database Applications** _(May 2026)_ — Coursera via IBM (Credential: JD4YOC21M70B) • [Verify](https://coursera.org/verify/JD4YOC21M70B) • [PDF](https://cdn.fbritoferreira.com/courses/JD4YOC21M70B.pdf)
+- **Developing Back-End Apps with Node.js and Express** _(May 2026)_ — Coursera via IBM (Credential: 1RI6YB6Y86PU) • [Verify](https://coursera.org/verify/1RI6YB6Y86PU) • [PDF](https://cdn.fbritoferreira.com/courses/1RI6YB6Y86PU.pdf)
+- **Designing User Interfaces and Experiences (UI/UX)** _(May 2026)_ — Coursera via IBM (Credential: 7WHOCOJKQSEN) • [Verify](https://coursera.org/verify/7WHOCOJKQSEN) • [PDF](https://cdn.fbritoferreira.com/courses/7WHOCOJKQSEN.pdf)
+- **Developing Websites and Front-Ends with Bootstrap** _(May 2026)_ — Coursera via IBM (Credential: 6EC4H05EAE68) • [Verify](https://coursera.org/verify/6EC4H05EAE68) • [PDF](https://cdn.fbritoferreira.com/courses/6EC4H05EAE68.pdf)
+- **Developing Front-End Apps with React** _(May 2026)_ — Coursera via IBM (Credential: 3W74EAT7E0MW) • [Verify](https://coursera.org/verify/3W74EAT7E0MW) • [PDF](https://cdn.fbritoferreira.com/courses/3W74EAT7E0MW.pdf)
+- **Getting Started with Front-End and Web Development** _(May 2026)_ — Coursera via IBM (Credential: MROEWXUGYLRW) • [Verify](https://coursera.org/verify/MROEWXUGYLRW) • [PDF](https://cdn.fbritoferreira.com/courses/MROEWXUGYLRW.pdf)
 - **Introduction to Test and Behavior Driven Development** _(March 2026)_ — Coursera via IBM (Credential: 096EJ84XZRSD) • [Verify](https://coursera.org/verify/096EJ84XZRSD) • [PDF](https://cdn.fbritoferreira.com/courses/096EJ84XZRSD.pdf)
 - **DevOps Capstone Project** _(March 2026)_ — Coursera via IBM (Credential: QVB3V36S8PC8) • [Verify](https://coursera.org/verify/QVB3V36S8PC8) • [PDF](https://cdn.fbritoferreira.com/courses/QVB3V36S8PC8.pdf)
 - **Monitoring and Observability for Development and DevOps** _(March 2026)_ — Coursera via IBM (Credential: TRDBEWXPZDQS) • [Verify](https://coursera.org/verify/TRDBEWXPZDQS) • [PDF](https://cdn.fbritoferreira.com/courses/TRDBEWXPZDQS.pdf)
