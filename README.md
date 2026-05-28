@@ -64,14 +64,14 @@ _[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Present_
 
 Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. Owning SEO, performance, and feature development for user acquisition.
 
-**Tech:** React, TypeScript, Web Performance, SEO, Node.js, Go, AWS
+**Tech:** React, TypeScript, Web Performance, SEO, SEMrush, Node.js, Go, AWS
 
 **Industries:** real estate, property technology, online marketplaces
 
 **Responsibilities:**
 
 - Drive SEO optimization across the core website, cutting search page load time by 33% and achieving record share of voice in organic search. Recognized by the CEO as an exceptional result.
-- Lead the UGC (User-Generated Content) feature from initial design through to production, covering the content pipeline, moderation system, and frontend display.
+- Lead the UGC (User-Generated Content) features — agent Q&A and property reviews — from initial design through to production, covering the content pipeline, moderation system, and frontend display.
 - Coordinate SEO strategies with 5+ external stakeholders for third-party applications.
 - Mentor 2 junior engineers on React, TypeScript, and performance patterns.
 - Make SEO-critical pages snappier by restructuring how the FE consumes CMS content (response time 500ms → 5ms, 99% improvement).
@@ -82,7 +82,7 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
   SEO work contributed to the company reaching new records in share of sessions and share of voice, pushing competitors further down the rankings. Recognized by the CEO as an exceptional result.
   _Metrics: Record share of voice and share of sessions in organic search_
 - **UGC Feature Launch**
-  Led the User-Generated Content feature from early product discussions and technical design through implementation to production launch.
+  Led the User-Generated Content features (agent Q&A and property reviews) from early product discussions and technical design through implementation to production launch.
 - **CMS API Performance**
   Restructured how CMS content gets fetched and served on SEO-critical pages.
   _Metrics: Response time from 500ms to 5ms (99% improvement)_
@@ -130,10 +130,10 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
 
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/cue-app-256.webp" alt="Cue App" width="30" /> Founding Engineer (Part-time)
-_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | Jun 2023 – Present_
+_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | Jun 2023 – Jun 2025_
 📍 Remote
 
-Founding engineer at Cue, a cross-platform AI guidance app. Worked across the stack: AI backend, mobile, web, billing, and infrastructure.
+Founding engineer at CUE — a personal insight and timing platform that turns birthdate, name, and daily timing into actionable guidance, powered by 26+ specialized AI agents and expert-reviewed research across numerology, Chinese astrology, and Western astrology. Worked across the stack: AI backend, mobile, web, billing, and infrastructure.
 
 **Team Size:** 4
 
@@ -161,7 +161,7 @@ Founding engineer at Cue, a cross-platform AI guidance app. Worked across the st
 
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Front-End Engineer (Streaming Platform)
-_[Sky UK](https://www.sky.com/) | Jun 2018 – Feb 2023_
+_[Sky UK](https://www.sky.com/) | Sep 2018 – Feb 2023_
 📍 London, UK
 
 Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) serving millions daily on web, desktop and TV devices. Owned the BFF / GraphQL middleware where the FE consumed it directly.
@@ -208,6 +208,28 @@ Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock 
   - Reduced maintenance overhead by 70%
 
 
+### <img src="https://cdn.fbritoferreira.com/assets/logos/love-holidays-256.webp" alt="loveholidays" width="30" /> Front-End Engineer (Contract)
+_[loveholidays](https://www.loveholidays.com/) | Jun 2018 – Aug 2018_
+📍 London, UK
+
+Contract frontend engineer building new booking-flow features and running A/B experiments on a high-traffic travel platform.
+
+**Tech:** React, Redux, JavaScript, Google Optimize
+
+**Industries:** travel, booking platforms, e-commerce
+
+**Responsibilities:**
+
+- Shipped 3 new booking-flow features on a platform processing 10,000+ daily transactions.
+- Ran Google Optimize A/B tests that lifted booking conversion 15% and cut bounce 12%.
+
+**Achievements:**
+
+- **Conversion Rate Optimization**
+  A/B testing programme that improved booking conversion rates.
+  _Metrics: 15% conversion lift_
+
+
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group" width="30" /> Front-End Engineer
 _[SCL Group](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | Jun 2015 – May 2018_
 📍 London, UK
@@ -249,6 +271,9 @@ Front-end engineer on data-heavy analytics web apps. Owned UI for political-data
 
 ## 🏅 Professional Certificates
 
+- **Google Advanced Data Analytics** _(May 2026)_ — Coursera via Google (Credential: P4B7WO2KFPFU) • [Verify](https://coursera.org/verify/professional-cert/P4B7WO2KFPFU) • [PDF](https://cdn.fbritoferreira.com/courses/P4B7WO2KFPFU.pdf)
+- **IBM Full Stack Software Developer** _(May 2026)_ — Coursera via IBM (Credential: EW3LV46WV5SC) • [Verify](https://coursera.org/verify/professional-cert/EW3LV46WV5SC) • [PDF](https://cdn.fbritoferreira.com/courses/EW3LV46WV5SC.pdf)
+- **IBM Full-Stack JavaScript Developer** _(May 2026)_ — Coursera via IBM (Credential: J3YD5TCPXU6C) • [Verify](https://coursera.org/verify/professional-cert/J3YD5TCPXU6C) • [PDF](https://cdn.fbritoferreira.com/courses/J3YD5TCPXU6C.pdf)
 - **IBM Applied DevOps Engineering** _(March 2026)_ — Coursera via IBM (Credential: 08CD1EQ17SFP) • [Verify](https://coursera.org/verify/professional-cert/08CD1EQ17SFP) • [PDF](https://cdn.fbritoferreira.com/courses/08CD1EQ17SFP.pdf)
 - **IBM DevOps and Software Engineering** _(March 2026)_ — Coursera via IBM (Credential: 88IDI1F2938F) • [Verify](https://coursera.org/verify/professional-cert/88IDI1F2938F) • [PDF](https://cdn.fbritoferreira.com/courses/88IDI1F2938F.pdf)
 - **Google IT Automation with Python** _(March 2026)_ — Coursera via Google (Credential: NQFRKPEUZ39A) • [Verify](https://coursera.org/verify/professional-cert/NQFRKPEUZ39A) • [PDF](https://cdn.fbritoferreira.com/courses/NQFRKPEUZ39A.pdf)
@@ -285,6 +310,18 @@ _[Rivers Academy West London](https://riversacademy.com), Tachbrook Rd, Feltham 
 
 ## 📚 Courses
 
+- **Exploratory Data Analysis for Machine Learning** _(May 2026)_ — Coursera via IBM (Credential: EYQE5DWHPJYA) • [Verify](https://coursera.org/verify/EYQE5DWHPJYA) • [PDF](https://cdn.fbritoferreira.com/courses/EYQE5DWHPJYA.pdf)
+- **Regression Analysis: Simplify Complex Data Relationships** _(May 2026)_ — Coursera via Google (Credential: 88JVYD5HMPU6) • [Verify](https://coursera.org/verify/88JVYD5HMPU6) • [PDF](https://cdn.fbritoferreira.com/courses/88JVYD5HMPU6.pdf)
+- **Google Advanced Data Analytics Capstone** _(May 2026)_ — Coursera via Google (Credential: RGO5U6X44EHH) • [Verify](https://coursera.org/verify/RGO5U6X44EHH) • [PDF](https://cdn.fbritoferreira.com/courses/RGO5U6X44EHH.pdf)
+- **Full Stack Application Development Capstone Project** _(May 2026)_ — Coursera via IBM (Credential: VQ05OWUHGBI1) • [Verify](https://coursera.org/verify/VQ05OWUHGBI1) • [PDF](https://cdn.fbritoferreira.com/courses/VQ05OWUHGBI1.pdf)
+- **The Nuts and Bolts of Machine Learning** _(May 2026)_ — Coursera via Google (Credential: 58BLF71ZDJ9U) • [Verify](https://coursera.org/verify/58BLF71ZDJ9U) • [PDF](https://cdn.fbritoferreira.com/courses/58BLF71ZDJ9U.pdf)
+- **The Power of Statistics** _(May 2026)_ — Coursera via Google (Credential: IK42V44K68TW) • [Verify](https://coursera.org/verify/IK42V44K68TW) • [PDF](https://cdn.fbritoferreira.com/courses/IK42V44K68TW.pdf)
+- **Go Beyond the Numbers: Translate Data into Insights** _(May 2026)_ — Coursera via Google (Credential: 3GE9NB0SBF1V) • [Verify](https://coursera.org/verify/3GE9NB0SBF1V) • [PDF](https://cdn.fbritoferreira.com/courses/3GE9NB0SBF1V.pdf)
+- **Foundations of Data Science** _(May 2026)_ — Coursera via Google (Credential: GYOL3XFGO5V7) • [Verify](https://coursera.org/verify/GYOL3XFGO5V7) • [PDF](https://cdn.fbritoferreira.com/courses/GYOL3XFGO5V7.pdf)
+- **Get Started with Cloud Native, DevOps, Agile, and NoSQL** _(May 2026)_ — Coursera via IBM (Credential: K8LNLGHGRHNN) • [Verify](https://coursera.org/verify/K8LNLGHGRHNN) • [PDF](https://cdn.fbritoferreira.com/courses/K8LNLGHGRHNN.pdf)
+- **Intermediate Web and Front-End Development** _(May 2026)_ — Coursera via IBM (Credential: AXQR9M0FFR51) • [Verify](https://coursera.org/verify/AXQR9M0FFR51) • [PDF](https://cdn.fbritoferreira.com/courses/AXQR9M0FFR51.pdf)
+- **JavaScript Programming Essentials** _(May 2026)_ — Coursera via IBM (Credential: SVVYF1Z1JO6A) • [Verify](https://coursera.org/verify/SVVYF1Z1JO6A) • [PDF](https://cdn.fbritoferreira.com/courses/SVVYF1Z1JO6A.pdf)
+- **JavaScript Full Stack Capstone Project** _(May 2026)_ — Coursera via IBM (Credential: LCCKR4XFI46K) • [Verify](https://coursera.org/verify/LCCKR4XFI46K) • [PDF](https://cdn.fbritoferreira.com/courses/LCCKR4XFI46K.pdf)
 - **Full Stack Software Developer Assessment** _(May 2026)_ — Coursera via IBM (Credential: V0OA5SH390S9) • [Verify](https://coursera.org/verify/V0OA5SH390S9) • [PDF](https://cdn.fbritoferreira.com/courses/V0OA5SH390S9.pdf)
 - **Node.js & MongoDB: Developing Back-end Database Applications** _(May 2026)_ — Coursera via IBM (Credential: JD4YOC21M70B) • [Verify](https://coursera.org/verify/JD4YOC21M70B) • [PDF](https://cdn.fbritoferreira.com/courses/JD4YOC21M70B.pdf)
 - **Developing Back-End Apps with Node.js and Express** _(May 2026)_ — Coursera via IBM (Credential: 1RI6YB6Y86PU) • [Verify](https://coursera.org/verify/1RI6YB6Y86PU) • [PDF](https://cdn.fbritoferreira.com/courses/1RI6YB6Y86PU.pdf)
@@ -396,6 +433,13 @@ Technical lead for Syphon, a data visualization platform powering the 2016 Trump
 ---
 
 ## ✍️ Writing & Publications
+
+### [npm Can't Fix This From the Outside](https://www.fbritoferreira.com/blog/npm-cant-fix-this-from-the-outside)
+_14 Jun 2026_
+
+Last week npm shipped 2FA-gated publishing. Eight months too late, two years behind PyPI. The pattern is structural: npm always patches last because the registry is closed source. The fix is three tiers, automated scanning, and opening the source.
+
+**Tags:** npm, supply-chain, security, open-source, javascript
 
 ### [No Juniors Today, No Seniors in 2031](https://www.fbritoferreira.com/blog/no-juniors-today-no-seniors-in-2031)
 _25 May 2026_
