@@ -271,6 +271,8 @@ Front-end engineer on data-heavy analytics web apps. Owned UI for political-data
 
 ## 🏅 Professional Certificates
 
+- **IBM Front-End Developer** _(May 2026)_ — Coursera via IBM (Credential: TXOGQS1O8B7V) • [Verify](https://coursera.org/verify/professional-cert/TXOGQS1O8B7V) • [PDF](https://cdn.fbritoferreira.com/courses/TXOGQS1O8B7V.pdf)
+- **IBM Machine Learning** _(May 2026)_ — Coursera via IBM (Credential: KRXQ492YNJTX) • [Verify](https://coursera.org/verify/professional-cert/KRXQ492YNJTX) • [PDF](https://cdn.fbritoferreira.com/courses/KRXQ492YNJTX.pdf)
 - **Google Advanced Data Analytics** _(May 2026)_ — Coursera via Google (Credential: P4B7WO2KFPFU) • [Verify](https://coursera.org/verify/professional-cert/P4B7WO2KFPFU) • [PDF](https://cdn.fbritoferreira.com/courses/P4B7WO2KFPFU.pdf)
 - **IBM Full Stack Software Developer** _(May 2026)_ — Coursera via IBM (Credential: EW3LV46WV5SC) • [Verify](https://coursera.org/verify/professional-cert/EW3LV46WV5SC) • [PDF](https://cdn.fbritoferreira.com/courses/EW3LV46WV5SC.pdf)
 - **IBM Full-Stack JavaScript Developer** _(May 2026)_ — Coursera via IBM (Credential: J3YD5TCPXU6C) • [Verify](https://coursera.org/verify/professional-cert/J3YD5TCPXU6C) • [PDF](https://cdn.fbritoferreira.com/courses/J3YD5TCPXU6C.pdf)
@@ -310,6 +312,14 @@ _[Rivers Academy West London](https://riversacademy.com), Tachbrook Rd, Feltham 
 
 ## 📚 Courses
 
+- **Front-End Development Capstone Project** _(May 2026)_ — Coursera via IBM (Credential: 8PP7S4DMQBRY) • [Verify](https://coursera.org/verify/8PP7S4DMQBRY) • [PDF](https://cdn.fbritoferreira.com/courses/8PP7S4DMQBRY.pdf)
+- **Machine Learning Capstone** _(May 2026)_ — Coursera via IBM (Credential: 4SZV3RESJPQU) • [Verify](https://coursera.org/verify/4SZV3RESJPQU) • [PDF](https://cdn.fbritoferreira.com/courses/4SZV3RESJPQU.pdf)
+- **Unsupervised Machine Learning** _(May 2026)_ — Coursera via IBM (Credential: OY6BF6404U9J) • [Verify](https://coursera.org/verify/OY6BF6404U9J) • [PDF](https://cdn.fbritoferreira.com/courses/OY6BF6404U9J.pdf)
+- **Supervised Machine Learning: Classification** _(May 2026)_ — Coursera via IBM (Credential: GIKP1IKZM1J0) • [Verify](https://coursera.org/verify/GIKP1IKZM1J0) • [PDF](https://cdn.fbritoferreira.com/courses/GIKP1IKZM1J0.pdf)
+- **Deep Learning and Reinforcement Learning** _(May 2026)_ — Coursera via IBM (Credential: 2SYX56LDTIPE) • [Verify](https://coursera.org/verify/2SYX56LDTIPE) • [PDF](https://cdn.fbritoferreira.com/courses/2SYX56LDTIPE.pdf)
+- **Foundations of Project Management** _(May 2026)_ — Coursera via Google (Credential: OCXATOS21HST) • [Verify](https://coursera.org/verify/OCXATOS21HST) • [PDF](https://cdn.fbritoferreira.com/courses/OCXATOS21HST.pdf)
+- **Application Development** _(May 2026)_ — Coursera via Amazon (Credential: RI4MJ1OPHAWB) • [Verify](https://coursera.org/verify/RI4MJ1OPHAWB) • [PDF](https://cdn.fbritoferreira.com/courses/RI4MJ1OPHAWB.pdf)
+- **Generative AI in Software Development** _(May 2026)_ — Coursera via Amazon (Credential: LQA32YX7L918) • [Verify](https://coursera.org/verify/LQA32YX7L918) • [PDF](https://cdn.fbritoferreira.com/courses/LQA32YX7L918.pdf)
 - **Exploratory Data Analysis for Machine Learning** _(May 2026)_ — Coursera via IBM (Credential: EYQE5DWHPJYA) • [Verify](https://coursera.org/verify/EYQE5DWHPJYA) • [PDF](https://cdn.fbritoferreira.com/courses/EYQE5DWHPJYA.pdf)
 - **Regression Analysis: Simplify Complex Data Relationships** _(May 2026)_ — Coursera via Google (Credential: 88JVYD5HMPU6) • [Verify](https://coursera.org/verify/88JVYD5HMPU6) • [PDF](https://cdn.fbritoferreira.com/courses/88JVYD5HMPU6.pdf)
 - **Google Advanced Data Analytics Capstone** _(May 2026)_ — Coursera via Google (Credential: RGO5U6X44EHH) • [Verify](https://coursera.org/verify/RGO5U6X44EHH) • [PDF](https://cdn.fbritoferreira.com/courses/RGO5U6X44EHH.pdf)
