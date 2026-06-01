@@ -312,6 +312,18 @@ _[Rivers Academy West London](https://riversacademy.com), Tachbrook Rd, Feltham 
 
 ## 📚 Courses
 
+- **Google Data Analytics Capstone: Complete a Case Study** _(May 2026)_ — Coursera via Google (Credential: N4F44DBKK3XZ) • [Verify](https://coursera.org/verify/N4F44DBKK3XZ) • [PDF](https://cdn.fbritoferreira.com/courses/N4F44DBKK3XZ.pdf)
+- **Introduction to Data Analysis Using Python** _(May 2026)_ — Coursera via Google (Credential: 4SQRS9QK5MGP) • [Verify](https://coursera.org/verify/4SQRS9QK5MGP) • [PDF](https://cdn.fbritoferreira.com/courses/4SQRS9QK5MGP.pdf)
+- **Share Data Through the Art of Visualization** _(May 2026)_ — Coursera via Google (Credential: USFLS9ADRBVV) • [Verify](https://coursera.org/verify/USFLS9ADRBVV) • [PDF](https://cdn.fbritoferreira.com/courses/USFLS9ADRBVV.pdf)
+- **Analyze Data to Answer Questions** _(May 2026)_ — Coursera via Google (Credential: IJUKX8VXIEMF) • [Verify](https://coursera.org/verify/IJUKX8VXIEMF) • [PDF](https://cdn.fbritoferreira.com/courses/IJUKX8VXIEMF.pdf)
+- **Prepare Data for Exploration** _(May 2026)_ — Coursera via Google (Credential: QK8T7NSGACUH) • [Verify](https://coursera.org/verify/QK8T7NSGACUH) • [PDF](https://cdn.fbritoferreira.com/courses/QK8T7NSGACUH.pdf)
+- **Ask Questions to Make Data-Driven Decisions** _(May 2026)_ — Coursera via Google (Credential: DWIE9NK3LSU2) • [Verify](https://coursera.org/verify/DWIE9NK3LSU2) • [PDF](https://cdn.fbritoferreira.com/courses/DWIE9NK3LSU2.pdf)
+- **Foundations: Data, Data, Everywhere** _(May 2026)_ — Coursera via Google (Credential: AY10CYSWS3XT) • [Verify](https://coursera.org/verify/AY10CYSWS3XT) • [PDF](https://cdn.fbritoferreira.com/courses/AY10CYSWS3XT.pdf)
+- **Capstone: Applying Project Management in the Real World** _(May 2026)_ — Coursera via Google (Credential: 9M9W6GBIMVVV) • [Verify](https://coursera.org/verify/9M9W6GBIMVVV) • [PDF](https://cdn.fbritoferreira.com/courses/9M9W6GBIMVVV.pdf)
+- **Project Execution: Running the Project** _(May 2026)_ — Coursera via Google (Credential: ESEARZV3Y221) • [Verify](https://coursera.org/verify/ESEARZV3Y221) • [PDF](https://cdn.fbritoferreira.com/courses/ESEARZV3Y221.pdf)
+- **Project Planning: Putting It All Together** _(May 2026)_ — Coursera via Google (Credential: NDKTLHOXH2R3) • [Verify](https://coursera.org/verify/NDKTLHOXH2R3) • [PDF](https://cdn.fbritoferreira.com/courses/NDKTLHOXH2R3.pdf)
+- **Project Initiation: Starting a Successful Project** _(May 2026)_ — Coursera via Google (Credential: 8372PZPCDEK8) • [Verify](https://coursera.org/verify/8372PZPCDEK8) • [PDF](https://cdn.fbritoferreira.com/courses/8372PZPCDEK8.pdf)
+- **Supervised Machine Learning: Regression** _(May 2026)_ — Coursera via IBM (Credential: Q7VF5I313RV1) • [Verify](https://coursera.org/verify/Q7VF5I313RV1) • [PDF](https://cdn.fbritoferreira.com/courses/Q7VF5I313RV1.pdf)
 - **Front-End Development Capstone Project** _(May 2026)_ — Coursera via IBM (Credential: 8PP7S4DMQBRY) • [Verify](https://coursera.org/verify/8PP7S4DMQBRY) • [PDF](https://cdn.fbritoferreira.com/courses/8PP7S4DMQBRY.pdf)
 - **Machine Learning Capstone** _(May 2026)_ — Coursera via IBM (Credential: 4SZV3RESJPQU) • [Verify](https://coursera.org/verify/4SZV3RESJPQU) • [PDF](https://cdn.fbritoferreira.com/courses/4SZV3RESJPQU.pdf)
 - **Unsupervised Machine Learning** _(May 2026)_ — Coursera via IBM (Credential: OY6BF6404U9J) • [Verify](https://coursera.org/verify/OY6BF6404U9J) • [PDF](https://cdn.fbritoferreira.com/courses/OY6BF6404U9J.pdf)
