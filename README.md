@@ -129,37 +129,6 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
   - Achieved 95% accuracy in customer query resolution
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/cue-app-256.webp" alt="Cue App" width="30" /> Founding Engineer (Part-time)
-_[Cue App](https://cuetheapp.com/join?ref=ytuwyjf) | Jun 2023 – Jun 2025_
-📍 Remote
-
-Founding engineer at CUE — a personal insight and timing platform that turns birthdate, name, and daily timing into actionable guidance, powered by 26+ specialized AI agents and expert-reviewed research across numerology, Chinese astrology, and Western astrology. Worked across the stack: AI backend, mobile, web, billing, and infrastructure.
-
-**Team Size:** 4
-
-**Tech:** Python, LangGraph, OpenAI, React Native, Next.js, TypeScript, Node.js, MongoDB, PostgreSQL, Redis, Docker Swarm, Terraform
-
-**Industries:** mobile apps, AI, consumer wellness
-
-**Responsibilities:**
-
-- Built a multi-agent chat backend in Python with LangGraph and OpenAI, serving 30+ domain-specific chats.
-- Shipped the in-app AI chat client in React Native (Expo).
-- Led the Next.js + Strapi web monorepo: 4 apps and 14 shared packages on pnpm + Turbo.
-- Worked on the Node.js subscription service (Apple, Google, Stripe) with Bull queues and cron-based reconciliation.
-- Owned the Terraform infrastructure: Cloudflare, Docker Swarm, MongoDB replica set, Postgres HA, Redis, secrets via SOPS.
-
-**Achievements:**
-
-- **Cue AI chat backend**
-  Co-built the multi-agent chat system powering the app's guidance features. LangGraph + OpenAI on Python/Flask, Mongo and Redis for state.
-  _Metrics: 30+ chats in production, multi-node Swarm deployment_
-- **Full-stack ownership**
-  Contributed across 5 repos: AI backend, Node API, React Native app, Next.js monorepo, and Terraform infra.
-- **Production infrastructure**
-  Set up the Terraform-managed stack from scratch — Cloudflare, Swarm, Mongo replica set, Postgres HA (Patroni + HAProxy + etcd), Redis, encrypted state in R2.
-
-
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Front-End Engineer (Streaming Platform)
 _[Sky UK](https://www.sky.com/) | Sep 2018 – Feb 2023_
 📍 London, UK
@@ -402,12 +371,6 @@ _[Rivers Academy West London](https://riversacademy.com), Tachbrook Rd, Feltham 
 Sole web developer for 4 high-profile websites at Cambridge Analytica/SCL Group. Built the Pangea data platform (10M+ records/day), deployed AWS + K8s infrastructure with 99.9% uptime, and automated deployments (80% faster).
 
 **Tech:** React, Redux, Node.js, Express, Drupal, D3.js, Scala, AWS, Kubernetes
-
-### [Cue App](https://www.fbritoferreira.com/projects/cue-app)
-
-Technical lead for a cross-platform numerology app on iOS, Android, and Web. 90% code sharing from a single codebase, 50% faster feature releases, and a 4-person team.
-
-**Tech:** React Native, Next.js, TypeScript, Expo, Firebase
 
 ### [NOW TV / Peacock TV](https://www.fbritoferreira.com/projects/nowtv)
 
