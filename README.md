@@ -1,6 +1,6 @@
 # Filipe Brito Ferreira
 
-> Senior Front-End Engineer with 11 years building streaming platforms, real estate marketplaces, and AI-powered products. Proven track record shipping fast, accessible, scalable interfaces with React, TypeScript, and modern web tooling at companies including Sky, Roku, and Property Finder.
+> Senior Front-End Engineer with 11 years of experience building streaming platforms, real estate marketplaces, and AI-powered products. Proven track record shipping fast, accessible, scalable interfaces with React, TypeScript, and modern web tooling at companies including Sky, Roku, and Property Finder.
 
 
 ---
@@ -240,6 +240,8 @@ Front-end engineer on data-heavy analytics web apps. Owned UI for political-data
 
 ## 🏅 Professional Certificates
 
+- **Google Data Analytics** _(June 2026)_ — Coursera via Google (Credential: PMOBUBVZ08TU) • [Verify](https://coursera.org/verify/professional-cert/PMOBUBVZ08TU) • [PDF](https://cdn.fbritoferreira.com/courses/PMOBUBVZ08TU.pdf)
+- **Google Project Management** _(June 2026)_ — Coursera via Google (Credential: UYYSBKVB84JF) • [Verify](https://coursera.org/verify/professional-cert/UYYSBKVB84JF) • [PDF](https://cdn.fbritoferreira.com/courses/UYYSBKVB84JF.pdf)
 - **IBM Front-End Developer** _(May 2026)_ — Coursera via IBM (Credential: TXOGQS1O8B7V) • [Verify](https://coursera.org/verify/professional-cert/TXOGQS1O8B7V) • [PDF](https://cdn.fbritoferreira.com/courses/TXOGQS1O8B7V.pdf)
 - **IBM Machine Learning** _(May 2026)_ — Coursera via IBM (Credential: KRXQ492YNJTX) • [Verify](https://coursera.org/verify/professional-cert/KRXQ492YNJTX) • [PDF](https://cdn.fbritoferreira.com/courses/KRXQ492YNJTX.pdf)
 - **Google Advanced Data Analytics** _(May 2026)_ — Coursera via Google (Credential: P4B7WO2KFPFU) • [Verify](https://coursera.org/verify/professional-cert/P4B7WO2KFPFU) • [PDF](https://cdn.fbritoferreira.com/courses/P4B7WO2KFPFU.pdf)
@@ -281,6 +283,17 @@ _[Rivers Academy West London](https://riversacademy.com), Tachbrook Rd, Feltham 
 
 ## 📚 Courses
 
+- **Coding Interview Preparation** _(June 2026)_ — Coursera via Meta (Credential: 1N87ERHQ3VU4) • [Verify](https://coursera.org/verify/1N87ERHQ3VU4) • [PDF](https://cdn.fbritoferreira.com/courses/1N87ERHQ3VU4.pdf)
+- **Fundamentals of AI Agents Using RAG and LangChain** _(June 2026)_ — Coursera via IBM (Credential: VQRYQ5XKW4HE) • [Verify](https://coursera.org/verify/VQRYQ5XKW4HE) • [PDF](https://cdn.fbritoferreira.com/courses/VQRYQ5XKW4HE.pdf)
+- **Generative AI Advanced Fine-Tuning for LLMs** _(June 2026)_ — Coursera via IBM (Credential: UGY7KOSONFQV) • [Verify](https://coursera.org/verify/UGY7KOSONFQV) • [PDF](https://cdn.fbritoferreira.com/courses/UGY7KOSONFQV.pdf)
+- **Generative AI Engineering and Fine-Tuning Transformers** _(June 2026)_ — Coursera via IBM (Credential: MGOFJHD49YMD) • [Verify](https://coursera.org/verify/MGOFJHD49YMD) • [PDF](https://cdn.fbritoferreira.com/courses/MGOFJHD49YMD.pdf)
+- **Generative AI Language Modeling with Transformers** _(June 2026)_ — Coursera via IBM (Credential: H6AGZB4TPG69) • [Verify](https://coursera.org/verify/H6AGZB4TPG69) • [PDF](https://cdn.fbritoferreira.com/courses/H6AGZB4TPG69.pdf)
+- **Generative AI and LLMs: Architecture and Data Preparation** _(June 2026)_ — Coursera via IBM (Credential: OCW7HDJXP1L3) • [Verify](https://coursera.org/verify/OCW7HDJXP1L3) • [PDF](https://cdn.fbritoferreira.com/courses/OCW7HDJXP1L3.pdf)
+- **Introduction to Deep Learning & Neural Networks with Keras** _(June 2026)_ — Coursera via IBM (Credential: OSS7I9680V7O) • [Verify](https://coursera.org/verify/OSS7I9680V7O) • [PDF](https://cdn.fbritoferreira.com/courses/OSS7I9680V7O.pdf)
+- **Version Control** _(June 2026)_ — Coursera via Meta (Credential: 8L5YEGR084L2) • [Verify](https://coursera.org/verify/8L5YEGR084L2) • [PDF](https://cdn.fbritoferreira.com/courses/8L5YEGR084L2.pdf)
+- **Machine Learning with Python** _(June 2026)_ — Coursera via IBM (Credential: Z1G903TURY2W) • [Verify](https://coursera.org/verify/Z1G903TURY2W) • [PDF](https://cdn.fbritoferreira.com/courses/Z1G903TURY2W.pdf)
+- **Process Data from Dirty to Clean** _(June 2026)_ — Coursera via Google (Credential: 9CW2SB0W1JQI) • [Verify](https://coursera.org/verify/9CW2SB0W1JQI) • [PDF](https://cdn.fbritoferreira.com/courses/9CW2SB0W1JQI.pdf)
+- **Agile Project Management** _(June 2026)_ — Coursera via Google (Credential: SXOCRDIZ9WWI) • [Verify](https://coursera.org/verify/SXOCRDIZ9WWI) • [PDF](https://cdn.fbritoferreira.com/courses/SXOCRDIZ9WWI.pdf)
 - **Google Data Analytics Capstone: Complete a Case Study** _(May 2026)_ — Coursera via Google (Credential: N4F44DBKK3XZ) • [Verify](https://coursera.org/verify/N4F44DBKK3XZ) • [PDF](https://cdn.fbritoferreira.com/courses/N4F44DBKK3XZ.pdf)
 - **Introduction to Data Analysis Using Python** _(May 2026)_ — Coursera via Google (Credential: 4SQRS9QK5MGP) • [Verify](https://coursera.org/verify/4SQRS9QK5MGP) • [PDF](https://cdn.fbritoferreira.com/courses/4SQRS9QK5MGP.pdf)
 - **Share Data Through the Art of Visualization** _(May 2026)_ — Coursera via Google (Credential: USFLS9ADRBVV) • [Verify](https://coursera.org/verify/USFLS9ADRBVV) • [PDF](https://cdn.fbritoferreira.com/courses/USFLS9ADRBVV.pdf)
