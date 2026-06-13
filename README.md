@@ -1,11 +1,11 @@
 # Filipe Brito Ferreira
 
-> Senior Front-End Engineer with 11 years of experience building streaming platforms, real estate marketplaces, and AI-powered products. Proven track record shipping fast, accessible, scalable interfaces with React, TypeScript, and modern web tooling at companies including Sky, Roku, and Property Finder.
+> Senior Front-End Engineer with 11 years building streaming platforms, real estate marketplaces, and AI products at Sky, Roku, and Property Finder. Owns front-end architecture, performance, SEO, and delivery, and has taken multi-territory platform consolidations, GraphQL/BFF layers, and production LLM features from first design review to launch.
 
 
 ---
 
-## ☎️ Contact Information
+## Contact Information
 
 - <img src="https://cdn.fbritoferreira.com/assets/logos/contacts/email-256.webp" alt="email" width="30" /> [me@fbritoferreira.com](mailto:me@fbritoferreira.com)
 - [fbritoferreira.com](https://www.fbritoferreira.com)
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌍 Availability & Languages
+## Availability & Languages
 
 - **Location:** Dubai Hills Estate, UAE
 - **Work Locations:** USA, UAE, PRT
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 Skills
+## Skills
 
 **Frontend**
 
@@ -39,11 +39,11 @@ Node.js _(11y)_ • GraphQL & BFF _(7y)_ • REST APIs _(11y)_ • PostgreSQL _(
 
 **Cloud & DevOps**
 
-AWS _(11y)_ • Cloudflare (Pages, Workers) _(4y)_ • Docker _(11y)_ • CI/CD (GitHub Actions, GitLab) _(11y)_ • Kubernetes _(11y)_ • Terraform _(11y)_
+AWS _(11y)_ • Cloudflare (Pages, Workers) _(4y)_ • Docker _(11y)_ • CI/CD (GitHub Actions, GitLab) _(11y)_ • Kubernetes _(11y)_ • Terraform _(3y)_
 
 **AI & ML**
 
-LLMs (GPT, Claude) _(5y)_ • OpenAI API _(5y)_ • Chatbot Development _(5y)_
+LLMs (GPT, Claude) _(5y)_ • OpenAI & Anthropic APIs _(5y)_ • Multi-Agent Systems (LangGraph) _(3y)_ • Chatbot Development _(5y)_ • Python _(3y)_
 
 **Tools & Process**
 
@@ -56,11 +56,11 @@ Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Roadmap Planning _
 
 ---
 
-## 👩🏻‍💻 Work Experience
+## Work Experience
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Senior Front-End Engineer
 _[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Present_
-📍 Dubai, UAE
+Location: Dubai, UAE
 
 Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. Owning SEO, performance, and feature development for user acquisition.
 
@@ -71,15 +71,15 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
 **Responsibilities:**
 
 - Drive SEO optimization across the core website, cutting search page load time by 33% and achieving record share of voice in organic search. Recognized by the CEO as an exceptional result.
-- Lead the UGC (User-Generated Content) features — agent Q&A and property reviews — from initial design through to production, covering the content pipeline, moderation system, and frontend display.
+- Lead the UGC (User-Generated Content) features, agent Q&A and property reviews, from initial design through to production: content pipeline, moderation system, and frontend display.
 - Coordinate SEO strategies with 5+ external stakeholders for third-party applications.
 - Mentor 2 junior engineers on React, TypeScript, and performance patterns.
-- Make SEO-critical pages snappier by restructuring how the FE consumes CMS content (response time 500ms → 5ms, 99% improvement).
+- Restructured how the FE consumes CMS content on SEO-critical pages, cutting response time from 500ms to 5ms.
 
 **Achievements:**
 
 - **Record Share of Voice**
-  SEO work contributed to the company reaching new records in share of sessions and share of voice, pushing competitors further down the rankings. Recognized by the CEO as an exceptional result.
+  SEO work contributed to the company reaching new records in share of sessions and share of voice, pushing competitors further down the rankings.
   _Metrics: Record share of voice and share of sessions in organic search_
 - **UGC Feature Launch**
   Led the User-Generated Content features (agent Q&A and property reviews) from early product discussions and technical design through implementation to production launch.
@@ -93,9 +93,9 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/roku-256.webp" alt="Roku" width="30" /> Senior Front-End Engineer (Platform)
 _[Roku](https://www.roku.com/) | Feb 2023 – Jul 2025_
-📍 Manchester, UK
+Location: Manchester, UK
 
-Front-end engineer on Roku's web platform. Built AI-powered customer support UI and shared web frameworks consumed by millions of daily users across 10+ device platforms.
+Front-end engineer on Roku's web platform. Built AI-powered customer support UI and shared web frameworks consumed across 10+ device platforms.
 
 **Tech:** React, TypeScript, GraphQL, Web Performance, Node.js, AWS, LLMs, Python
 
@@ -103,9 +103,9 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
 
 **Responsibilities:**
 
-- Led design of AI chatbots that reduced customer support tickets by 40% and improved satisfaction by 25%.
-- Architected scalable media web frameworks supporting 5M+ daily active users across 10+ device platforms.
-- Integrated advanced LLMs (Claude V2, GPT-3/4) into production systems, achieving 95% accuracy in customer query resolution.
+- Technical lead for AI chatbots that reduced customer support tickets by 40% and improved satisfaction by 25%.
+- Architected scalable media web frameworks adopted by multiple product teams across 10+ device platforms.
+- Integrated LLMs (Claude, GPT-4) into production systems, achieving 95% accuracy in customer query resolution.
 - Mentored 3 junior developers and contributed to architectural decisions that reduced development time by 30% for new features.
 - Partnered with 12+ cross-functional engineers to improve customer satisfaction and platform reliability.
 
@@ -131,9 +131,9 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Front-End Engineer (Streaming Platform)
 _[Sky UK](https://www.sky.com/) | Sep 2018 – Feb 2023_
-📍 London, UK
+Location: London, UK
 
-Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) serving millions daily on web, desktop and TV devices. Owned the BFF / GraphQL middleware where the FE consumed it directly.
+Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) on web, desktop and TV devices. Owned the BFF / GraphQL middleware where the FE consumed it directly. Promoted from D1 to D2 on Sky's engineering ladder.
 
 **Tech:** React, TypeScript, Electron, Redux, GraphQL, Apollo, Web Performance, AWS, Kubernetes, Redis
 
@@ -141,9 +141,9 @@ Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock 
 
 **Responsibilities:**
 
-- Shipped and maintained the front-end of 5 streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) serving millions of daily users on web, desktop and TV devices.
-- Led the FE side of the European consolidation that collapsed 12 territory apps into 2 unified platforms (83% less code to maintain).
-- Built a GraphQL/BFF layer the FE owned end-to-end, cutting API roundtrips and dropping response times by 50% (99.9% uptime).
+- Shipped and maintained the front-end of 5 streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) across web, desktop and TV devices.
+- Technical lead on the FE side of the European consolidation that collapsed 12 territory apps into 2 unified platforms (83% less code to maintain).
+- Built a GraphQL/BFF layer the FE owned end-to-end, cutting API roundtrips and dropping response times by 50% at 99.9% uptime.
 - Introduced analytics, error monitoring, and performance budgets across the streaming platforms.
 - Set up CI/CD pipelines and FE tooling that cut deployment time by 60% across five teams.
 
@@ -151,7 +151,7 @@ Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock 
 
 - **Apple TV Launch**
   Successfully delivered NOW TV on Apple TV platform ahead of schedule.
-  _Metrics: On-time delivery, 99.9% uptime achieved_
+  _Metrics: Delivered ahead of schedule_
 - **European Consolidation Project**
   Reduced 12 separate territory apps to 2 unified applications.
   _Metrics: 83% reduction in codebases, 60% faster feature deployment_
@@ -179,7 +179,7 @@ Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock 
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/love-holidays-256.webp" alt="loveholidays" width="30" /> Front-End Engineer (Contract)
 _[loveholidays](https://www.loveholidays.com/) | Jun 2018 – Aug 2018_
-📍 London, UK
+Location: London, UK
 
 Contract frontend engineer building new booking-flow features and running A/B experiments on a high-traffic travel platform.
 
@@ -201,7 +201,7 @@ Contract frontend engineer building new booking-flow features and running A/B ex
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group" width="30" /> Front-End Engineer
 _[SCL Group](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | Jun 2015 – May 2018_
-📍 London, UK
+Location: London, UK
 
 Front-end engineer on data-heavy analytics web apps. Owned UI for political-data tools and CMS-driven sites; picked up CI/CD and AWS where it unblocked FE delivery.
 
@@ -213,8 +213,8 @@ Front-end engineer on data-heavy analytics web apps. Owned UI for political-data
 
 - Built the front-end for 8+ analytics web apps used by political-data teams; sole web developer on several flagship projects.
 - Led Drupal 8 migrations, modernizing legacy templating and FE delivery for content-heavy sites.
-- Designed the FE for the Pangea data matching platform — a UI processing 10M+ records daily with sub-second interactions.
-- Took over CI/CD pipelines and Kubernetes/AWS infra when it unblocked FE delivery (deployment time -80%, 99.9% uptime).
+- Designed the FE for the Pangea data matching platform, a UI processing 10M+ records daily with sub-second interactions.
+- Took over CI/CD pipelines and Kubernetes/AWS infra when it unblocked FE delivery (deployment time -80%).
 
 **Achievements:**
 
@@ -238,146 +238,59 @@ Front-end engineer on data-heavy analytics web apps. Owned UI for political-data
 
 ---
 
-## 🏅 Professional Certificates
+## Professional Certificates
 
-- **Google Data Analytics** _(June 2026)_ — Coursera via Google (Credential: PMOBUBVZ08TU) • [Verify](https://coursera.org/verify/professional-cert/PMOBUBVZ08TU) • [PDF](https://cdn.fbritoferreira.com/courses/PMOBUBVZ08TU.pdf)
-- **Google Project Management** _(June 2026)_ — Coursera via Google (Credential: UYYSBKVB84JF) • [Verify](https://coursera.org/verify/professional-cert/UYYSBKVB84JF) • [PDF](https://cdn.fbritoferreira.com/courses/UYYSBKVB84JF.pdf)
-- **IBM Front-End Developer** _(May 2026)_ — Coursera via IBM (Credential: TXOGQS1O8B7V) • [Verify](https://coursera.org/verify/professional-cert/TXOGQS1O8B7V) • [PDF](https://cdn.fbritoferreira.com/courses/TXOGQS1O8B7V.pdf)
-- **IBM Machine Learning** _(May 2026)_ — Coursera via IBM (Credential: KRXQ492YNJTX) • [Verify](https://coursera.org/verify/professional-cert/KRXQ492YNJTX) • [PDF](https://cdn.fbritoferreira.com/courses/KRXQ492YNJTX.pdf)
-- **Google Advanced Data Analytics** _(May 2026)_ — Coursera via Google (Credential: P4B7WO2KFPFU) • [Verify](https://coursera.org/verify/professional-cert/P4B7WO2KFPFU) • [PDF](https://cdn.fbritoferreira.com/courses/P4B7WO2KFPFU.pdf)
-- **IBM Full Stack Software Developer** _(May 2026)_ — Coursera via IBM (Credential: EW3LV46WV5SC) • [Verify](https://coursera.org/verify/professional-cert/EW3LV46WV5SC) • [PDF](https://cdn.fbritoferreira.com/courses/EW3LV46WV5SC.pdf)
-- **IBM Full-Stack JavaScript Developer** _(May 2026)_ — Coursera via IBM (Credential: J3YD5TCPXU6C) • [Verify](https://coursera.org/verify/professional-cert/J3YD5TCPXU6C) • [PDF](https://cdn.fbritoferreira.com/courses/J3YD5TCPXU6C.pdf)
-- **IBM Applied DevOps Engineering** _(March 2026)_ — Coursera via IBM (Credential: 08CD1EQ17SFP) • [Verify](https://coursera.org/verify/professional-cert/08CD1EQ17SFP) • [PDF](https://cdn.fbritoferreira.com/courses/08CD1EQ17SFP.pdf)
-- **IBM DevOps and Software Engineering** _(March 2026)_ — Coursera via IBM (Credential: 88IDI1F2938F) • [Verify](https://coursera.org/verify/professional-cert/88IDI1F2938F) • [PDF](https://cdn.fbritoferreira.com/courses/88IDI1F2938F.pdf)
-- **Google IT Automation with Python** _(March 2026)_ — Coursera via Google (Credential: NQFRKPEUZ39A) • [Verify](https://coursera.org/verify/professional-cert/NQFRKPEUZ39A) • [PDF](https://cdn.fbritoferreira.com/courses/NQFRKPEUZ39A.pdf)
-- **Google Cybersecurity** _(July 2025)_ — Coursera via Google (Credential: JV1BAUSE3T41) • [Verify](https://coursera.org/verify/professional-cert/JV1BAUSE3T41) • [PDF](https://cdn.fbritoferreira.com/courses/JV1BAUSE3T41.pdf)
-- **IBM AI Developer** _(June 2025)_ — Coursera via IBM (Credential: VAV59NDU8OFD) • [Verify](https://coursera.org/verify/professional-cert/VAV59NDU8OFD) • [PDF](https://cdn.fbritoferreira.com/courses/VAV59NDU8OFD.pdf)
+- **Google Data Analytics** _(June 2026)_ · Coursera via Google (Credential: PMOBUBVZ08TU) • [Verify](https://coursera.org/verify/professional-cert/PMOBUBVZ08TU) • [PDF](https://cdn.fbritoferreira.com/courses/PMOBUBVZ08TU.pdf)
+- **Google Project Management** _(June 2026)_ · Coursera via Google (Credential: UYYSBKVB84JF) • [Verify](https://coursera.org/verify/professional-cert/UYYSBKVB84JF) • [PDF](https://cdn.fbritoferreira.com/courses/UYYSBKVB84JF.pdf)
+- **IBM Front-End Developer** _(May 2026)_ · Coursera via IBM (Credential: TXOGQS1O8B7V) • [Verify](https://coursera.org/verify/professional-cert/TXOGQS1O8B7V) • [PDF](https://cdn.fbritoferreira.com/courses/TXOGQS1O8B7V.pdf)
+- **IBM Machine Learning** _(May 2026)_ · Coursera via IBM (Credential: KRXQ492YNJTX) • [Verify](https://coursera.org/verify/professional-cert/KRXQ492YNJTX) • [PDF](https://cdn.fbritoferreira.com/courses/KRXQ492YNJTX.pdf)
+- **Google Advanced Data Analytics** _(May 2026)_ · Coursera via Google (Credential: P4B7WO2KFPFU) • [Verify](https://coursera.org/verify/professional-cert/P4B7WO2KFPFU) • [PDF](https://cdn.fbritoferreira.com/courses/P4B7WO2KFPFU.pdf)
+- **IBM Full Stack Software Developer** _(May 2026)_ · Coursera via IBM (Credential: EW3LV46WV5SC) • [Verify](https://coursera.org/verify/professional-cert/EW3LV46WV5SC) • [PDF](https://cdn.fbritoferreira.com/courses/EW3LV46WV5SC.pdf)
+- **IBM Full-Stack JavaScript Developer** _(May 2026)_ · Coursera via IBM (Credential: J3YD5TCPXU6C) • [Verify](https://coursera.org/verify/professional-cert/J3YD5TCPXU6C) • [PDF](https://cdn.fbritoferreira.com/courses/J3YD5TCPXU6C.pdf)
+- **IBM Applied DevOps Engineering** _(March 2026)_ · Coursera via IBM (Credential: 08CD1EQ17SFP) • [Verify](https://coursera.org/verify/professional-cert/08CD1EQ17SFP) • [PDF](https://cdn.fbritoferreira.com/courses/08CD1EQ17SFP.pdf)
+- **IBM DevOps and Software Engineering** _(March 2026)_ · Coursera via IBM (Credential: 88IDI1F2938F) • [Verify](https://coursera.org/verify/professional-cert/88IDI1F2938F) • [PDF](https://cdn.fbritoferreira.com/courses/88IDI1F2938F.pdf)
+- **Google IT Automation with Python** _(March 2026)_ · Coursera via Google (Credential: NQFRKPEUZ39A) • [Verify](https://coursera.org/verify/professional-cert/NQFRKPEUZ39A) • [PDF](https://cdn.fbritoferreira.com/courses/NQFRKPEUZ39A.pdf)
+- **Google Cybersecurity** _(July 2025)_ · Coursera via Google (Credential: JV1BAUSE3T41) • [Verify](https://coursera.org/verify/professional-cert/JV1BAUSE3T41) • [PDF](https://cdn.fbritoferreira.com/courses/JV1BAUSE3T41.pdf)
+- **IBM AI Developer** _(June 2025)_ · Coursera via IBM (Credential: VAV59NDU8OFD) • [Verify](https://coursera.org/verify/professional-cert/VAV59NDU8OFD) • [PDF](https://cdn.fbritoferreira.com/courses/VAV59NDU8OFD.pdf)
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Post Graduate Program in AI & Machine Learning
 _[University of Texas at Austin, McCombs School of Business](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course), Austin, Texas, United States 2025 – 2026_
 
 **Field:** AI & Machine Learning: Business Applications
 
-**GPA:** 4.09
+**GPA:** 4.09/4.33
 
 **Relevant Coursework:** Machine Learning • Natural Language Processing • Generative AI • AI Agents • Model Deployment • Computer Vision
 
 [Verify](https://la.utexas.edu/texasexeced/digitalVerification.html?key=lprnhazl) • [Certificate](https://cdn.fbritoferreira.com/courses/lprnhazl.jpg) • [Grade sheet](https://cdn.fbritoferreira.com/courses/WXSHLOPA.pdf) • [LinkedIn](https://www.linkedin.com/school/the-red-mccombs-school-of-business/)
 
 ### Extended Diploma in IT
-_[West Thames College](https://www.wlc.ac.uk), London Rd, Isleworth TW7 4HS, United Kingdom 2013 – 2015_
+_[West Thames College](https://www.wlc.ac.uk), London, United Kingdom 2013 – 2015_
 
 **Field:** Information Technology
 
 **Relevant Coursework:** Software Development • Database Design • Network Administration • Web Development
 
-### High School Diploma
-_[Rivers Academy West London](https://riversacademy.com), Tachbrook Rd, Feltham TW14 9PE, United Kingdom 2009 – 2013_
-
 
 ---
 
-## 📚 Courses
+## Courses
 
-- **Coding Interview Preparation** _(June 2026)_ — Coursera via Meta (Credential: 1N87ERHQ3VU4) • [Verify](https://coursera.org/verify/1N87ERHQ3VU4) • [PDF](https://cdn.fbritoferreira.com/courses/1N87ERHQ3VU4.pdf)
-- **Fundamentals of AI Agents Using RAG and LangChain** _(June 2026)_ — Coursera via IBM (Credential: VQRYQ5XKW4HE) • [Verify](https://coursera.org/verify/VQRYQ5XKW4HE) • [PDF](https://cdn.fbritoferreira.com/courses/VQRYQ5XKW4HE.pdf)
-- **Generative AI Advanced Fine-Tuning for LLMs** _(June 2026)_ — Coursera via IBM (Credential: UGY7KOSONFQV) • [Verify](https://coursera.org/verify/UGY7KOSONFQV) • [PDF](https://cdn.fbritoferreira.com/courses/UGY7KOSONFQV.pdf)
-- **Generative AI Engineering and Fine-Tuning Transformers** _(June 2026)_ — Coursera via IBM (Credential: MGOFJHD49YMD) • [Verify](https://coursera.org/verify/MGOFJHD49YMD) • [PDF](https://cdn.fbritoferreira.com/courses/MGOFJHD49YMD.pdf)
-- **Generative AI Language Modeling with Transformers** _(June 2026)_ — Coursera via IBM (Credential: H6AGZB4TPG69) • [Verify](https://coursera.org/verify/H6AGZB4TPG69) • [PDF](https://cdn.fbritoferreira.com/courses/H6AGZB4TPG69.pdf)
-- **Generative AI and LLMs: Architecture and Data Preparation** _(June 2026)_ — Coursera via IBM (Credential: OCW7HDJXP1L3) • [Verify](https://coursera.org/verify/OCW7HDJXP1L3) • [PDF](https://cdn.fbritoferreira.com/courses/OCW7HDJXP1L3.pdf)
-- **Introduction to Deep Learning & Neural Networks with Keras** _(June 2026)_ — Coursera via IBM (Credential: OSS7I9680V7O) • [Verify](https://coursera.org/verify/OSS7I9680V7O) • [PDF](https://cdn.fbritoferreira.com/courses/OSS7I9680V7O.pdf)
-- **Version Control** _(June 2026)_ — Coursera via Meta (Credential: 8L5YEGR084L2) • [Verify](https://coursera.org/verify/8L5YEGR084L2) • [PDF](https://cdn.fbritoferreira.com/courses/8L5YEGR084L2.pdf)
-- **Machine Learning with Python** _(June 2026)_ — Coursera via IBM (Credential: Z1G903TURY2W) • [Verify](https://coursera.org/verify/Z1G903TURY2W) • [PDF](https://cdn.fbritoferreira.com/courses/Z1G903TURY2W.pdf)
-- **Process Data from Dirty to Clean** _(June 2026)_ — Coursera via Google (Credential: 9CW2SB0W1JQI) • [Verify](https://coursera.org/verify/9CW2SB0W1JQI) • [PDF](https://cdn.fbritoferreira.com/courses/9CW2SB0W1JQI.pdf)
-- **Agile Project Management** _(June 2026)_ — Coursera via Google (Credential: SXOCRDIZ9WWI) • [Verify](https://coursera.org/verify/SXOCRDIZ9WWI) • [PDF](https://cdn.fbritoferreira.com/courses/SXOCRDIZ9WWI.pdf)
-- **Google Data Analytics Capstone: Complete a Case Study** _(May 2026)_ — Coursera via Google (Credential: N4F44DBKK3XZ) • [Verify](https://coursera.org/verify/N4F44DBKK3XZ) • [PDF](https://cdn.fbritoferreira.com/courses/N4F44DBKK3XZ.pdf)
-- **Introduction to Data Analysis Using Python** _(May 2026)_ — Coursera via Google (Credential: 4SQRS9QK5MGP) • [Verify](https://coursera.org/verify/4SQRS9QK5MGP) • [PDF](https://cdn.fbritoferreira.com/courses/4SQRS9QK5MGP.pdf)
-- **Share Data Through the Art of Visualization** _(May 2026)_ — Coursera via Google (Credential: USFLS9ADRBVV) • [Verify](https://coursera.org/verify/USFLS9ADRBVV) • [PDF](https://cdn.fbritoferreira.com/courses/USFLS9ADRBVV.pdf)
-- **Analyze Data to Answer Questions** _(May 2026)_ — Coursera via Google (Credential: IJUKX8VXIEMF) • [Verify](https://coursera.org/verify/IJUKX8VXIEMF) • [PDF](https://cdn.fbritoferreira.com/courses/IJUKX8VXIEMF.pdf)
-- **Prepare Data for Exploration** _(May 2026)_ — Coursera via Google (Credential: QK8T7NSGACUH) • [Verify](https://coursera.org/verify/QK8T7NSGACUH) • [PDF](https://cdn.fbritoferreira.com/courses/QK8T7NSGACUH.pdf)
-- **Ask Questions to Make Data-Driven Decisions** _(May 2026)_ — Coursera via Google (Credential: DWIE9NK3LSU2) • [Verify](https://coursera.org/verify/DWIE9NK3LSU2) • [PDF](https://cdn.fbritoferreira.com/courses/DWIE9NK3LSU2.pdf)
-- **Foundations: Data, Data, Everywhere** _(May 2026)_ — Coursera via Google (Credential: AY10CYSWS3XT) • [Verify](https://coursera.org/verify/AY10CYSWS3XT) • [PDF](https://cdn.fbritoferreira.com/courses/AY10CYSWS3XT.pdf)
-- **Capstone: Applying Project Management in the Real World** _(May 2026)_ — Coursera via Google (Credential: 9M9W6GBIMVVV) • [Verify](https://coursera.org/verify/9M9W6GBIMVVV) • [PDF](https://cdn.fbritoferreira.com/courses/9M9W6GBIMVVV.pdf)
-- **Project Execution: Running the Project** _(May 2026)_ — Coursera via Google (Credential: ESEARZV3Y221) • [Verify](https://coursera.org/verify/ESEARZV3Y221) • [PDF](https://cdn.fbritoferreira.com/courses/ESEARZV3Y221.pdf)
-- **Project Planning: Putting It All Together** _(May 2026)_ — Coursera via Google (Credential: NDKTLHOXH2R3) • [Verify](https://coursera.org/verify/NDKTLHOXH2R3) • [PDF](https://cdn.fbritoferreira.com/courses/NDKTLHOXH2R3.pdf)
-- **Project Initiation: Starting a Successful Project** _(May 2026)_ — Coursera via Google (Credential: 8372PZPCDEK8) • [Verify](https://coursera.org/verify/8372PZPCDEK8) • [PDF](https://cdn.fbritoferreira.com/courses/8372PZPCDEK8.pdf)
-- **Supervised Machine Learning: Regression** _(May 2026)_ — Coursera via IBM (Credential: Q7VF5I313RV1) • [Verify](https://coursera.org/verify/Q7VF5I313RV1) • [PDF](https://cdn.fbritoferreira.com/courses/Q7VF5I313RV1.pdf)
-- **Front-End Development Capstone Project** _(May 2026)_ — Coursera via IBM (Credential: 8PP7S4DMQBRY) • [Verify](https://coursera.org/verify/8PP7S4DMQBRY) • [PDF](https://cdn.fbritoferreira.com/courses/8PP7S4DMQBRY.pdf)
-- **Machine Learning Capstone** _(May 2026)_ — Coursera via IBM (Credential: 4SZV3RESJPQU) • [Verify](https://coursera.org/verify/4SZV3RESJPQU) • [PDF](https://cdn.fbritoferreira.com/courses/4SZV3RESJPQU.pdf)
-- **Unsupervised Machine Learning** _(May 2026)_ — Coursera via IBM (Credential: OY6BF6404U9J) • [Verify](https://coursera.org/verify/OY6BF6404U9J) • [PDF](https://cdn.fbritoferreira.com/courses/OY6BF6404U9J.pdf)
-- **Supervised Machine Learning: Classification** _(May 2026)_ — Coursera via IBM (Credential: GIKP1IKZM1J0) • [Verify](https://coursera.org/verify/GIKP1IKZM1J0) • [PDF](https://cdn.fbritoferreira.com/courses/GIKP1IKZM1J0.pdf)
-- **Deep Learning and Reinforcement Learning** _(May 2026)_ — Coursera via IBM (Credential: 2SYX56LDTIPE) • [Verify](https://coursera.org/verify/2SYX56LDTIPE) • [PDF](https://cdn.fbritoferreira.com/courses/2SYX56LDTIPE.pdf)
-- **Foundations of Project Management** _(May 2026)_ — Coursera via Google (Credential: OCXATOS21HST) • [Verify](https://coursera.org/verify/OCXATOS21HST) • [PDF](https://cdn.fbritoferreira.com/courses/OCXATOS21HST.pdf)
-- **Application Development** _(May 2026)_ — Coursera via Amazon (Credential: RI4MJ1OPHAWB) • [Verify](https://coursera.org/verify/RI4MJ1OPHAWB) • [PDF](https://cdn.fbritoferreira.com/courses/RI4MJ1OPHAWB.pdf)
-- **Generative AI in Software Development** _(May 2026)_ — Coursera via Amazon (Credential: LQA32YX7L918) • [Verify](https://coursera.org/verify/LQA32YX7L918) • [PDF](https://cdn.fbritoferreira.com/courses/LQA32YX7L918.pdf)
-- **Exploratory Data Analysis for Machine Learning** _(May 2026)_ — Coursera via IBM (Credential: EYQE5DWHPJYA) • [Verify](https://coursera.org/verify/EYQE5DWHPJYA) • [PDF](https://cdn.fbritoferreira.com/courses/EYQE5DWHPJYA.pdf)
-- **Regression Analysis: Simplify Complex Data Relationships** _(May 2026)_ — Coursera via Google (Credential: 88JVYD5HMPU6) • [Verify](https://coursera.org/verify/88JVYD5HMPU6) • [PDF](https://cdn.fbritoferreira.com/courses/88JVYD5HMPU6.pdf)
-- **Google Advanced Data Analytics Capstone** _(May 2026)_ — Coursera via Google (Credential: RGO5U6X44EHH) • [Verify](https://coursera.org/verify/RGO5U6X44EHH) • [PDF](https://cdn.fbritoferreira.com/courses/RGO5U6X44EHH.pdf)
-- **Full Stack Application Development Capstone Project** _(May 2026)_ — Coursera via IBM (Credential: VQ05OWUHGBI1) • [Verify](https://coursera.org/verify/VQ05OWUHGBI1) • [PDF](https://cdn.fbritoferreira.com/courses/VQ05OWUHGBI1.pdf)
-- **The Nuts and Bolts of Machine Learning** _(May 2026)_ — Coursera via Google (Credential: 58BLF71ZDJ9U) • [Verify](https://coursera.org/verify/58BLF71ZDJ9U) • [PDF](https://cdn.fbritoferreira.com/courses/58BLF71ZDJ9U.pdf)
-- **The Power of Statistics** _(May 2026)_ — Coursera via Google (Credential: IK42V44K68TW) • [Verify](https://coursera.org/verify/IK42V44K68TW) • [PDF](https://cdn.fbritoferreira.com/courses/IK42V44K68TW.pdf)
-- **Go Beyond the Numbers: Translate Data into Insights** _(May 2026)_ — Coursera via Google (Credential: 3GE9NB0SBF1V) • [Verify](https://coursera.org/verify/3GE9NB0SBF1V) • [PDF](https://cdn.fbritoferreira.com/courses/3GE9NB0SBF1V.pdf)
-- **Foundations of Data Science** _(May 2026)_ — Coursera via Google (Credential: GYOL3XFGO5V7) • [Verify](https://coursera.org/verify/GYOL3XFGO5V7) • [PDF](https://cdn.fbritoferreira.com/courses/GYOL3XFGO5V7.pdf)
-- **Get Started with Cloud Native, DevOps, Agile, and NoSQL** _(May 2026)_ — Coursera via IBM (Credential: K8LNLGHGRHNN) • [Verify](https://coursera.org/verify/K8LNLGHGRHNN) • [PDF](https://cdn.fbritoferreira.com/courses/K8LNLGHGRHNN.pdf)
-- **Intermediate Web and Front-End Development** _(May 2026)_ — Coursera via IBM (Credential: AXQR9M0FFR51) • [Verify](https://coursera.org/verify/AXQR9M0FFR51) • [PDF](https://cdn.fbritoferreira.com/courses/AXQR9M0FFR51.pdf)
-- **JavaScript Programming Essentials** _(May 2026)_ — Coursera via IBM (Credential: SVVYF1Z1JO6A) • [Verify](https://coursera.org/verify/SVVYF1Z1JO6A) • [PDF](https://cdn.fbritoferreira.com/courses/SVVYF1Z1JO6A.pdf)
-- **JavaScript Full Stack Capstone Project** _(May 2026)_ — Coursera via IBM (Credential: LCCKR4XFI46K) • [Verify](https://coursera.org/verify/LCCKR4XFI46K) • [PDF](https://cdn.fbritoferreira.com/courses/LCCKR4XFI46K.pdf)
-- **Full Stack Software Developer Assessment** _(May 2026)_ — Coursera via IBM (Credential: V0OA5SH390S9) • [Verify](https://coursera.org/verify/V0OA5SH390S9) • [PDF](https://cdn.fbritoferreira.com/courses/V0OA5SH390S9.pdf)
-- **Node.js & MongoDB: Developing Back-end Database Applications** _(May 2026)_ — Coursera via IBM (Credential: JD4YOC21M70B) • [Verify](https://coursera.org/verify/JD4YOC21M70B) • [PDF](https://cdn.fbritoferreira.com/courses/JD4YOC21M70B.pdf)
-- **Developing Back-End Apps with Node.js and Express** _(May 2026)_ — Coursera via IBM (Credential: 1RI6YB6Y86PU) • [Verify](https://coursera.org/verify/1RI6YB6Y86PU) • [PDF](https://cdn.fbritoferreira.com/courses/1RI6YB6Y86PU.pdf)
-- **Designing User Interfaces and Experiences (UI/UX)** _(May 2026)_ — Coursera via IBM (Credential: 7WHOCOJKQSEN) • [Verify](https://coursera.org/verify/7WHOCOJKQSEN) • [PDF](https://cdn.fbritoferreira.com/courses/7WHOCOJKQSEN.pdf)
-- **Developing Websites and Front-Ends with Bootstrap** _(May 2026)_ — Coursera via IBM (Credential: 6EC4H05EAE68) • [Verify](https://coursera.org/verify/6EC4H05EAE68) • [PDF](https://cdn.fbritoferreira.com/courses/6EC4H05EAE68.pdf)
-- **Developing Front-End Apps with React** _(May 2026)_ — Coursera via IBM (Credential: 3W74EAT7E0MW) • [Verify](https://coursera.org/verify/3W74EAT7E0MW) • [PDF](https://cdn.fbritoferreira.com/courses/3W74EAT7E0MW.pdf)
-- **Getting Started with Front-End and Web Development** _(May 2026)_ — Coursera via IBM (Credential: MROEWXUGYLRW) • [Verify](https://coursera.org/verify/MROEWXUGYLRW) • [PDF](https://cdn.fbritoferreira.com/courses/MROEWXUGYLRW.pdf)
-- **Introduction to Test and Behavior Driven Development** _(March 2026)_ — Coursera via IBM (Credential: 096EJ84XZRSD) • [Verify](https://coursera.org/verify/096EJ84XZRSD) • [PDF](https://cdn.fbritoferreira.com/courses/096EJ84XZRSD.pdf)
-- **DevOps Capstone Project** _(March 2026)_ — Coursera via IBM (Credential: QVB3V36S8PC8) • [Verify](https://coursera.org/verify/QVB3V36S8PC8) • [PDF](https://cdn.fbritoferreira.com/courses/QVB3V36S8PC8.pdf)
-- **Monitoring and Observability for Development and DevOps** _(March 2026)_ — Coursera via IBM (Credential: TRDBEWXPZDQS) • [Verify](https://coursera.org/verify/TRDBEWXPZDQS) • [PDF](https://cdn.fbritoferreira.com/courses/TRDBEWXPZDQS.pdf)
-- **Application Development using Microservices and Serverless** _(March 2026)_ — Coursera via IBM (Credential: 33YMOEEYTYCV) • [Verify](https://coursera.org/verify/33YMOEEYTYCV) • [PDF](https://cdn.fbritoferreira.com/courses/33YMOEEYTYCV.pdf)
-- **Hands-on Introduction to Linux Commands and Shell Scripting** _(March 2026)_ — Coursera via IBM (Credential: 9TCTOEMR4V3R) • [Verify](https://coursera.org/verify/9TCTOEMR4V3R) • [PDF](https://cdn.fbritoferreira.com/courses/9TCTOEMR4V3R.pdf)
-- **Application Security for Developers and DevOps Professionals** _(March 2026)_ — Coursera via IBM (Credential: TDBL4CJAQWQV) • [Verify](https://coursera.org/verify/TDBL4CJAQWQV) • [PDF](https://cdn.fbritoferreira.com/courses/TDBL4CJAQWQV.pdf)
-- **Continuous Integration and Continuous Delivery (CI/CD)** _(March 2026)_ — Coursera via IBM (Credential: E0DZA54W8C6I) • [Verify](https://coursera.org/verify/E0DZA54W8C6I) • [PDF](https://cdn.fbritoferreira.com/courses/E0DZA54W8C6I.pdf)
-- **Troubleshooting and Debugging Techniques** _(March 2026)_ — Coursera via Google (Credential: B1QD9EPCFL05) • [Verify](https://coursera.org/verify/B1QD9EPCFL05) • [PDF](https://cdn.fbritoferreira.com/courses/B1QD9EPCFL05.pdf)
-- **Introduction to Git and GitHub** _(March 2026)_ — Coursera via Google (Credential: BLV4P7FGU394) • [Verify](https://coursera.org/verify/BLV4P7FGU394) • [PDF](https://cdn.fbritoferreira.com/courses/BLV4P7FGU394.pdf)
-- **Using Python to Interact with the Operating System** _(March 2026)_ — Coursera via Google (Credential: WJGFH6VFMJMC) • [Verify](https://coursera.org/verify/WJGFH6VFMJMC) • [PDF](https://cdn.fbritoferreira.com/courses/WJGFH6VFMJMC.pdf)
-- **Configuration Management and the Cloud** _(March 2026)_ — Coursera via Google (Credential: 2XUFTNHI08M9) • [Verify](https://coursera.org/verify/2XUFTNHI08M9) • [PDF](https://cdn.fbritoferreira.com/courses/2XUFTNHI08M9.pdf)
-- **Crash Course on Python** _(March 2026)_ — Coursera via Google (Credential: TUGX5F2Y4E80) • [Verify](https://coursera.org/verify/TUGX5F2Y4E80) • [PDF](https://cdn.fbritoferreira.com/courses/TUGX5F2Y4E80.pdf)
-- **Automating Real-World Tasks with Python** _(March 2026)_ — Coursera via Google (Credential: AGCFIAGRK3B5) • [Verify](https://coursera.org/verify/AGCFIAGRK3B5) • [PDF](https://cdn.fbritoferreira.com/courses/AGCFIAGRK3B5.pdf)
-- **Introduction to Containers w/ Docker, Kubernetes & OpenShift** _(March 2026)_ — Coursera via IBM (Credential: YX8OPF8AO43K) • [Verify](https://coursera.org/verify/YX8OPF8AO43K) • [PDF](https://cdn.fbritoferreira.com/courses/YX8OPF8AO43K.pdf)
-- **Getting Started with Git and GitHub** _(March 2026)_ — Coursera via IBM (Credential: J31LIRM8REIF) • [Verify](https://coursera.org/verify/J31LIRM8REIF) • [PDF](https://cdn.fbritoferreira.com/courses/J31LIRM8REIF.pdf)
-- **Introduction to Agile Development and Scrum** _(February 2026)_ — Coursera via IBM (Credential: 3QOJNETHIP3R) • [Verify](https://coursera.org/verify/3QOJNETHIP3R) • [PDF](https://cdn.fbritoferreira.com/courses/3QOJNETHIP3R.pdf)
-- **Introduction to DevOps** _(February 2026)_ — Coursera via IBM (Credential: VCZ24YMJ1RY2) • [Verify](https://coursera.org/verify/VCZ24YMJ1RY2) • [PDF](https://cdn.fbritoferreira.com/courses/VCZ24YMJ1RY2.pdf)
-- **Python Foundations** _(October 2025)_ — Great Learning (Credential: GQYNQGMI) • [Verify](https://www.mygreatlearning.com/certificate/GQYNQGMI) • [PDF](https://cdn.fbritoferreira.com/courses/GQYNQGMI.pdf)
-- **Ethics of AI** _(October 2025)_ — Great Learning (Credential: IVEGPWIP) • [Verify](https://www.mygreatlearning.com/certificate/IVEGPWIP) • [PDF](https://cdn.fbritoferreira.com/courses/IVEGPWIP.pdf)
-- **Introduction to AI Agents** _(September 2025)_ — Great Learning (Credential: NCJEEZBW) • [Verify](https://www.mygreatlearning.com/certificate/NCJEEZBW) • [PDF](https://cdn.fbritoferreira.com/courses/NCJEEZBW.pdf)
-- **Introduction to Cloud Computing** _(July 2025)_ — Coursera via IBM (Credential: NYA0511J4FHT) • [Verify](https://coursera.org/verify/NYA0511J4FHT) • [PDF](https://cdn.fbritoferreira.com/courses/NYA0511J4FHT.pdf)
-- **Django Application Development with SQL and Databases** _(July 2025)_ — Coursera via IBM (Credential: 9PIE9IUY7DQW) • [Verify](https://coursera.org/verify/9PIE9IUY7DQW) • [PDF](https://cdn.fbritoferreira.com/courses/9PIE9IUY7DQW.pdf)
-- **Automate Cybersecurity Tasks with Python** _(July 2025)_ — Coursera via Google (Credential: 1LC8W1NAZDZG) • [Verify](https://coursera.org/verify/1LC8W1NAZDZG) • [PDF](https://cdn.fbritoferreira.com/courses/1LC8W1NAZDZG.pdf)
-- **Tools of the Trade: Linux and SQL** _(July 2025)_ — Coursera via Google (Credential: OGVBWY3PG9DD) • [Verify](https://coursera.org/verify/OGVBWY3PG9DD) • [PDF](https://cdn.fbritoferreira.com/courses/OGVBWY3PG9DD.pdf)
-- **Sound the Alarm: Detection and Response** _(July 2025)_ — Coursera via Google (Credential: 9TODNNNY3QWM) • [Verify](https://coursera.org/verify/9TODNNNY3QWM) • [PDF](https://cdn.fbritoferreira.com/courses/9TODNNNY3QWM.pdf)
-- **Assets, Threats, and Vulnerabilities** _(July 2025)_ — Coursera via Google (Credential: 9RDIPRFJ5S1N) • [Verify](https://coursera.org/verify/9RDIPRFJ5S1N) • [PDF](https://cdn.fbritoferreira.com/courses/9RDIPRFJ5S1N.pdf)
-- **Put It to Work: Prepare for Cybersecurity Jobs** _(July 2025)_ — Coursera via Google (Credential: ESCPVGZN4O0E) • [Verify](https://coursera.org/verify/ESCPVGZN4O0E) • [PDF](https://cdn.fbritoferreira.com/courses/ESCPVGZN4O0E.pdf)
-- **Accelerate Your Job Search with AI** _(July 2025)_ — Coursera via Google (Credential: JWL7M9RMT0H0) • [Verify](https://coursera.org/verify/JWL7M9RMT0H0) • [PDF](https://cdn.fbritoferreira.com/courses/JWL7M9RMT0H0.pdf)
-- **Foundations of Cybersecurity** _(July 2025)_ — Coursera via Google (Credential: RDDSGTH7M8BW) • [Verify](https://coursera.org/verify/RDDSGTH7M8BW) • [PDF](https://cdn.fbritoferreira.com/courses/RDDSGTH7M8BW.pdf)
-- **Play It Safe: Manage Security Risks** _(July 2025)_ — Coursera via Google (Credential: YKRYIQZA9XDQ) • [Verify](https://coursera.org/verify/YKRYIQZA9XDQ) • [PDF](https://cdn.fbritoferreira.com/courses/YKRYIQZA9XDQ.pdf)
-- **Connect and Protect: Networks and Network Security** _(July 2025)_ — Coursera via Google (Credential: MI2G9NBRZCOB) • [Verify](https://coursera.org/verify/MI2G9NBRZCOB) • [PDF](https://cdn.fbritoferreira.com/courses/MI2G9NBRZCOB.pdf)
-- **Building Generative AI-Powered Applications with Python** _(July 2025)_ — Coursera via IBM (Credential: KI24LWJFM9AF) • [Verify](https://coursera.org/verify/KI24LWJFM9AF) • [PDF](https://cdn.fbritoferreira.com/courses/KI24LWJFM9AF.pdf)
-- **Generative AI: Elevate your Software Development Career** _(July 2025)_ — Coursera via IBM (Credential: 0NCAG443G23Q) • [Verify](https://coursera.org/verify/0NCAG443G23Q) • [PDF](https://cdn.fbritoferreira.com/courses/0NCAG443G23Q.pdf)
-- **Software Developer Career Guide and Interview Preparation** _(July 2025)_ — Coursera via IBM (Credential: 8YYDKZKCAJ1M) • [Verify](https://coursera.org/verify/8YYDKZKCAJ1M) • [PDF](https://cdn.fbritoferreira.com/courses/8YYDKZKCAJ1M.pdf)
-- **Introduction to HTML, CSS, & JavaScript** _(June 2025)_ — Coursera via IBM (Credential: 7701CP70ZAOZ) • [Verify](https://coursera.org/verify/7701CP70ZAOZ) • [PDF](https://cdn.fbritoferreira.com/courses/7701CP70ZAOZ.pdf)
-- **Developing AI Applications with Python and Flask** _(June 2025)_ — Coursera via IBM (Credential: 352PLU7D28LT) • [Verify](https://coursera.org/verify/352PLU7D28LT) • [PDF](https://cdn.fbritoferreira.com/courses/352PLU7D28LT.pdf)
-- **Python for Data Science, AI & Development** _(June 2025)_ — Coursera via IBM (Credential: GLVQBTCOZI8R) • [Verify](https://coursera.org/verify/GLVQBTCOZI8R) • [PDF](https://cdn.fbritoferreira.com/courses/GLVQBTCOZI8R.pdf)
-- **Generative AI: Prompt Engineering Basics** _(June 2025)_ — Coursera via IBM (Credential: JWZ6Q76MM65I) • [Verify](https://coursera.org/verify/JWZ6Q76MM65I) • [PDF](https://cdn.fbritoferreira.com/courses/JWZ6Q76MM65I.pdf)
-- **Generative AI: Introduction and Applications** _(June 2025)_ — Coursera via IBM (Credential: DCE5T5IDIWV5) • [Verify](https://coursera.org/verify/DCE5T5IDIWV5) • [PDF](https://cdn.fbritoferreira.com/courses/DCE5T5IDIWV5.pdf)
-- **Introduction to Artificial Intelligence (AI)** _(June 2025)_ — Coursera via IBM (Credential: Z6YTG768T2WZ) • [Verify](https://coursera.org/verify/Z6YTG768T2WZ) • [PDF](https://cdn.fbritoferreira.com/courses/Z6YTG768T2WZ.pdf)
-- **Introduction to Software Engineering** _(June 2025)_ — Coursera via IBM (Credential: DZWSVHIT6EOD) • [Verify](https://coursera.org/verify/DZWSVHIT6EOD) • [PDF](https://cdn.fbritoferreira.com/courses/DZWSVHIT6EOD.pdf)
+91 completed courses. Full list with verifiable credentials: [https://www.fbritoferreira.com](https://www.fbritoferreira.com)
+
+- **Meta** (2): Coding Interview Preparation · Version Control
+- **IBM** (49): Fundamentals of AI Agents Using RAG and LangChain · Generative AI Advanced Fine-Tuning for LLMs · Generative AI Engineering and Fine-Tuning Transformers · Generative AI Language Modeling with Transformers · Generative AI and LLMs: Architecture and Data Preparation · Introduction to Deep Learning & Neural Networks with Keras · Machine Learning with Python · Supervised Machine Learning: Regression · Front-End Development Capstone Project · Machine Learning Capstone · Unsupervised Machine Learning · Supervised Machine Learning: Classification · Deep Learning and Reinforcement Learning · Exploratory Data Analysis for Machine Learning · Full Stack Application Development Capstone Project · Get Started with Cloud Native, DevOps, Agile, and NoSQL · Intermediate Web and Front-End Development · JavaScript Programming Essentials · JavaScript Full Stack Capstone Project · Full Stack Software Developer Assessment · Node.js & MongoDB: Developing Back-end Database Applications · Developing Back-End Apps with Node.js and Express · Designing User Interfaces and Experiences (UI/UX) · Developing Websites and Front-Ends with Bootstrap · Developing Front-End Apps with React · Getting Started with Front-End and Web Development · Introduction to Test and Behavior Driven Development · DevOps Capstone Project · Monitoring and Observability for Development and DevOps · Application Development using Microservices and Serverless · Hands-on Introduction to Linux Commands and Shell Scripting · Application Security for Developers and DevOps Professionals · Continuous Integration and Continuous Delivery (CI/CD) · Introduction to Containers w/ Docker, Kubernetes & OpenShift · Getting Started with Git and GitHub · Introduction to Agile Development and Scrum · Introduction to DevOps · Introduction to Cloud Computing · Django Application Development with SQL and Databases · Building Generative AI-Powered Applications with Python · Generative AI: Elevate your Software Development Career · Software Developer Career Guide and Interview Preparation · Introduction to HTML, CSS, & JavaScript · Developing AI Applications with Python and Flask · Python for Data Science, AI & Development · Generative AI: Prompt Engineering Basics · Generative AI: Introduction and Applications · Introduction to Artificial Intelligence (AI) · Introduction to Software Engineering
+- **Google** (35): Process Data from Dirty to Clean · Agile Project Management · Google Data Analytics Capstone: Complete a Case Study · Introduction to Data Analysis Using Python · Share Data Through the Art of Visualization · Analyze Data to Answer Questions · Prepare Data for Exploration · Ask Questions to Make Data-Driven Decisions · Foundations: Data, Data, Everywhere · Capstone: Applying Project Management in the Real World · Project Execution: Running the Project · Project Planning: Putting It All Together · Project Initiation: Starting a Successful Project · Foundations of Project Management · Regression Analysis: Simplify Complex Data Relationships · Google Advanced Data Analytics Capstone · The Nuts and Bolts of Machine Learning · The Power of Statistics · Go Beyond the Numbers: Translate Data into Insights · Foundations of Data Science · Troubleshooting and Debugging Techniques · Introduction to Git and GitHub · Using Python to Interact with the Operating System · Configuration Management and the Cloud · Crash Course on Python · Automating Real-World Tasks with Python · Automate Cybersecurity Tasks with Python · Tools of the Trade: Linux and SQL · Sound the Alarm: Detection and Response · Assets, Threats, and Vulnerabilities · Put It to Work: Prepare for Cybersecurity Jobs · Accelerate Your Job Search with AI · Foundations of Cybersecurity · Play It Safe: Manage Security Risks · Connect and Protect: Networks and Network Security
+- **Amazon** (2): Application Development · Generative AI in Software Development
+- **Great Learning** (3): Python Foundations · Ethics of AI · Introduction to AI Agents
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Cambridge Analytica / SCL Group](https://www.fbritoferreira.com/projects/cambridge-analytica)
 
@@ -417,20 +330,20 @@ Built the Windows and Mac Sky Go streaming app with Electron and React. Single c
 
 ### [Ted Cruz Campaign 2015](https://www.fbritoferreira.com/projects/ted-cruz-campaign)
 
-Developer on SCL Group's data-driven campaign platform for Ted Cruz — OCEAN personality profiles for ~300 million people, automated phone calling tied to voter profiles, and nationwide ad targeting across social and traditional media. Helped deliver the Iowa caucus upset, where Cruz defeated Trump at 4-1 odds.
+Developer on SCL Group's data-driven campaign platform for Ted Cruz: OCEAN personality profiles for ~300 million people, automated phone calling tied to voter profiles, and nationwide ad targeting across social and traditional media. Helped deliver the Iowa caucus upset, where Cruz defeated Trump at 4-1 odds.
 
 **Tech:** D3.js, React, Node.js, PHP, Facebook Ads, Google Ads
 
 ### [Trump Campaign 2016](https://www.fbritoferreira.com/projects/trump-campaign)
 
-Technical lead for Syphon, a data visualization platform powering the 2016 Trump campaign's media strategy across social and traditional channels — achieving $0.20 spent for every $1 spent by the opposition.
+Technical lead for Syphon, a data visualization platform powering the 2016 Trump campaign's media strategy across social and traditional channels: achieving $0.20 spent for every $1 spent by the opposition.
 
 **Tech:** D3.js, React, Node.js, Facebook Ads, Google Ads
 
 
 ---
 
-## ✍️ Writing & Publications
+## Writing & Publications
 
 ### [npm Can't Fix This From the Outside](https://www.fbritoferreira.com/blog/npm-cant-fix-this-from-the-outside)
 _14 Jun 2026_
@@ -484,6 +397,6 @@ How we used GraphQL as a Backend for Frontends at Sky TV, consolidating 12 micro
 
 ---
 
-## 💡 Interests
+## Interests
 
 Open Source Development • AI & Machine Learning • Cloud Architecture • Technical Writing • Mentoring
