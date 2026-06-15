@@ -1,6 +1,6 @@
 # Filipe Brito Ferreira
 
-> Senior Front-End Engineer with 11 years building streaming platforms, real estate marketplaces, and AI products at Sky, Roku, and Property Finder. Owns front-end architecture, performance, SEO, and delivery, and has taken multi-territory platform consolidations, GraphQL/BFF layers, and production LLM features from first design review to launch.
+> Front-end engineer with 11 years across streaming, marketplaces, and AI products at Sky, Roku, and Property Finder, operating at technical-lead level. Owns front-end architecture, performance, and delivery end to end, and has led multi-territory platform consolidations, GraphQL/BFF layers, and production LLM features from design through launch. Promoted repeatedly into technical leadership, mentoring engineers and setting engineering standards across teams.
 
 
 ---
@@ -27,11 +27,11 @@
 
 **Frontend**
 
-React _(11y)_ • TypeScript _(11y)_ • JavaScript _(11y)_ • Next.js _(7y)_ • Astro _(2y)_ • React Native _(5y)_ • Tailwind CSS _(5y)_ • CSS / HTML _(11y)_ • Testing (Vitest, RTL, Playwright) _(8y)_ • Design Systems _(7y)_
+React _(11y)_ • TypeScript _(11y)_ • JavaScript _(11y)_ • Next.js _(7y)_ • Astro _(2y)_ • React Native _(5y)_ • Tailwind CSS _(5y)_ • Testing (Jest, Vitest, RTL, Playwright) _(8y)_ • Design Systems _(7y)_
 
 **Performance & Quality**
 
-Web Vitals & Lighthouse _(8y)_ • Accessibility (WCAG AA / AAA) _(8y)_ • SEO Engineering _(6y)_ • Bundle & Browser Profiling _(8y)_ • Web Performance _(8y)_
+Web Vitals & Lighthouse _(8y)_ • Accessibility (WCAG AA / AAA) _(8y)_ • SEO Engineering _(6y)_ • Web Performance _(8y)_
 
 **Backend (Supporting)**
 
@@ -44,10 +44,6 @@ AWS _(11y)_ • Cloudflare (Pages, Workers) _(4y)_ • Docker _(11y)_ • CI/CD 
 **AI & ML**
 
 LLMs (GPT, Claude) _(5y)_ • OpenAI & Anthropic APIs _(5y)_ • Multi-Agent Systems (LangGraph) _(3y)_ • Chatbot Development _(5y)_ • Python _(3y)_
-
-**Tools & Process**
-
-Git _(11y)_ • Jira _(11y)_ • Confluence _(11y)_ • Agile / Scrum _(11y)_
 
 **Leadership**
 
@@ -133,7 +129,7 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
 _[Sky UK](https://www.sky.com/) | Sep 2018 – Feb 2023_
 Location: London, UK
 
-Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) on web, desktop and TV devices. Owned the BFF / GraphQL middleware where the FE consumed it directly. Promoted from D1 to D2 on Sky's engineering ladder.
+Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) on web, desktop and TV devices. Owned the BFF / GraphQL middleware where the FE consumed it directly. Progressed through three engineering levels over the tenure, promoted from SD1 to SD2 to SD3.
 
 **Tech:** React, TypeScript, Electron, Redux, GraphQL, Apollo, Web Performance, AWS, Kubernetes, Redis
 
@@ -141,9 +137,10 @@ Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock 
 
 **Responsibilities:**
 
-- Shipped and maintained the front-end of 5 streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) across web, desktop and TV devices.
+- Promoted twice over the tenure, advancing from SD1 to SD2 to SD3 as technical scope and leadership grew.
 - Technical lead on the FE side of the European consolidation that collapsed 12 territory apps into 2 unified platforms (83% less code to maintain).
 - Built a GraphQL/BFF layer the FE owned end-to-end, cutting API roundtrips and dropping response times by 50% at 99.9% uptime.
+- Shipped and maintained the front-end of 5 streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) across web, desktop and TV devices.
 - Introduced analytics, error monitoring, and performance budgets across the streaming platforms.
 - Set up CI/CD pipelines and FE tooling that cut deployment time by 60% across five teams.
 
@@ -177,7 +174,7 @@ Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock 
   - Reduced maintenance overhead by 70%
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/love-holidays-256.webp" alt="loveholidays" width="30" /> Front-End Engineer (Contract)
+### <img src="https://cdn.fbritoferreira.com/assets/logos/love-holidays-256.webp" alt="loveholidays" width="30" /> Front-End Engineer (Contract) (Contract)
 _[loveholidays](https://www.loveholidays.com/) | Jun 2018 – Aug 2018_
 Location: London, UK
 
@@ -199,11 +196,11 @@ Contract frontend engineer building new booking-flow features and running A/B ex
   _Metrics: 15% conversion lift_
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group" width="30" /> Front-End Engineer
+### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group" width="30" /> Junior Front-End Engineer
 _[SCL Group](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | Jun 2015 – May 2018_
 Location: London, UK
 
-Front-end engineer on data-heavy analytics web apps. Owned UI for political-data tools and CMS-driven sites; picked up CI/CD and AWS where it unblocked FE delivery.
+Joined as a software apprentice and was promoted to junior front-end engineer. Worked on data-heavy analytics web apps, owning UI for political-data tools and CMS-driven sites, and picked up CI/CD and AWS where it unblocked FE delivery.
 
 **Tech:** React, Redux, JavaScript, TypeScript, Drupal (FE templating), Node.js, MongoDB, AWS, Kubernetes, Scala, Go
 
@@ -211,6 +208,7 @@ Front-end engineer on data-heavy analytics web apps. Owned UI for political-data
 
 **Responsibilities:**
 
+- Started as a software apprentice and was promoted to junior front-end engineer as delivery responsibility grew.
 - Built the front-end for 8+ analytics web apps used by political-data teams; sole web developer on several flagship projects.
 - Led Drupal 8 migrations, modernizing legacy templating and FE delivery for content-heavy sites.
 - Designed the FE for the Pangea data matching platform, a UI processing 10M+ records daily with sub-second interactions.
