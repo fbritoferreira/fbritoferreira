@@ -54,7 +54,7 @@ Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Roadmap Planning _
 
 ## Work Experience
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Front-End Engineer
+### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Senior Front-End Engineer
 _[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Present_
 Location: Dubai, UAE
 
@@ -71,7 +71,6 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
 - Coordinate SEO strategies with 5+ external stakeholders for third-party applications.
 - Mentor 2 junior engineers on React, TypeScript, and performance patterns.
 - Restructured how the FE consumes CMS content on SEO-critical pages, cutting response time from 500ms to 5ms.
-- Delivered a new location service that combined data and content to support deeper area insights and faster user access to key information, cutting page load time from 5 seconds to 50ms p95.
 
 **Achievements:**
 
