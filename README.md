@@ -321,6 +321,12 @@ Built an AI chatbot for Roku using Claude V2 and GPT-3/4 via AWS Connect. Cut su
 
 **Tech:** AWS, AI, LLM, RAG, React, AWS Connect, Node.js
 
+### [RDS — Roku Design System](https://www.fbritoferreira.com/projects/roku-design-system)
+
+Led the engineering side of Roku's design system replatform: MUI as the foundation, a custom Roku theming layer on top, and component libraries spanning web, mobile, and TV for five business units.
+
+**Tech:** React, TypeScript, MUI, Design Systems, Design Tokens, Theming, Monorepo
+
 ### [Sky Go](https://www.fbritoferreira.com/projects/sky-go)
 
 Built the Windows and Mac Sky Go streaming app with Electron and React. Single codebase serving 4 regions, automated code-signing CLI, satellite box local streaming that cut CDN costs, and 99.5% crash-free sessions.
