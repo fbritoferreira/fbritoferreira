@@ -350,6 +350,13 @@ Technical lead for Syphon, a data visualization platform powering the 2016 Trump
 
 ## Writing & Publications
 
+### [Cambridge Analytica: The Scandal Was Real. The Dataset Was Wrong.](https://www.fbritoferreira.com/blog/what-really-happened-at-cambridge-analytica)
+_9 Aug 2026_
+
+I was inside Cambridge Analytica in March 2018. The story everyone knows names the wrong dataset. The real engine is still legal and still running.
+
+**Tags:** cambridge-analytica, data, privacy, politics, psychographics
+
 ### [npm Can't Fix This From the Outside](https://www.fbritoferreira.com/blog/npm-cant-fix-this-from-the-outside)
 _14 Jun 2026_
 
