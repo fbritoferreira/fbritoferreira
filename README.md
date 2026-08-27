@@ -291,55 +291,55 @@ _[West Thames College](https://www.wlc.ac.uk), London, United Kingdom 2013 – 2
 
 ## Featured Projects
 
-### [Cambridge Analytica / SCL Group](https://www.fbritoferreira.com/projects/cambridge-analytica)
+### [Cambridge Analytica / SCL Group](https://www.fbritoferreira.com/projects/cambridge-analytica/)
 
 Sole web developer for 4 high-profile websites at Cambridge Analytica/SCL Group. Built the Pangea data platform (10M+ records/day), deployed AWS + K8s infrastructure with 99.9% uptime, and automated deployments (80% faster).
 
 **Tech:** React, Redux, Node.js, Express, Drupal, D3.js, Scala, AWS, Kubernetes
 
-### [NOW TV / Peacock TV](https://www.fbritoferreira.com/projects/nowtv)
+### [NOW TV / Peacock TV](https://www.fbritoferreira.com/projects/nowtv/)
 
 Rebuilt NOW TV's Apple TV and Roku apps with React Native, slashed CI/CD from 25 hours to 1.5 hours, consolidated 12 European territory apps into 2 (83% less code), and built a GraphQL BFF with 99.9% uptime.
 
 **Tech:** React, React Native, Redux, Node.js, GraphQL, Apple TV, Roku
 
-### [Pangea Data Platform](https://www.fbritoferreira.com/projects/pangea-data-platform)
+### [Pangea Data Platform](https://www.fbritoferreira.com/projects/pangea-data-platform/)
 
 Built a data matching platform processing 10M+ records daily with sub-second response times on Scala, Drill, and Hadoop. Worked with the UK ICO for 2+ years pre-GDPR to shape data classification standards.
 
 **Tech:** Scala, React, Apache Drill, Hadoop, Mesos, AWS
 
-### [Property Finder: Growth Engineering](https://www.fbritoferreira.com/projects/property-finder-seo)
+### [Property Finder: Growth Engineering](https://www.fbritoferreira.com/projects/property-finder-seo/)
 
 Front-end engineer on Property Finder's Growth team. Cut search page load time by 33%, improved CMS API from 500ms to 5ms, led UGC feature to production, and helped push the company to record share of voice in SEO.
 
 **Tech:** React, TypeScript, Node.js, Go, AWS
 
-### [Roku AI Powered Support Chat](https://www.fbritoferreira.com/projects/roku-ai-chatbot)
+### [Roku AI Powered Support Chat](https://www.fbritoferreira.com/projects/roku-ai-chatbot/)
 
 Built an AI chatbot for Roku using Claude V2 and GPT-3/4 via AWS Connect. Cut support tickets by 40%, bumped satisfaction by 25%, and hit 95% query resolution accuracy.
 
 **Tech:** AWS, AI, LLM, RAG, React, AWS Connect, Node.js
 
-### [RDS — Roku Design System](https://www.fbritoferreira.com/projects/roku-design-system)
+### [RDS — Roku Design System](https://www.fbritoferreira.com/projects/roku-design-system/)
 
 Led the engineering side of Roku's design system replatform: MUI as the foundation, a custom Roku theming layer on top, and component libraries spanning web, mobile, and TV for five business units.
 
 **Tech:** React, TypeScript, MUI, Design Systems, Design Tokens, Theming, Monorepo
 
-### [Sky Go](https://www.fbritoferreira.com/projects/sky-go)
+### [Sky Go](https://www.fbritoferreira.com/projects/sky-go/)
 
 Built the Windows and Mac Sky Go streaming app with Electron and React. Single codebase serving 4 regions, automated code-signing CLI, satellite box local streaming that cut CDN costs, and 99.5% crash-free sessions.
 
 **Tech:** Electron, React, Redux, Node.js, Akamai CDN
 
-### [Ted Cruz Campaign 2015](https://www.fbritoferreira.com/projects/ted-cruz-campaign)
+### [Ted Cruz Campaign 2015](https://www.fbritoferreira.com/projects/ted-cruz-campaign/)
 
 Developer on SCL Group's data-driven campaign platform for Ted Cruz: OCEAN personality profiles for ~300 million people, automated phone calling tied to voter profiles, and nationwide ad targeting across social and traditional media. Helped deliver the Iowa caucus upset, where Cruz defeated Trump at 4-1 odds.
 
 **Tech:** D3.js, React, Node.js, PHP, Facebook Ads, Google Ads
 
-### [Trump Campaign 2016](https://www.fbritoferreira.com/projects/trump-campaign)
+### [Trump Campaign 2016](https://www.fbritoferreira.com/projects/trump-campaign/)
 
 Technical lead for Syphon, a data visualization platform powering the 2016 Trump campaign's media strategy across social and traditional channels: achieving $0.20 spent for every $1 spent by the opposition.
 
