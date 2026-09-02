@@ -55,7 +55,7 @@ Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Roadmap Planning _
 ## Work Experience
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Front-End Engineer
-_[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Present_
+_[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Sep 2026_
 Location: Dubai, UAE
 
 Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. Owning SEO, performance, and feature development for user acquisition.
