@@ -55,7 +55,7 @@ Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Roadmap Planning _
 ## Work Experience
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Front-End Engineer
-_[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Sep 2026_
+_[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – 26 Sep 2026_
 Location: Dubai, UAE
 
 Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. Owning SEO, performance, and feature development for user acquisition.
@@ -89,7 +89,7 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
 
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/roku-256.webp" alt="Roku" width="30" /> Senior Front-End Engineer (Platform)
-_[Roku](https://www.roku.com/) | Feb 2023 – Jul 2025_
+_[Roku](https://www.roku.com/) | Feb 2023 – Jun 2025_
 Location: Manchester, UK
 
 Front-end engineer on Roku's web platform. Built AI-powered customer support UI and shared web frameworks consumed across 10+ device platforms.
@@ -344,6 +344,18 @@ Developer on SCL Group's data-driven campaign platform for Ted Cruz: OCEAN perso
 Technical lead for Syphon, a data visualization platform powering the 2016 Trump campaign's media strategy across social and traditional channels: achieving $0.20 spent for every $1 spent by the opposition.
 
 **Tech:** D3.js, React, Node.js, Facebook Ads, Google Ads
+
+
+---
+
+## Research & Whitepapers
+
+### [A Multi-Detector Decision-Support Architecture for Air Traffic Control](https://www.fbritoferreira.com/research/atc-decision-support/)
+_whitepaper · Aug 2026_
+
+Eleven deterministic doctrinal detectors behind a predictive orchestrator, exercised against nine documented incidents including the 2025 Potomac mid-air, with 24-hour live false-positive sampling at five US airports and a documented blind-spot case. Live deployment included.
+
+[PDF](https://www.fbritoferreira.com/research/atc-decision-support.pdf) • [Page](https://www.fbritoferreira.com/research/atc-decision-support/)
 
 
 ---
