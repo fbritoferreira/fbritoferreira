@@ -100,17 +100,17 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
 
 **Responsibilities:**
 
-- Technical lead for AI chatbots that reduced customer support tickets by 40% and improved satisfaction by 25%.
+- Technical lead for Roku's AI-powered support chat; the vendor's published case study reports 48% AI containment, with chat rising from 30% to 43% of support contacts while phone fell from 70% to 57%.
 - Architected scalable media web frameworks adopted by multiple product teams across 10+ device platforms.
-- Integrated LLMs (Claude, GPT-4) into production systems, achieving 95% accuracy in customer query resolution.
-- Mentored 3 junior developers and contributed to architectural decisions that reduced development time by 30% for new features.
+- Integrated multi-LLM routing (Claude, GPT-4) over retrieval on Roku's knowledge base into production support flows.
+- Mentored 3 junior developers and contributed to platform architecture decisions.
 - Partnered with 12+ cross-functional engineers to improve customer satisfaction and platform reliability.
 
 **Achievements:**
 
 - **AI Chatbot Implementation**
-  Reduced customer support tickets by 40%, enhancing user experience for a major entertainment streaming platform.
-  _Metrics: 40% reduction in support tickets, 25% improvement in customer satisfaction_
+  AI-powered support chat for a major entertainment streaming platform; results documented in the vendor's published case study.
+  _Metrics: 48% AI containment; chat share of contacts 30% to 43%, phone 70% to 57% (published case study)_
 - **Web Core Framework Development**
   Built reusable tools and frameworks that improved engineering productivity across multiple teams.
   _Metrics: 30% reduction in development time for new features_
@@ -121,9 +121,9 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
   Role: Technical Lead
   Enterprise-grade chatbot system integrating multiple LLM providers
   _Tech: React, Node.js, OpenAI API, Claude API, AWS Lambda_
-  - Reduced customer support volume by 40%
+  - 48% AI containment per the vendor's published case study
   - Improved response time from hours to seconds
-  - Achieved 95% accuracy in customer query resolution
+  - Chat share of support contacts rose from 30% to 43%
 
 
 ### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Front-End Engineer (Streaming Platform)
@@ -267,7 +267,7 @@ _[University of Texas at Austin, McCombs School of Business](https://onlineexece
 
 [Verify](https://la.utexas.edu/texasexeced/digitalVerification.html?key=lprnhazl) • [Certificate](https://cdn.fbritoferreira.com/courses/lprnhazl.jpg) • [Grade sheet](https://cdn.fbritoferreira.com/courses/WXSHLOPA.pdf) • [LinkedIn](https://www.linkedin.com/school/the-red-mccombs-school-of-business/)
 
-### Extended Diploma in IT
+### BTEC Level 3 Extended Diploma in IT
 _[West Thames College](https://www.wlc.ac.uk), London, United Kingdom 2013 – 2015_
 
 **Field:** Information Technology
@@ -317,7 +317,7 @@ Front-end engineer on Property Finder's Growth team. Cut search page load time b
 
 ### [Roku AI Powered Support Chat](https://www.fbritoferreira.com/projects/roku-ai-chatbot/)
 
-Built an AI chatbot for Roku using Claude V2 and GPT-3/4 via AWS Connect. Cut support tickets by 40%, bumped satisfaction by 25%, and hit 95% query resolution accuracy.
+Built an AI chatbot for Roku using Claude V2 and GPT-3/4 via AWS Connect. The vendor's published case study reports 48% AI containment, with chat rising from 30% to 43% of support contacts.
 
 **Tech:** AWS, AI, LLM, RAG, React, AWS Connect, Node.js
 
