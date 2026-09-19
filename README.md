@@ -54,8 +54,8 @@ Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Roadmap Planning _
 
 ## Work Experience
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Front-End Engineer
-_[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – 26 Sep 2026_
+### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Senior Front-End Engineer
+_[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Sep 2026_
 Location: Dubai, UAE
 
 Growth Engineering team at Property Finder, the largest real estate marketplace in the UAE. Owning SEO, performance, and feature development for user acquisition.
@@ -66,12 +66,13 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
 
 **Responsibilities:**
 
-- Drive SEO optimization across the core website, cutting search page load time by 33% and achieving record share of voice in organic search. Recognized by the CEO as an exceptional result.
-- Lead the UGC (User-Generated Content) features, agent Q&A and property reviews, from initial design through to production: content pipeline, moderation system, and frontend display.
-- Coordinate SEO strategies with 5+ external stakeholders for third-party applications.
-- Mentor 2 junior engineers on React, TypeScript, and performance patterns.
-- Restructured how the FE consumes CMS content on SEO-critical pages, cutting response time from 500ms to 5ms.
-- Delivered a new location service that combined data and content to support deeper area insights and faster user access to key information, cutting page load time from 5 seconds to 50ms p95.
+- Architect and deploy PF Scout v4, Property Finder’s public AI property assistant, adding an at‑a‑glance overview, an interactive canvas for deep exploration, and migrating the response layer to Server‑Sent Events (SSE) for real‑time streaming.
+- Spearhead core SEO engineering architecture across the core website, cutting search page load time by **33%** and achieving record share of voice in organic search. Recognized by the CEO as an exceptional result.
+- Own the end-to-end lifecycle of UGC (User-Generated Content) features, agent Q&A and property reviews, from initial design through to production: content pipeline, moderation system, and frontend display.
+- Orchestrate cross-functional SEO initiatives with **5+** external stakeholders for third-party applications.
+- Mentor **2** junior engineers on React, TypeScript, and performance patterns.
+- Restructure how the FE consumes CMS content on SEO-critical pages, cutting response time from **500ms to 5ms**.
+- Deliver a new location service that combines data and content to support deeper area insights and faster user access to key information, cutting page load time from **5 seconds to 50ms p95**.
 
 **Achievements:**
 
@@ -88,7 +89,7 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
   _Metrics: 33% reduction in search page load time_
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/roku-256.webp" alt="Roku" width="30" /> Senior Front-End Engineer (Platform)
+### <img src="https://cdn.fbritoferreira.com/assets/logos/roku-256.webp" alt="Roku" width="30" /> Senior Software Engineer
 _[Roku](https://www.roku.com/) | Feb 2023 – Jun 2025_
 Location: Manchester, UK
 
@@ -100,11 +101,11 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
 
 **Responsibilities:**
 
-- Technical lead for Roku's AI-powered support chat; the vendor's published case study reports 48% AI containment, with chat rising from 30% to 43% of support contacts while phone fell from 70% to 57%.
-- Architected scalable media web frameworks adopted by multiple product teams across 10+ device platforms.
+- Technical lead for Roku's AI-powered support chat; the vendor's published case study reports **48%** AI containment, with chat rising from **30% to 43%** of support contacts while phone fell from **70% to 57%**.
+- Architected scalable media web frameworks adopted by multiple product teams across **10+** device platforms.
 - Integrated multi-LLM routing (Claude, GPT-4) over retrieval on Roku's knowledge base into production support flows.
-- Mentored 3 junior developers and contributed to platform architecture decisions.
-- Partnered with 12+ cross-functional engineers to improve customer satisfaction and platform reliability.
+- Mentored **3** junior developers and contributed to platform architecture decisions.
+- Partnered with **12+** cross-functional engineers to improve customer satisfaction and platform reliability.
 
 **Achievements:**
 
@@ -126,7 +127,7 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
   - Chat share of support contacts rose from 30% to 43%
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Front-End Engineer (Streaming Platform)
+### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Software Engineer
 _[Sky UK](https://www.sky.com/) | Sep 2018 – Feb 2023_
 Location: London, UK
 
@@ -139,11 +140,11 @@ Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock 
 **Responsibilities:**
 
 - Promoted twice over the tenure, advancing from SD1 to SD2 to SD3 as technical scope and leadership grew.
-- Technical lead on the FE side of the European consolidation that collapsed 12 territory apps into 2 unified platforms (83% less code to maintain).
-- Built a GraphQL/BFF layer the FE owned end-to-end, cutting API roundtrips and dropping response times by 50% at 99.9% uptime.
-- Shipped and maintained the front-end of 5 streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) across web, desktop and TV devices.
+- Technical lead on the FE side of the European consolidation that collapsed **12** territory apps into **2** unified platforms (**83%** less code to maintain).
+- Built a GraphQL/BFF layer the FE owned end-to-end, cutting API roundtrips and dropping response times by **50%** at **99.9%** uptime.
+- Shipped and maintained the front-end of **5** streaming products (Sky GO, NOW TV, NOW, Peacock TV, Sky Showtime) across web, desktop and TV devices.
 - Introduced analytics, error monitoring, and performance budgets across the streaming platforms.
-- Set up CI/CD pipelines and FE tooling that cut deployment time by 60% across five teams.
+- Set up CI/CD pipelines and FE tooling that cut deployment time by **60%** across five teams.
 
 **Achievements:**
 
@@ -187,8 +188,8 @@ Contract frontend engineer building new booking-flow features and running A/B ex
 
 **Responsibilities:**
 
-- Shipped 3 new booking-flow features on a platform processing 10,000+ daily transactions.
-- Ran Google Optimize A/B tests that lifted booking conversion 15% and cut bounce 12%.
+- Shipped **3** new booking-flow features on a platform processing **10,000+** daily transactions.
+- Ran Google Optimize A/B tests that lifted booking conversion **15%** and cut bounce **12%**.
 
 **Achievements:**
 
@@ -197,8 +198,8 @@ Contract frontend engineer building new booking-flow features and running A/B ex
   _Metrics: 15% conversion lift_
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group" width="30" /> Junior Front-End Engineer
-_[SCL Group](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | Jun 2015 – May 2018_
+### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group (Data & Analytics Agency)" width="30" /> Junior Front-End Engineer
+_[SCL Group (Data & Analytics Agency)](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | Jun 2015 – May 2018_
 Location: London, UK
 
 Joined as a software apprentice and was promoted to junior front-end engineer. Worked on data-heavy analytics web apps, owning UI for political-data tools and CMS-driven sites, and picked up CI/CD and AWS where it unblocked FE delivery.
@@ -210,10 +211,10 @@ Joined as a software apprentice and was promoted to junior front-end engineer. W
 **Responsibilities:**
 
 - Started as a software apprentice and was promoted to junior front-end engineer as delivery responsibility grew.
-- Built the front-end for 8+ analytics web apps used by political-data teams; sole web developer on several flagship projects.
+- Built the front-end for **8+** analytics web apps used by political-data teams; sole web developer on several flagship projects.
 - Led Drupal 8 migrations, modernizing legacy templating and FE delivery for content-heavy sites.
-- Designed the FE for the Pangea data matching platform, a UI processing 10M+ records daily with sub-second interactions.
-- Took over CI/CD pipelines and Kubernetes/AWS infra when it unblocked FE delivery (deployment time -80%).
+- Designed the FE for the Pangea data matching platform, a UI processing **10M+** records daily with sub-second interactions.
+- Took over CI/CD pipelines and Kubernetes/AWS infra when it unblocked FE delivery (deployment time **-80%**).
 
 **Achievements:**
 
@@ -256,7 +257,7 @@ Joined as a software apprentice and was promoted to junior front-end engineer. W
 
 ## Education
 
-### Post Graduate Program in AI & Machine Learning
+### Post Graduate Program in AI & Machine Learning (Concurrent with Property Finder)
 _[University of Texas at Austin, McCombs School of Business](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course), Austin, Texas, United States 2025 – 2026_
 
 **Field:** AI & Machine Learning: Business Applications
