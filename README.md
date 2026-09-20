@@ -1,6 +1,6 @@
 # Filipe Brito Ferreira
 
-> Front-end platform engineer, 11 years across streaming, marketplaces, and AI at Sky, Roku, and Property Finder, at technical-lead level. Built shared web frameworks used on 10+ device platforms, a design system spanning 5 business units, and a 12-to-2 app consolidation that cut 83% of frontend code. Took an AI support chat to 48% containment in production. Promoted twice at Sky; mentor to 5 engineers.
+> Front-end platform engineer, 11 years across streaming, marketplaces, and AI at Sky, Roku, and Property Finder. Led the front-end side of Sky's 12-to-2 app consolidation across 5 streaming products (83% less code), the engineering of Roku's design system for 5 business units, and shared web frameworks used on 10+ device platforms. Took an AI support chat to 48% containment in production. Promoted twice at Sky; mentor to 5 engineers.
 
 
 ---
@@ -27,31 +27,31 @@
 
 **Platform Engineering**
 
-Design Systems _(7y)_ • Monorepo Tooling (pnpm, Turborepo) _(2y)_ • CI/CD (GitHub Actions, GitLab) _(11y)_ • Testing (Jest, Vitest, RTL, Playwright) _(8y)_ • Developer Experience & Tooling _(3y)_ • Code Review & Architecture _(8y)_
+Design Systems _(3y)_ • Monorepo Tooling (pnpm, Turborepo) _(2y)_ • CI/CD (GitHub Actions, GitLab) _(11y)_ • Testing (Jest, Vitest, RTL, Playwright) _(8y)_ • Developer Experience & Tooling _(8y)_ • Code Review & Architecture _(8y)_
 
 **Frontend**
 
-React _(11y)_ • TypeScript _(11y)_ • JavaScript _(11y)_ • Next.js _(7y)_ • Astro _(2y)_ • React Native _(5y)_ • Tailwind CSS _(5y)_
+React _(11y)_ • TypeScript _(8y)_ • JavaScript _(11y)_ • Next.js _(2y)_ • Astro _(2y)_ • React Native _(5y)_ • Tailwind CSS _(2y)_
 
 **Performance & Quality**
 
-Web Vitals _(8y)_ • Accessibility (WCAG) _(8y)_ • SEO Engineering _(6y)_ • Web Performance _(8y)_
+Web Vitals _(6y)_ • SEO Engineering _(1y)_ • Web Performance _(8y)_
 
 **Backend**
 
-Node.js _(11y)_ • GraphQL & BFF _(7y)_ • REST APIs _(11y)_ • PostgreSQL _(11y)_ • MongoDB _(11y)_ • Redis _(8y)_
+Node.js _(11y)_ • GraphQL & BFF _(8y)_ • REST APIs _(11y)_ • PostgreSQL _(11y)_ • MongoDB _(11y)_ • Redis _(8y)_
 
 **Cloud & DevOps**
 
-AWS _(11y)_ • Cloudflare (Pages, Workers) _(4y)_ • Docker _(11y)_ • Kubernetes _(11y)_ • Terraform _(3y)_
+AWS _(11y)_ • Cloudflare (Pages, Workers) _(4y)_ • Docker _(11y)_ • Kubernetes _(11y)_ • Terraform _(2y)_
 
 **AI & ML**
 
-LLMs (GPT, Claude) _(5y)_ • OpenAI & Anthropic APIs _(5y)_ • Multi-Agent Systems (LangGraph) _(3y)_ • Chatbot Development _(5y)_ • Python _(3y)_
+LLMs (GPT, Claude) _(3y)_ • OpenAI & Anthropic APIs _(3y)_ • Multi-Agent Systems (LangGraph) _(2y)_ • Chatbot Development _(3y)_ • Python _(3y)_
 
 **Leadership**
 
-Technical Leadership _(8y)_ • Mentoring & Hiring _(7y)_ • Roadmap Planning _(7y)_
+Technical Leadership _(8y)_ • Mentoring & Hiring _(3y)_ • Roadmap Planning _(8y)_
 
 
 ---
@@ -70,9 +70,9 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
 
 **Responsibilities:**
 
-- Architect and ship PF Scout v4, Property Finder's public AI property assistant, and move its response layer to Server-Sent Events for real-time streaming.
-- Own SEO engineering across the core website; cut search page load time **33%** and set a record organic share of voice recognized by the CEO.
-- Rebuild the shared CMS content layer serving SEO-critical pages, cutting response times from **500ms to 5ms** (99%).
+- Rebuild the shared CMS content layer behind every SEO-critical page on the core website, cutting response times from **500ms to 5ms** (99%).
+- Own performance and SEO engineering across the core website: remove render-blocking resources, optimise images, add progressive loading; search page load time down **33%** and a record organic share of voice recognised by the CEO.
+- Architect and ship PF Scout v4, Property Finder's public AI property assistant, moving its response layer to Server-Sent Events for real-time streaming.
 - Own user-generated content features (agent Q&A, property reviews) end to end: content pipeline, moderation system, and frontend.
 - Mentor **2** junior engineers and coordinate SEO initiatives with **5+** external stakeholders on third-party integrations.
 
@@ -217,17 +217,9 @@ Joined as a software apprentice and was promoted to junior front-end engineer. W
 
 ## Professional Certificates
 
-- **Google Data Analytics** _(June 2026)_ · Coursera via Google (Credential: PMOBUBVZ08TU) • [Verify](https://coursera.org/verify/professional-cert/PMOBUBVZ08TU) • [PDF](https://cdn.fbritoferreira.com/courses/PMOBUBVZ08TU.pdf)
-- **Google Project Management** _(June 2026)_ · Coursera via Google (Credential: UYYSBKVB84JF) • [Verify](https://coursera.org/verify/professional-cert/UYYSBKVB84JF) • [PDF](https://cdn.fbritoferreira.com/courses/UYYSBKVB84JF.pdf)
-- **IBM Front-End Developer** _(May 2026)_ · Coursera via IBM (Credential: TXOGQS1O8B7V) • [Verify](https://coursera.org/verify/professional-cert/TXOGQS1O8B7V) • [PDF](https://cdn.fbritoferreira.com/courses/TXOGQS1O8B7V.pdf)
 - **IBM Machine Learning** _(May 2026)_ · Coursera via IBM (Credential: KRXQ492YNJTX) • [Verify](https://coursera.org/verify/professional-cert/KRXQ492YNJTX) • [PDF](https://cdn.fbritoferreira.com/courses/KRXQ492YNJTX.pdf)
 - **Google Advanced Data Analytics** _(May 2026)_ · Coursera via Google (Credential: P4B7WO2KFPFU) • [Verify](https://coursera.org/verify/professional-cert/P4B7WO2KFPFU) • [PDF](https://cdn.fbritoferreira.com/courses/P4B7WO2KFPFU.pdf)
 - **IBM Full Stack Software Developer** _(May 2026)_ · Coursera via IBM (Credential: EW3LV46WV5SC) • [Verify](https://coursera.org/verify/professional-cert/EW3LV46WV5SC) • [PDF](https://cdn.fbritoferreira.com/courses/EW3LV46WV5SC.pdf)
-- **IBM Full-Stack JavaScript Developer** _(May 2026)_ · Coursera via IBM (Credential: J3YD5TCPXU6C) • [Verify](https://coursera.org/verify/professional-cert/J3YD5TCPXU6C) • [PDF](https://cdn.fbritoferreira.com/courses/J3YD5TCPXU6C.pdf)
-- **IBM Applied DevOps Engineering** _(March 2026)_ · Coursera via IBM (Credential: 08CD1EQ17SFP) • [Verify](https://coursera.org/verify/professional-cert/08CD1EQ17SFP) • [PDF](https://cdn.fbritoferreira.com/courses/08CD1EQ17SFP.pdf)
-- **IBM DevOps and Software Engineering** _(March 2026)_ · Coursera via IBM (Credential: 88IDI1F2938F) • [Verify](https://coursera.org/verify/professional-cert/88IDI1F2938F) • [PDF](https://cdn.fbritoferreira.com/courses/88IDI1F2938F.pdf)
-- **Google IT Automation with Python** _(March 2026)_ · Coursera via Google (Credential: NQFRKPEUZ39A) • [Verify](https://coursera.org/verify/professional-cert/NQFRKPEUZ39A) • [PDF](https://cdn.fbritoferreira.com/courses/NQFRKPEUZ39A.pdf)
-- **Google Cybersecurity** _(July 2025)_ · Coursera via Google (Credential: JV1BAUSE3T41) • [Verify](https://coursera.org/verify/professional-cert/JV1BAUSE3T41) • [PDF](https://cdn.fbritoferreira.com/courses/JV1BAUSE3T41.pdf)
 - **IBM AI Developer** _(June 2025)_ · Coursera via IBM (Credential: VAV59NDU8OFD) • [Verify](https://coursera.org/verify/professional-cert/VAV59NDU8OFD) • [PDF](https://cdn.fbritoferreira.com/courses/VAV59NDU8OFD.pdf)
 
 ---
@@ -250,18 +242,6 @@ _[West Thames College](https://www.wlc.ac.uk), London, United Kingdom 2013 – 2
 
 **Field:** Information Technology
 
-
----
-
-## Courses
-
-91 completed courses. Full list with verifiable credentials: [https://www.fbritoferreira.com](https://www.fbritoferreira.com)
-
-- **Meta** (2): Coding Interview Preparation · Version Control
-- **IBM** (49): Fundamentals of AI Agents Using RAG and LangChain · Generative AI Advanced Fine-Tuning for LLMs · Generative AI Engineering and Fine-Tuning Transformers · Generative AI Language Modeling with Transformers · Generative AI and LLMs: Architecture and Data Preparation · Introduction to Deep Learning & Neural Networks with Keras · Machine Learning with Python · Supervised Machine Learning: Regression · Front-End Development Capstone Project · Machine Learning Capstone · Unsupervised Machine Learning · Supervised Machine Learning: Classification · Deep Learning and Reinforcement Learning · Exploratory Data Analysis for Machine Learning · Full Stack Application Development Capstone Project · Get Started with Cloud Native, DevOps, Agile, and NoSQL · Intermediate Web and Front-End Development · JavaScript Programming Essentials · JavaScript Full Stack Capstone Project · Full Stack Software Developer Assessment · Node.js & MongoDB: Developing Back-end Database Applications · Developing Back-End Apps with Node.js and Express · Designing User Interfaces and Experiences (UI/UX) · Developing Websites and Front-Ends with Bootstrap · Developing Front-End Apps with React · Getting Started with Front-End and Web Development · Introduction to Test and Behavior Driven Development · DevOps Capstone Project · Monitoring and Observability for Development and DevOps · Application Development using Microservices and Serverless · Hands-on Introduction to Linux Commands and Shell Scripting · Application Security for Developers and DevOps Professionals · Continuous Integration and Continuous Delivery (CI/CD) · Introduction to Containers w/ Docker, Kubernetes & OpenShift · Getting Started with Git and GitHub · Introduction to Agile Development and Scrum · Introduction to DevOps · Introduction to Cloud Computing · Django Application Development with SQL and Databases · Building Generative AI-Powered Applications with Python · Generative AI: Elevate your Software Development Career · Software Developer Career Guide and Interview Preparation · Introduction to HTML, CSS, & JavaScript · Developing AI Applications with Python and Flask · Python for Data Science, AI & Development · Generative AI: Prompt Engineering Basics · Generative AI: Introduction and Applications · Introduction to Artificial Intelligence (AI) · Introduction to Software Engineering
-- **Google** (35): Process Data from Dirty to Clean · Agile Project Management · Google Data Analytics Capstone: Complete a Case Study · Introduction to Data Analysis Using Python · Share Data Through the Art of Visualization · Analyze Data to Answer Questions · Prepare Data for Exploration · Ask Questions to Make Data-Driven Decisions · Foundations: Data, Data, Everywhere · Capstone: Applying Project Management in the Real World · Project Execution: Running the Project · Project Planning: Putting It All Together · Project Initiation: Starting a Successful Project · Foundations of Project Management · Regression Analysis: Simplify Complex Data Relationships · Google Advanced Data Analytics Capstone · The Nuts and Bolts of Machine Learning · The Power of Statistics · Go Beyond the Numbers: Translate Data into Insights · Foundations of Data Science · Troubleshooting and Debugging Techniques · Introduction to Git and GitHub · Using Python to Interact with the Operating System · Configuration Management and the Cloud · Crash Course on Python · Automating Real-World Tasks with Python · Automate Cybersecurity Tasks with Python · Tools of the Trade: Linux and SQL · Sound the Alarm: Detection and Response · Assets, Threats, and Vulnerabilities · Put It to Work: Prepare for Cybersecurity Jobs · Accelerate Your Job Search with AI · Foundations of Cybersecurity · Play It Safe: Manage Security Risks · Connect and Protect: Networks and Network Security
-- **Amazon** (2): Application Development · Generative AI in Software Development
-- **Great Learning** (3): Python Foundations · Ethics of AI · Introduction to AI Agents
 
 ---
 
@@ -337,6 +317,20 @@ Eleven deterministic doctrinal detectors behind a predictive orchestrator, exerc
 ---
 
 ## Writing & Publications
+
+### [The 25-Hour Build Was a Queue](https://www.fbritoferreira.com/blog/the-25-hour-build-was-a-queue)
+_11 Oct 2026_
+
+NOW TV's release pipeline took 25 hours and only about 30% of end-to-end runs passed, because nobody ran them. The problem was a queue for physical devices, not slow builds. Six months of measuring the wait and buying capacity where it was longest took a run to 1.5 hours and the pass rate past 95%.
+
+**Tags:** ci-cd, frontend-platform, streaming, testing, developer-experience, retrospective
+
+### [axe 'Needs Review' Is a To-Do List, Not a Verdict](https://www.fbritoferreira.com/blog/axe-needs-review-is-a-to-do-list-not-a-verdict)
+_27 Sept 2026_
+
+axe reported 1 violation and 107 nodes it would not judge on my own site. The 107 were not noise and not failures; they were unmeasured. What it took to measure them, what the one real miss looked like, and the CI rule I run now.
+
+**Tags:** accessibility, axe, frontend-platform, ci-cd, testing, web-performance
 
 ### [Owning the BFF: What a Frontend Team Learns Running a GraphQL Layer](https://www.fbritoferreira.com/blog/owning-the-bff-what-a-frontend-team-learns-running-a-graphql-layer)
 _19 Sept 2026_
