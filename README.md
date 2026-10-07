@@ -7,58 +7,58 @@
 
 ## Contact Information
 
-- <img src="https://cdn.fbritoferreira.com/assets/logos/contacts/email-256.webp" alt="email" width="30" /> [me@fbritoferreira.com](mailto:me@fbritoferreira.com)
-- [fbritoferreira.com](https://www.fbritoferreira.com)
-- <img src="https://cdn.fbritoferreira.com/assets/logos/contacts/github-256.webp" alt="github" width="30" /> [github.com/fbritoferreira](https://github.com/fbritoferreira)
-- <img src="https://cdn.fbritoferreira.com/assets/logos/contacts/linkedin-256.webp" alt="linkedin" width="30" /> [linkedin.com/in/fbritoferreira](https://linkedin.com/in/fbritoferreira)
+- me@fbritoferreira.com (mailto:me@fbritoferreira.com)
+- fbritoferreira.com (https://www.fbritoferreira.com)
+- github.com/fbritoferreira (https://github.com/fbritoferreira)
+- linkedin.com/in/fbritoferreira (https://linkedin.com/in/fbritoferreira)
 
 ---
 
 ## Availability & Languages
 
-- **Location:** Dubai Hills Estate, UAE
-- **Right to work:** UAE (Dubai, Abu Dhabi), Portugal, United States
-- **Remote:** Yes | **Relocation:** Yes | **Travel:** Yes
+- **Location:** Dubai Hills Estate, United Arab Emirates
+- **Right to work:** United Arab Emirates, Portugal, United States
+- **Remote:** Yes  |  **Relocation:** Yes  |  **Travel:** Yes
 - **Languages:** English, Portuguese, Spanish
 
 ---
 
 ## Skills
 
-**Platform Engineering**
+**Platform Engineering:**
 
-Design Systems _(3y)_ • Monorepo Tooling (pnpm, Turborepo) _(2y)_ • CI/CD (GitHub Actions, GitLab) _(11y)_ • Testing (Jest, Vitest, RTL, Playwright) _(8y)_ • Developer Experience & Tooling _(8y)_
+Design Systems _(3y)_, Monorepo Tooling (pnpm, Turborepo) _(2y)_, CI/CD (GitHub Actions, GitLab) _(11y)_, Testing (Jest, Vitest, RTL, Playwright) _(8y)_, Developer Experience & Tooling _(8y)_
 
-**Frontend**
+**Frontend:**
 
-React _(11y)_ • TypeScript _(8y)_ • JavaScript _(11y)_ • Next.js _(2y)_ • Tailwind CSS _(2y)_
+React _(11y)_, TypeScript _(8y)_, JavaScript _(11y)_, Next.js _(2y)_, Tailwind CSS _(2y)_
 
-**Performance & Quality**
+**Performance & Quality:**
 
-Web Vitals _(6y)_ • SEO Engineering _(1y)_ • Web Performance _(8y)_
+Web Vitals _(6y)_, SEO Engineering _(1y)_, Web Performance _(8y)_
 
-**Backend**
+**Backend:**
 
-Node.js _(11y)_ • GraphQL & BFF _(8y)_ • REST APIs _(11y)_ • PostgreSQL _(11y)_ • Redis _(8y)_
+Node.js _(11y)_, GraphQL & BFF _(8y)_, REST APIs _(11y)_, PostgreSQL _(11y)_, Redis _(8y)_
 
-**Cloud & DevOps**
+**Cloud & DevOps:**
 
-AWS _(11y)_ • Cloudflare (Pages, Workers) _(4y)_ • Docker _(11y)_ • Kubernetes _(11y)_
+AWS _(11y)_, Cloudflare (Pages, Workers) _(4y)_, Docker _(11y)_, Kubernetes _(11y)_
 
-**AI & ML**
+**AI & ML:**
 
-LLMs (GPT, Claude) _(3y)_ • OpenAI & Anthropic APIs _(3y)_ • Chatbot Development _(3y)_
+LLMs (GPT, Claude) _(3y)_, OpenAI & Anthropic APIs _(3y)_, Chatbot Development _(3y)_
 
-**Leadership**
+**Leadership:**
 
-Technical Leadership _(8y)_ • Team Building _(8y)_ • Mentoring _(3y)_
+Technical Leadership _(8y)_, Team Building _(8y)_, Mentoring _(3y)_
 
 
 ---
 
 ## Work Experience
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/property-finder-256.webp" alt="Property Finder" width="30" /> Senior Front-End Engineer
+### Senior Front-End Engineer
 _[Property Finder](https://www.propertyfinder.ae/) | Jul 2025 – Sep 2026_
 Location: Dubai, UAE
 
@@ -78,20 +78,13 @@ Growth Engineering team at Property Finder, the largest real estate marketplace 
 
 **Achievements:**
 
-- **Record Share of Voice**
-  SEO work took the company to record organic share of sessions and share of voice, pushing competitors further down the rankings.
-  _Metrics: 52% share of voice for rentals, 58% for sales — company records_
-- **UGC Feature Launch**
-  Led the User-Generated Content features (agent Q&A and property reviews) from early product discussions and technical design through implementation to production launch.
-- **CMS API Performance**
-  Restructured how CMS content gets fetched and served on SEO-critical pages: deduplicated upstream calls, Redis-backed cache.
-  _Metrics: Response time from 500ms to 5ms_
-- **Search Page Speed**
-  Fixed render-blocking resources, optimized images, and added progressive loading.
-  _Metrics: 33% reduction in search page load time_
+- **Record Share of Voice SEO work took the company to record organic share of sessions and share of voice, pushing competitors further down the rankings. _Metrics: 52% share of voice for rentals, 58% for sales — company records_
+- **UGC Feature Launch Led the User-Generated Content features (agent Q&A and property reviews) from early product discussions and technical design through implementation to production launch.
+- **CMS API Performance Restructured how CMS content gets fetched and served on SEO-critical pages: deduplicated upstream calls, Redis-backed cache. _Metrics: Response time from 500ms to 5ms_
+- **Search Page Speed Fixed render-blocking resources, optimized images, and added progressive loading. _Metrics: 33% reduction in search page load time_
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/roku-256.webp" alt="Roku" width="30" /> Senior Software Engineer
+### Senior Software Engineer
 _[Roku](https://www.roku.com/) | Feb 2023 – Jun 2025_
 Location: Manchester, UK
 
@@ -111,12 +104,8 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
 
 **Achievements:**
 
-- **AI Chatbot Implementation**
-  AI-powered support chat for a major entertainment streaming platform; results documented in the vendor's published case study.
-  _Metrics: 48% AI containment; chat share of contacts 30% to 43%, phone 70% to 57% (published case study)_
-- **Web Core Framework Development**
-  Built reusable tools and frameworks that improved engineering productivity across multiple teams.
-  _Metrics: 30% reduction in development time for new features_
+- **AI Chatbot Implementation AI-powered support chat for a major entertainment streaming platform; results documented in the vendor's published case study. _Metrics: 48% AI containment; chat share of contacts 30% to 43%, phone 70% to 57% (published case study)_
+- **Web Core Framework Development Built reusable tools and frameworks that improved engineering productivity across multiple teams. _Metrics: 30% reduction in development time for new features_
 
 **Projects:**
 
@@ -129,7 +118,7 @@ Front-end engineer on Roku's web platform. Built AI-powered customer support UI 
   - Chat share of support contacts rose from 30% to 43%
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/sky-256.webp" alt="Sky UK" width="30" /> Software Engineer (SD1 to SD3)
+### Software Engineer (SD1 to SD3)
 _[Sky UK](https://www.sky.com/) | Sep 2018 – Feb 2023_
 Location: London, UK
 
@@ -149,15 +138,9 @@ Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock 
 
 **Achievements:**
 
-- **Apple TV Launch**
-  Delivered NOW TV on the Apple TV platform ahead of schedule.
-  _Metrics: Delivered ahead of schedule_
-- **European Consolidation Project**
-  Reduced 12 separate territory apps to 2 unified applications.
-  _Metrics: 83% reduction in codebases, 60% faster feature deployment_
-- **GraphQL Middleware**
-  Co-founded the GraphQL BFF layer as a two-engineer innovation project; built it to 99.9% availability and grew it into a dedicated team of full-time engineers, a manager, and a technical business analyst.
-  _Metrics: 99.9% uptime, 50% reduction in API response times_
+- **Apple TV Launch Delivered NOW TV on the Apple TV platform ahead of schedule. _Metrics: Delivered ahead of schedule_
+- **European Consolidation Project Reduced 12 separate territory apps to 2 unified applications. _Metrics: 83% reduction in codebases, 60% faster feature deployment_
+- **GraphQL Middleware Co-founded the GraphQL BFF layer as a two-engineer innovation project; built it to 99.9% availability and grew it into a dedicated team of full-time engineers, a manager, and a technical business analyst. _Metrics: 99.9% uptime, 50% reduction in API response times_
 
 **Projects:**
 
@@ -177,7 +160,7 @@ Front-end engineer across five streaming products (Sky GO, NOW TV, NOW, Peacock 
   - Reduced maintenance overhead by 70%
 
 
-### <img src="https://cdn.fbritoferreira.com/assets/logos/scl-elections-256.webp" alt="SCL Group (Data & Analytics Agency)" width="30" /> Junior Front-End Engineer
+### Junior Front-End Engineer
 _[SCL Group (Data & Analytics Agency)](https://web.archive.org/web/20180324023135/https://sclgroup.cc/home) | Jun 2015 – May 2018_
 Location: London, UK
 
@@ -195,12 +178,8 @@ Joined as a software apprentice and was promoted to junior front-end engineer. B
 
 **Achievements:**
 
-- **Pangea Data Platform**
-  Built a data-matching platform handling millions of records a day.
-  _Metrics: Processing 10M+ records daily with sub-second response times_
-- **Infrastructure Automation**
-  Implemented Kubernetes-based infrastructure for FE delivery.
-  _Metrics: 80% reduction in deployment time, 99.9% uptime_
+- **Pangea Data Platform Built a data-matching platform handling millions of records a day. _Metrics: Processing 10M+ records daily with sub-second response times_
+- **Infrastructure Automation Implemented Kubernetes-based infrastructure for FE delivery. _Metrics: 80% reduction in deployment time, 99.9% uptime_
 
 **Projects:**
 
@@ -224,20 +203,24 @@ Joined as a software apprentice and was promoted to junior front-end engineer. B
 ## Education
 
 ### Post Graduate Program in AI & Machine Learning
-_[University of Texas at Austin, McCombs School of Business](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course), Austin, Texas, United States 2025 – 2026_
+_[University of Texas at Austin, McCombs School of Business](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course) · 2025 – 2026_
 
 **Field:** AI & Machine Learning: Business Applications
 
 **GPA:** 4.09/4.33
+
+**Location:** Austin, Texas, United States
 
 **Relevant Coursework:** Machine Learning • Natural Language Processing • Generative AI • AI Agents
 
 [Verify](https://la.utexas.edu/texasexeced/digitalVerification.html?key=lprnhazl) • [Certificate](https://cdn.fbritoferreira.com/courses/lprnhazl.jpg) • [Grade sheet](https://cdn.fbritoferreira.com/courses/WXSHLOPA.pdf) • [LinkedIn](https://www.linkedin.com/school/the-red-mccombs-school-of-business/)
 
 ### BTEC Level 3 Extended Diploma in IT
-_[West Thames College](https://www.wlc.ac.uk), London, United Kingdom 2013 – 2015_
+_[West Thames College](https://www.wlc.ac.uk) · 2013 – 2015_
 
 **Field:** Information Technology
+
+**Location:** London, United Kingdom
 
 
 ---
